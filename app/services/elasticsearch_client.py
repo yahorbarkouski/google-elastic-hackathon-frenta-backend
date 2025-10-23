@@ -27,7 +27,18 @@ class ElasticsearchClient:
         if self._client is None or self._loop_id != current_loop_id:
             if self._client is not None:
                 logger.debug("Creating new ES client for new event loop")
-            self._client = AsyncElasticsearch(settings.elasticsearch_url)
+            
+            es_config = {"hosts": [settings.elasticsearch_url]}
+            
+            if settings.environment == "production":
+                if not settings.elasticsearch_api_key:
+                    raise ValueError("Elasticsearch API key required in production")
+                es_config["api_key"] = settings.elasticsearch_api_key
+                logger.info("Using authenticated Elasticsearch connection (API key)")
+            else:
+                logger.info("Using local Elasticsearch connection (no auth)")
+            
+            self._client = AsyncElasticsearch(**es_config)
             self._loop_id = current_loop_id
         
         return self._client
