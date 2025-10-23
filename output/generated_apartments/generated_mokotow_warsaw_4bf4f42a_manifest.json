@@ -1,0 +1,93 @@
+{
+  "apartment_id": "generated_mokotow_warsaw_4bf4f42a",
+  "description": "Discover this exceptional 85m\u00b2 3-bedroom family apartment, embodying a Bright & Inviting Contemporary aesthetic in the heart of residential Mokot\u00f3w, Warsaw. Flooded with natural light, this bright and airy residence boasts a desirable southwest-facing balcony, seamlessly accessible from the spacious living room \u2013 ideal for family dining and entertaining. The functional kitchen features elegant white cabinetry, warm wood countertops, and a full suite of integrated, full-size appliances, including a dishwasher, all designed for modern living. Each of the three comfortable bedrooms offers ample storage solutions with integrated built-in wardrobes, ensuring an uncluttered, serene environment. The apartment includes two well-appointed bathrooms: a main bathroom with a relaxing bathtub and a second with a convenient shower. Original and meticulously maintained oak parquet flooring extends throughout all main living areas and bedrooms, complementing the clean, uncluttered wall surfaces and modern, minimalist door frames. Large windows and balcony doors maximize natural light and offer picturesque views. The building provides an elevator, secure underground parking, a children's playground, and a tranquil green courtyard. Located moments from international schools, Morskie Oko metro station, expansive parks, and vibrant shopping centers, this home offers unparalleled family-friendly convenience.",
+  "style_plan": {
+    "aesthetic": "Bright & Inviting Contemporary",
+    "color_palette": {
+      "walls": "Crisp white (e.g., Farrow & Ball 'All White' or similar clean, bright white)",
+      "floors": "Consistent light to medium oak parquet throughout",
+      "furniture": "Neutral tones (light grey, cream, off-white) for upholstered pieces, combined with natural light wood (oak, birch) for tables and storage",
+      "accents": "Soft greens (live, healthy plants), muted blues or teals, and natural textures (linen, wool, ceramic, light wood)"
+    },
+    "lighting": {
+      "type": "Abundant soft natural light, maximized through sheer, light-filtering curtains or blinds",
+      "time_of_day": "Mid-morning to early afternoon (10 AM - 2 PM) for interiors to ensure consistent, bright, and even illumination",
+      "artificial": "Warm LED recessed lighting (3000K-3500K), minimalist pendant lights, and floor/table lamps with soft, diffused light to create an inviting ambiance"
+    },
+    "materials": {
+      "kitchen": "White flat-panel cabinets, light wood countertops (e.g., light oak or birch), stainless steel appliances, white subway tile backsplash (matte finish)",
+      "bathroom": "Large-format white ceramic wall tiles, light grey non-slip floor tiles, chrome fixtures, frameless glass shower enclosure (in second bathroom), white porcelain bathtub (in main bathroom)",
+      "living_dining": "Oak parquet flooring, painted white walls, linen or cotton blend sofas, light wooden dining table (oak or birch) with simple chairs, subtle metal (brushed chrome or matte black) and glass accents"
+    },
+    "architectural_details": [
+      "Original and well-maintained oak parquet flooring throughout all main living areas and bedrooms",
+      "Large windows and balcony doors designed to maximize natural light and views",
+      "Clean, uncluttered wall surfaces with minimal ornamentation",
+      "Functional and integrated storage solutions (e.g., built-in wardrobes)",
+      "Modern, minimalist door frames and baseboards"
+    ],
+    "photography_style": "Clean, bright, and inviting architectural photography. Utilize wide-angle lenses (16-24mm full-frame equivalent) to convey spaciousness, ensuring all vertical and horizontal lines are perfectly straight. Prioritize natural light, using minimal flash or supplemental lighting only to balance shadows. Focus on the flow between rooms, functionality of spaces, and key features. Include some intimate detail shots (e.g., parquet texture, kitchen countertop, balcony view). Aperture f/8-f/11 for optimal sharpness throughout the scene.",
+    "exterior_conditions": "Clear to partly cloudy day. Late afternoon (golden hour) for balcony and courtyard views to emphasize warmth and the southwest exposure. Mid-morning for building facade and children's playground to ensure even lighting without harsh shadows and to highlight architectural details."
+  },
+  "num_images": 8,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:27:42.916130+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a spacious living room, showcasing a Bright & Inviting Contemporary aesthetic. Abundant soft natural light streams through large windows and balcony doors, filtered by sheer, light-filtering curtains, creating a bright and even illumination typical of mid-morning to early afternoon. Walls are crisp white (Farrow & Ball 'All White' style), complemented by consistent light to medium oak parquet flooring throughout. A comfortable light grey linen blend sofa and two cream armchairs are arranged around a natural light oak coffee table. Accents include a subtle muted blue throw blanket and a live green plant in a ceramic pot, adding natural textures. Warm LED recessed lighting (3000K-3500K) provides a subtle, inviting ambiance. The view extends towards the dining area and the southwest-facing balcony, highlighting the flow of the space. Clean, uncluttered wall surfaces with modern, minimalist baseboards are visible. All vertical and horizontal lines are perfectly straight, conveying spaciousness and functionality. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle, aperture f/9"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph capturing the seamless flow from the living room into the dining area and towards the balcony access, embodying a Bright & Inviting Contemporary aesthetic. Abundant soft natural light floods the space from large balcony doors, diffused by sheer, light-filtering curtains, ensuring consistent, bright, and even illumination during mid-morning to early afternoon. Crisp white walls and consistent light to medium oak parquet flooring extend throughout. A natural light oak dining table with simple, modern light wood chairs is centrally placed. A minimalist pendant light with soft, diffused light hangs above the table, accompanied by warm LED recessed lighting (3000K-3500K). A small live green plant on the table provides a soft green accent. Subtle brushed chrome accents are integrated. The southwest-facing balcony is visible beyond, maximizing natural light and views. Functional and integrated storage solutions are subtly hinted at. All vertical and horizontal lines are perfectly straight, showcasing the apartment's design and functionality. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_1.png",
+      "type": "living_room",
+      "camera": "20mm wide-angle, aperture f/9"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of a functional kitchen, designed with a Bright & Inviting Contemporary aesthetic. Abundant soft natural light enters from a window, filtered by a sheer blind, providing bright and even illumination during mid-morning to early afternoon. Crisp white walls and consistent light to medium oak parquet flooring are visible in the foreground. The kitchen features white flat-panel cabinets, light oak countertops, and a white matte subway tile backsplash. Integrated stainless steel appliances, including a full-size dishwasher, are prominent. Warm LED recessed lighting (3000K-3500K) provides an inviting ambiance. A small live green plant on the counter adds a soft green accent and natural texture. All vertical and horizontal lines are perfectly straight, highlighting the clean design and functionality. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_2.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle, aperture f/10"
+    },
+    {
+      "index": 3,
+      "prompt": "An intimate detail architectural photograph of the kitchen countertop area, emphasizing a Bright & Inviting Contemporary aesthetic and material quality. The focus is on the light oak countertop, the textured white matte subway tile backsplash, and a modern chrome faucet. Abundant soft natural light illuminates the scene, ensuring optimal clarity and detail. Crisp white flat-panel cabinets are visible in the background. A ceramic bowl with fresh fruits and a small live green plant add natural textures and soft accents. Warm LED recessed lighting (3000K-3500K) subtly highlights the surfaces. All lines are perfectly straight, showcasing the precision of the design. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_3.png",
+      "type": "kitchen",
+      "camera": "24mm, aperture f/8"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the master bedroom, embodying a Bright & Inviting Contemporary aesthetic. Abundant soft natural light streams through a large window, filtered by sheer, light-filtering curtains, ensuring bright and even illumination during mid-morning to early afternoon. Crisp white walls and consistent light to medium oak parquet flooring create a serene atmosphere. The bed is dressed in neutral tones (off-white linen bedding) with a muted blue throw for a soft accent. A natural light wood bedside table features a minimalist table lamp providing soft, diffused artificial light. Functional built-in wardrobes with white flat-panel doors are visible, offering ample integrated storage. A small live green plant on the bedside table adds a natural touch. Modern, minimalist door frames and baseboards are present. All vertical and horizontal lines are perfectly straight. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_4.png",
+      "type": "bedroom",
+      "camera": "20mm wide-angle, aperture f/9"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the main bathroom, designed with a Bright & Inviting Contemporary aesthetic. Abundant soft natural light from a frosted window is supplemented by warm LED recessed lighting (3000K-3500K), ensuring consistent and inviting illumination. Large-format white ceramic wall tiles extend from floor to ceiling, paired with light grey non-slip floor tiles. A clean white porcelain bathtub with modern chrome fixtures is the focal point. A simple white vanity with a modern basin and chrome faucet is topped by a large frameless mirror. Surfaces are clean and uncluttered. All vertical and horizontal lines are perfectly straight, highlighting the modern, minimalist design. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_5.png",
+      "type": "bathroom",
+      "camera": "20mm wide-angle, aperture f/10"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional architectural photograph of the southwest-facing balcony, captured during late afternoon golden hour to emphasize warmth and an inviting ambiance. The balcony features light grey non-slip tiles. A small natural light wood outdoor table and two simple chairs are arranged, with a live green plant in a ceramic pot providing a soft green accent. The warm, golden light casts soft, long shadows, highlighting the spaciousness and the inviting view over a lush green courtyard. The exterior of the apartment building is modern, with clean lines. All vertical and horizontal lines of the building and balcony are perfectly straight, conveying architectural integrity. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_6.png",
+      "type": "special_feature",
+      "camera": "18mm wide-angle, aperture f/11"
+    },
+    {
+      "index": 7,
+      "prompt": "A professional architectural photograph of the children's playground and green courtyard of the residential building, captured mid-morning on a clear to partly cloudy day to ensure even lighting without harsh shadows and to highlight architectural details. The playground features modern, colorful equipment (muted blues, greens, yellows) on a safe surface. Lush green landscaping and mature trees surround the area, creating a serene and family-friendly environment. The building facade, visible in the background, is clean, contemporary, and well-maintained. This shot emphasizes the excellent amenities and green surroundings. All vertical and horizontal lines of the building are perfectly straight. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_7.png",
+      "type": "exterior",
+      "camera": "20mm wide-angle, aperture f/11"
+    }
+  ]
+}

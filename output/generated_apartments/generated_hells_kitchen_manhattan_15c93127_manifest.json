@@ -1,0 +1,72 @@
+{
+  "apartment_id": "generated_hells_kitchen_manhattan_15c93127",
+  "description": "Discover unparalleled urban living in this meticulously designed, compact residence, perfectly situated in the vibrant heart of Hell's Kitchen. Embodying a sophisticated Modern Minimalist aesthetic with a touch of Scandinavian warmth, this apartment maximizes every square foot for ultimate functionality. The living space, kitchen, bedroom, and bathroom all feature a cohesive design, characterized by clean lines, minimal trim, and flush doors, fostering a serene and clutter-free environment. Large, unobstructed windows invite an abundance of natural light, enhancing the sense of space and offering dynamic city views. Throughout the home, ingenious built-in storage solutions, including integrated shelving and custom cabinetry, ensure a streamlined and organized lifestyle. The kitchen and bathroom boast sleek, handle-less cabinetry, reinforcing the seamless, contemporary look. High ceilings further amplify the airy atmosphere, making this a true sanctuary amidst the bustling city. The building's exterior reflects the same modern minimalist ethos, promising a stylish and efficient urban dwelling.",
+  "style_plan": {
+    "aesthetic": "Modern Minimalist with Scandinavian warmth and urban functionality",
+    "color_palette": {
+      "walls": "Crisp White (e.g., Benjamin Moore 'Chantilly Lace'), with one subtle light gray accent wall (e.g., Farrow & Ball 'Skimming Stone') in main living area to add depth.",
+      "floors": "Light-toned wide-plank engineered hardwood (e.g., European White Oak, matte finish) throughout to maximize brightness and perceived space.",
+      "furniture": "Neutrals (light gray, off-white, cream) for larger pieces, combined with natural light woods (birch, ash, light maple) for tables and shelving.",
+      "accents": "Muted sage green, dusty blue, and terracotta for textiles and ceramics; brushed brass and matte black for hardware and lighting fixtures; abundant living greenery for freshness."
+    },
+    "lighting": {
+      "type": "Abundant, soft, diffused natural light from large windows, creating a bright and airy atmosphere.",
+      "time_of_day": "Mid-morning to early afternoon (10 AM - 2 PM) to capture consistent, bright, indirect light without harsh shadows.",
+      "artificial": "Warm LED recessed lighting (2700K-3000K) for general illumination, supplemented by minimalist sconces or pendants with ambient glow (e.g., frosted glass or linen shades) for accent."
+    },
+    "materials": {
+      "kitchen": "White matte cabinetry with integrated handles, light gray quartz countertops, white subway tile backsplash (stacked bond pattern), stainless steel appliances, light wood open shelving accents.",
+      "bathroom": "Large format light gray porcelain tiles (floor and shower walls), white wall-mounted vanity with integrated sink, frameless glass shower enclosure, matte black fixtures.",
+      "living": "Linen and cotton upholstery, wool rugs, light wood furniture (birch, ash), ceramic decorative objects, brushed brass accents for a touch of elegance."
+    },
+    "architectural_details": [
+      "Large, unobstructed windows to maximize natural light and views (if applicable).",
+      "Built-in storage solutions (integrated shelving, custom cabinetry) to enhance functionality and maintain a clutter-free environment.",
+      "Clean lines with minimal trim and flush doors to reinforce the minimalist aesthetic.",
+      "High ceilings (if applicable) or visually extended ceilings through light paint colors and vertical elements.",
+      "Sleek, handle-less cabinetry throughout the kitchen and bathroom for a seamless look."
+    ],
+    "photography_style": "Bright and airy architectural photography, utilizing a wide-angle lens (16-24mm equivalent on full-frame) with minimal distortion correction. Shots should be tripod-mounted, level, and composed with a focus on clean lines, open space, and natural light. Aperture set to f/8-f/11 for maximum depth of field and sharpness. Minimal use of flash, prioritizing ambient light.",
+    "exterior_conditions": "Clear day, late afternoon (golden hour) for a warm, inviting glow on the facade and surrounding elements, or a bright overcast day for soft, even light, ensuring no harsh shadows from neighboring buildings or trees."
+  },
+  "num_images": 5,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T10:35:31.384365+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a compact urban residence in Washington, embodying a Modern Minimalist aesthetic with Scandinavian warmth and urban functionality. The living room features crisp white walls (Benjamin Moore 'Chantilly Lace') with one subtle light gray accent wall (Farrow & Ball 'Skimming Stone'), and light-toned wide-plank engineered hardwood floors (European White Oak, matte finish). Furniture includes a light gray linen sofa and a birch coffee table, complemented by an off-white wool rug. Accents are muted sage green and dusty blue throw pillows, a brushed brass floor lamp, and terracotta ceramic decorative objects. Abundant living greenery (e.g., a tall fiddle leaf fig) adds freshness. Abundant, soft, diffused natural light streams from large, unobstructed windows, captured during mid-morning (10 AM), with warm LED recessed lighting (2700K-3000K) subtly on. Architectural details include large windows offering a hint of an urban view, built-in light wood shelving, and clean lines with flush doors. Shot with a tripod-mounted, level 16mm wide-angle lens (full-frame equivalent) at f/9 aperture, ISO 100, ensuring maximum depth of field, sharp focus, and high resolution. Composition emphasizes open space and clean lines, creating a bright and airy atmosphere.",
+      "file_path": "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph of a compact urban residence in Washington, embodying a Modern Minimalist aesthetic with Scandinavian warmth and urban functionality. The kitchen showcases crisp white walls (Benjamin Moore 'Chantilly Lace') and light-toned wide-plank engineered hardwood floors (European White Oak, matte finish). It features white matte cabinetry with integrated handles, light gray quartz countertops, and a white subway tile backsplash (stacked bond pattern). Stainless steel appliances are seamlessly integrated, with light wood open shelving accents (birch/ash) displaying minimalist ceramics. A matte black faucet and brushed brass pendant lights over a compact island/peninsula provide accents. Living greenery in a terracotta pot adds a touch of nature. Abundant, soft, diffused natural light from a large window illuminates the space during early afternoon (1 PM), with warm LED recessed lighting (2700K-3000K) on. Architectural details include sleek, handle-less cabinetry and clean lines. Shot with a tripod-mounted, level 20mm wide-angle lens (full-frame equivalent) at f/10 aperture, ISO 100, ensuring maximum depth of field, sharp focus, and high resolution. Composition highlights the clean lines and material interplay, creating a bright and airy atmosphere.",
+      "file_path": "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_1.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of a compact urban residence in Washington, embodying a Modern Minimalist aesthetic with Scandinavian warmth and urban functionality. The bedroom features crisp white walls (Benjamin Moore 'Chantilly Lace') and light-toned wide-plank engineered hardwood floors (European White Oak, matte finish). Furniture includes an off-white upholstered bed frame and light wood (ash) bedside tables, dressed with minimalist light gray linen bedding and a muted sage green throw blanket. Brushed brass wall sconces flank the bed, and a small living plant sits on a bedside table. Abundant, soft, diffused natural light streams from a large window during mid-morning (11 AM), with warm LED recessed lighting (2700K-3000K) subtly on. Architectural details include a large window and built-in light wood wardrobe with flush doors, reinforcing clean lines. Shot with a tripod-mounted, level 24mm wide-angle lens (full-frame equivalent) at f/8 aperture, ISO 100, ensuring maximum depth of field, sharp focus, and high resolution. Composition emphasizes serenity, natural light, and open space, creating a bright and airy atmosphere.",
+      "file_path": "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_2.png",
+      "type": "bedroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph of a compact urban residence in Washington, embodying a Modern Minimalist aesthetic with Scandinavian warmth and urban functionality. The bathroom features large format light gray porcelain tiles on both floor and shower walls, complemented by crisp white walls (Benjamin Moore 'Chantilly Lace'). A white wall-mounted vanity with an integrated sink and a frameless glass shower enclosure are key elements. Matte black fixtures (faucet, showerhead, towel bar) provide a modern contrast. A small living plant adds a touch of freshness. Abundant, soft, diffused natural light enters from a frosted window or skylight during early afternoon (2 PM), with warm LED recessed lighting (2700K-3000K) and minimalist sconces with ambient glow (frosted glass) on. Architectural details include clean lines and a handle-less vanity. Shot with a tripod-mounted, level 18mm wide-angle lens (full-frame equivalent) at f/11 aperture, ISO 100, ensuring maximum depth of field, sharp focus, and high resolution. Composition focuses on the sleek, functional design and bright, airy feel.",
+      "file_path": "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_3.png",
+      "type": "bathroom",
+      "camera": "18mm wide-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the exterior of a compact, modern minimalist urban residence in the center of Washington, embodying Scandinavian warmth and urban functionality. The building features clean lines, large windows, and contemporary facade materials such as light gray stucco with natural wood accents, or light-colored brick. The photograph is captured on a clear day during late afternoon (golden hour), ensuring a warm, inviting glow on the facade and surrounding elements. Architectural details highlight the building's efficient design and integration into its urban context. Shot with a tripod-mounted, level 24mm wide-angle lens (full-frame equivalent) at f/10 aperture, ISO 100, ensuring maximum depth of field, sharp focus, and high resolution. Composition showcases the building's aesthetic and its presence within the Washington urban environment, with a warm, inviting glow.",
+      "file_path": "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_4.png",
+      "type": "building_exterior",
+      "camera": "24mm wide-angle"
+    }
+  ]
+}

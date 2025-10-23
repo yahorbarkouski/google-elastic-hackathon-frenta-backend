@@ -1,0 +1,81 @@
+{
+  "apartment_id": "generated_west_village_manhattan_6ee18adc",
+  "description": "Nestled on a picturesque cobblestone stretch of the West Village, moments from Bleecker and W 11th Street, this exceptional one-bedroom residence redefines urban luxury. A masterful blend of pre-war charm and daring industrial design, the apartment boasts soaring ceiling heights (approximately 12-14 feet), creating an unparalleled sense of grandeur. Original exposed red brick walls, imbued with natural patina, frame oversized industrial-style multi-pane windows that flood the space with natural light and offer captivating views. The dramatic centerpiece is a custom-fabricated blackened steel and fluted glass mezzanine, providing a unique architectural focal point. Beyond its striking aesthetics, discover a concealed bespoke speakeasy bar, meticulously crafted with dark wood paneling, brass accents, and custom shelving, perfect for intimate gatherings. Intelligent biophilic design elements are seamlessly integrated, fostering a sophisticated yet serene environment. Ascend to your private rooftop terrace, a true oasis featuring cedar decking, integrated custom planters, and breathtaking panoramic skyline views. This sanctuary is an exquisite offering for the discerning urban aesthete seeking a sophisticated home with unparalleled character and modern amenities.",
+  "style_plan": {
+    "aesthetic": "Sophisticated Urban Industrial with Biophilic Warmth and Pre-War Character",
+    "color_palette": {
+      "walls": "Original exposed red brick with natural patina; Crisp Off-White (e.g., Benjamin Moore 'Simply White') for other walls, providing a clean contrast.",
+      "floors": "Wide-plank, warm-toned European Oak hardwood with a matte, natural oil finish throughout.",
+      "furniture": "A curated mix of rich walnut, blackened steel, aged brass, deep-toned leathers (e.g., cognac, charcoal), and textured linen in muted earth tones.",
+      "accents": "Deep forest green, muted terracotta, aged copper, and lush, varied greenery (e.g., Fiddle Leaf Fig, Monstera Deliciosa, Birds of Paradise) for biophilic elements."
+    },
+    "lighting": {
+      "type": "Predominantly soft, diffused natural light from large windows, supplemented by strategic warm artificial lighting.",
+      "time_of_day": "Late afternoon (3-5 PM) to capture a warm, inviting glow, highlight textures, and allow for subtle golden hour effects.",
+      "artificial": "Warm (2700K) recessed LED lighting, industrial-chic fixtures in blackened steel and aged brass, subtle uplighting for architectural features, and dimmable, intimate lighting for the speakeasy bar."
+    },
+    "materials": {
+      "kitchen": "Honed black granite or dark quartz countertops, matte black or integrated stainless steel appliances, handmade zellige tile backsplash in a deep, earthy tone (e.g., forest green or charcoal), and custom cabinetry in dark wood or blackened steel.",
+      "bathroom": "Large format concrete-effect porcelain tiles for floors and walls, fluted glass shower screens, matte black fixtures, and a custom floating walnut vanity with a stone basin.",
+      "living": "Rich walnut wood for built-ins and furniture, blackened steel for structural elements and shelving, aged brass accents, full-grain cognac leather for seating, charcoal linen for textiles, velvet in deep jewel tones (e.g., emerald, sapphire), and natural stone (e.g., travertine or slate) for side tables."
+    },
+    "architectural_details": [
+      "Original exposed red brick walls with natural patina and historic character",
+      "Soaring ceiling heights (approx. 12-14 feet) creating a sense of grandeur",
+      "Custom-fabricated blackened steel and fluted glass mezzanine, acting as a dramatic focal point",
+      "Oversized industrial-style multi-pane windows, maximizing natural light and views",
+      "Concealed bespoke speakeasy bar, featuring dark wood paneling, brass accents, and custom shelving",
+      "Private rooftop terrace with cedar decking, integrated custom planters, and panoramic skyline views",
+      "Original pre-war architectural details subtly integrated with modern design"
+    ],
+    "photography_style": "High-resolution architectural photography with a strong emphasis on natural light, compositional balance, and textural detail. Utilize wide-angle lenses (e.g., 16-24mm full-frame equivalent) for expansive views of the main living areas and mezzanine, complemented by medium telephoto (e.g., 50-85mm) for intimate details, vignettes, and the speakeasy. Emphasize clean lines, dramatic angles (especially for the mezzanine and high ceilings), and the interplay of materials. Aperture f/8-f/11 for optimal sharpness and depth of field. Subtle use of bracketing for dynamic range. Include a few lifestyle-suggestive shots (e.g., a curated book collection, a cocktail on the speakeasy bar, a plant arrangement) without people, to evoke the sophisticated sanctuary mood.",
+    "exterior_conditions": "Clear, bright sky with soft, directional sunlight (late afternoon golden hour, 4-6 PM) to highlight the cobblestone street and West Village charm, enhance architectural textures, and capture breathtaking city views from the rooftop, minimizing harsh shadows and glare."
+  },
+  "num_images": 6,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-22T13:37:18.129190+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional high-resolution architectural photograph of the main living space, captured with a 16mm wide-angle lens. The scene emphasizes the soaring ceiling heights (approx. 12-14 feet) and the original exposed red brick walls with natural patina, contrasted by crisp off-white painted walls. Wide-plank, warm-toned European Oak hardwood floors with a matte, natural oil finish extend throughout. The custom-fabricated blackened steel and fluted glass mezzanine acts as a dramatic focal point. Oversized industrial-style multi-pane windows let in soft, diffused natural light, characteristic of late afternoon (3-5 PM). Furniture includes a full-grain cognac leather sofa, a rich walnut coffee table, and blackened steel shelving with aged brass accents. Deep forest green velvet throw pillows and a lush Fiddle Leaf Fig plant add biophilic warmth. Warm (2700K) recessed LED lighting is subtly active, highlighting architectural features. Aperture f/8-f/11 for optimal sharpness and depth of field, with compositional balance and textural detail emphasized.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_6ee18adc_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional high-resolution architectural photograph of a sophisticated living room vignette, captured with a 50mm medium telephoto lens. The shot focuses on rich walnut built-in shelving displaying a curated book collection and aged copper accents. Adjacent to it, a charcoal linen armchair with a muted terracotta throw. A large Monstera Deliciosa plant in a natural stone (travertine) planter adds a biophilic element. Subtle warm artificial lighting from an industrial-chic fixture in blackened steel and aged brass provides intimacy. The original exposed red brick wall with natural patina serves as a textured backdrop, softly illuminated by late afternoon natural light (3-5 PM) from an oversized window. Wide-plank, warm-toned European Oak hardwood floors are visible. Aperture f/8-f/11 for sharp focus and shallow depth of field, emphasizing textural interplay and a lifestyle-suggestive mood without people.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_6ee18adc_1.png",
+      "type": "living_room",
+      "camera": "50mm medium telephoto"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional high-resolution architectural photograph of the kitchen, captured with a 20mm wide-angle lens. The kitchen features honed black granite countertops, custom cabinetry in dark wood and blackened steel, and matte black integrated stainless steel appliances. A handmade zellige tile backsplash in a deep forest green provides a rich textural element. Wide-plank, warm-toned European Oak hardwood floors extend into the space. Soft, diffused natural light from an oversized industrial-style multi-pane window (late afternoon, 3-5 PM) is supplemented by warm (2700K) recessed LED lighting. A portion of the original exposed red brick wall with natural patina is visible. A subtle arrangement of fresh herbs in an aged copper pot sits on the counter. Aperture f/8-f/11 for sharp focus, clean lines, and compositional balance, highlighting the interplay of materials.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_6ee18adc_2.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional high-resolution architectural photograph of the bathroom, captured with a 24mm wide-angle lens. The space features large format concrete-effect porcelain tiles on both floors and walls. A custom floating walnut vanity with a stone basin is the focal point, complemented by matte black fixtures, including a shower head and faucet. A fluted glass shower screen adds a touch of industrial sophistication. Soft, diffused natural light filters into the space, enhanced by warm (2700K) recessed LED lighting. A small, lush green plant (e.g., fern) on the vanity adds a biophilic touch. Aperture f/8-f/11 for sharp focus and clean lines, emphasizing the textural contrast between the concrete-effect tiles and the warm walnut.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_6ee18adc_3.png",
+      "type": "bathroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A dramatic professional high-resolution architectural photograph, captured with a 24mm wide-angle lens angled upwards, showcasing the custom-fabricated blackened steel and fluted glass mezzanine as a dramatic focal point. The soaring ceiling heights (approx. 12-14 feet) are emphasized. Below, a glimpse of the concealed bespoke speakeasy bar is revealed, featuring dark wood paneling, brass accents, and custom shelving with dimmable, intimate lighting. A curated cocktail on the speakeasy bar suggests a sophisticated atmosphere. Original exposed red brick walls with natural patina and wide-plank, warm-toned European Oak hardwood floors are visible. Soft, diffused natural light from oversized industrial-style multi-pane windows (late afternoon, 3-5 PM) illuminates the scene, with strategic warm (2700K) artificial lighting highlighting the architectural features. Aperture f/8-f/11 for optimal sharpness and depth of field, utilizing dramatic angles to convey grandeur and the 'hidden gem' aspect.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_6ee18adc_4.png",
+      "type": "special_feature",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A breathtaking professional high-resolution architectural photograph of the private rooftop terrace, captured with a 16mm wide-angle lens during late afternoon golden hour (4-6 PM). The terrace features cedar decking, integrated custom planters with lush, varied greenery (Birds of Paradise, Fiddle Leaf Fig), and panoramic skyline views of the West Village and Manhattan. A clear, bright sky with soft, directional sunlight enhances the architectural textures of the surrounding buildings and minimizes harsh shadows and glare. The cobblestone street and West Village charm are subtly visible below, contributing to the historic context. An aged copper planter adds a subtle accent. Aperture f/8-f/11 for optimal sharpness across the expansive view, emphasizing the interplay of natural light and the urban landscape, capturing the sophisticated sanctuary mood.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_6ee18adc_5.png",
+      "type": "exterior",
+      "camera": "16mm wide-angle"
+    }
+  ]
+}

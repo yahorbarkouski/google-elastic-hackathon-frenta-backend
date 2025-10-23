@@ -1,0 +1,504 @@
+{
+  "version": "1.0",
+  "created_at": "2025-10-22T13:04:31.803705",
+  "apartments": [
+    {
+      "apartment_id": "soho_penthouse",
+      "description": "Luxury penthouse loft in SoHo with floor-to-ceiling windows, marble kitchen, and rooftop terrace",
+      "style_aesthetic": "Refined Industrial Chic with Modern Luxury",
+      "num_images": 2,
+      "generated_at": "2025-10-22T13:04:31.803334",
+      "manifest_path": "soho_penthouse_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/soho_penthouse_0.png",
+        "output/generated_apartments/soho_penthouse_1.png"
+      ]
+    },
+    {
+      "apartment_id": "brooklyn_brownstone",
+      "description": "Cozy Brooklyn brownstone with vintage charm, fireplace, and garden access",
+      "style_aesthetic": "Refined Eclectic with Vintage Charm and Contemporary Comfort",
+      "num_images": 2,
+      "generated_at": "2025-10-22T13:06:25.822161+00:00",
+      "manifest_path": "brooklyn_brownstone_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/brooklyn_brownstone_0.png",
+        "output/generated_apartments/brooklyn_brownstone_1.png"
+      ]
+    },
+    {
+      "apartment_id": "generated_west_village_manhattan_6ee18adc",
+      "description": "Nestled on a picturesque cobblestone stretch of the West Village, moments from Bleecker and W 11th Street, this exceptional one-bedroom residence redefines urban luxury. A masterful blend of pre-war charm and daring industrial design, the apartment boasts soaring ceiling heights (approximately 12-14 feet), creating an unparalleled sense of grandeur. Original exposed red brick walls, imbued with natural patina, frame oversized industrial-style multi-pane windows that flood the space with natural light and offer captivating views. The dramatic centerpiece is a custom-fabricated blackened steel and fluted glass mezzanine, providing a unique architectural focal point. Beyond its striking aesthetics, discover a concealed bespoke speakeasy bar, meticulously crafted with dark wood paneling, brass accents, and custom shelving, perfect for intimate gatherings. Intelligent biophilic design elements are seamlessly integrated, fostering a sophisticated yet serene environment. Ascend to your private rooftop terrace, a true oasis featuring cedar decking, integrated custom planters, and breathtaking panoramic skyline views. This sanctuary is an exquisite offering for the discerning urban aesthete seeking a sophisticated home with unparalleled character and modern amenities.",
+      "style_aesthetic": "Sophisticated Urban Industrial with Biophilic Warmth and Pre-War Character",
+      "num_images": 6,
+      "generated_at": "2025-10-22T13:37:18.129190+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-22T13:37:54.422209+00:00",
+      "manifest_path": "generated_west_village_manhattan_6ee18adc_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_west_village_manhattan_6ee18adc_0.png",
+        "output/generated_apartments/generated_west_village_manhattan_6ee18adc_1.png",
+        "output/generated_apartments/generated_west_village_manhattan_6ee18adc_2.png",
+        "output/generated_apartments/generated_west_village_manhattan_6ee18adc_3.png",
+        "output/generated_apartments/generated_west_village_manhattan_6ee18adc_4.png",
+        "output/generated_apartments/generated_west_village_manhattan_6ee18adc_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "West Village Industrial Loft: Private Rooftop, Speakeasy & Mezzanine",
+        "address": "125 W 11th Street, New York, NY 10011",
+        "rent_price": 12500,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_hudson_yards_manhattan_50bff15f",
+      "description": "Nestled in the vibrant heart of Manhattan's coveted New Hudson Yards development, this exceptional residence offers the ultimate in luxury urban living. Experience unparalleled tranquility within your private sanctuary, mere steps from the city's dynamic energy. This meticulously designed apartment embodies a Contemporary Urban Chic aesthetic, seamlessly integrating refined industrial accents throughout. Enjoy breathtaking city views through expansive floor-to-ceiling windows, framed in sleek black, bathing the spacious interiors in natural light. Soaring 10-foot ceilings enhance the sense of grandeur, while integrated smart home technology panels provide effortless control over your environment. The minimalist elegance is further defined by clean-line baseboards, flush doors, and a striking polished concrete accent wall that grounds the sophisticated industrial motif. The sleek, minimalist full kitchen is a culinary dream, featuring high-end appliances. Retreat to a serene, king-sized bedroom and enjoy the convenience of an in-unit washer and dryer. Residents benefit from an exclusive state-of-the-art fitness center within the building, completing this unparalleled living experience. This apartment perfectly balances urban excitement with a peaceful, luxurious escape above the city's pulse.",
+      "style_aesthetic": "Contemporary Urban Chic with Refined Industrial Accents",
+      "num_images": 5,
+      "generated_at": "2025-10-22T14:25:24.395775+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-22T14:38:05.311313+00:00",
+      "manifest_path": "generated_hudson_yards_manhattan_50bff15f_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_0.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_1.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_2.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_3.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_4.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Hudson Yards Urban Chic Oasis: Smart Home, City Views, In-Unit W/D",
+        "address": "520 W 30th Street, New York, NY 10001",
+        "rent_price": 6200,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_west_village_manhattan_4c3d7bb7",
+      "description": "Tucked away on a quiet cobbled street in the heart of the West Village, this exquisite one-bedroom former carriage house presents a captivating blend of understated bohemian luxury and refined rustic charm. Original timber beams, prominently exposed, soar above the unique sunken living area, creating an immediate sense of grandeur and history. A sleek built-in ethanol fireplace adds a touch of modern comfort and warmth, perfect for cozy evenings. The true urban oasis awaits as a retractable glass wall seamlessly opens to a private, surprisingly spacious patio garden, inviting natural light and a serene outdoor experience into your home. The kitchen embodies refined rustic elegance with its muted palette, high-end appliances, and bespoke finishes, perfect for culinary endeavors. The tranquil bedroom offers a serene sanctuary, while the luxurious bathroom combines rustic elements with contemporary fixtures for a spa-like retreat. The preserved original cobbled street facade enhances the property's unique character and West Village allure, providing a discreet and charming entrance to this unparalleled urban sanctuary.",
+      "style_aesthetic": "Understated Bohemian Luxury with Refined Rustic Charm",
+      "num_images": 6,
+      "generated_at": "2025-10-22T18:35:08.806842+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-22T18:37:23.713678+00:00",
+      "manifest_path": "generated_west_village_manhattan_4c3d7bb7_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_0.png",
+        "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_1.png",
+        "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_2.png",
+        "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_3.png",
+        "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_4.png",
+        "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "West Village Bohemian Oasis",
+        "address": "12 Charles Street, New York, NY 10014",
+        "rent_price": 7800,
+        "availability_dates": [
+          {
+            "start": "2024-09-01",
+            "end": "2025-08-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_hells_kitchen_manhattan_15c93127",
+      "description": "Discover unparalleled urban living in this meticulously designed, compact residence, perfectly situated in the vibrant heart of Hell's Kitchen. Embodying a sophisticated Modern Minimalist aesthetic with a touch of Scandinavian warmth, this apartment maximizes every square foot for ultimate functionality. The living space, kitchen, bedroom, and bathroom all feature a cohesive design, characterized by clean lines, minimal trim, and flush doors, fostering a serene and clutter-free environment. Large, unobstructed windows invite an abundance of natural light, enhancing the sense of space and offering dynamic city views. Throughout the home, ingenious built-in storage solutions, including integrated shelving and custom cabinetry, ensure a streamlined and organized lifestyle. The kitchen and bathroom boast sleek, handle-less cabinetry, reinforcing the seamless, contemporary look. High ceilings further amplify the airy atmosphere, making this a true sanctuary amidst the bustling city. The building's exterior reflects the same modern minimalist ethos, promising a stylish and efficient urban dwelling.",
+      "style_aesthetic": "Modern Minimalist with Scandinavian warmth and urban functionality",
+      "num_images": 5,
+      "generated_at": "2025-10-23T10:35:31.384365+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T10:36:32.403218+00:00",
+      "manifest_path": "generated_hells_kitchen_manhattan_15c93127_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_0.png",
+        "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_1.png",
+        "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_2.png",
+        "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_3.png",
+        "output/generated_apartments/generated_hells_kitchen_manhattan_15c93127_4.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Hell's Kitchen Urban Minimalist",
+        "address": "405 W 53rd St, New York, NY 10019",
+        "rent_price": 3950,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_dumbo_brooklyn_443f2804",
+      "description": "Discover unparalleled urban sophistication in this exquisite 2-bedroom industrial-chic loft, perfectly situated in DUMBO, just moments from the serene Brooklyn Bridge Park. This residence redefines luxury with its soaring 14-foot ceilings and original exposed dark timber beams, a testament to its authentic industrial heritage. Massive arched windows, framed in slim black industrial steel, offer breathtaking, unobstructed views of the iconic Manhattan skyline, flooding the space with natural light. The meticulously preserved original exposed brick walls, rich in deep red and orange hues, add warmth and texture, complementing the refined industrial aesthetic. A truly unique feature is the hidden, soundproof 'inspiration pod' \u2013 a sleek, minimalist sanctuary designed for focused creativity. The living experience extends effortlessly outdoors through a frameless retractable glass wall, revealing a private vertical garden terrace. This innovative design blurs the lines between urban grit and natural serenity, creating a truly unexpected oasis. Throughout the loft, industrial-style matte black doors and hardware enhance the curated elegance, making this a truly distinctive home for the discerning resident.",
+      "style_aesthetic": "Refined Industrial-Chic with Biophilic & Curated Elegance",
+      "num_images": 6,
+      "generated_at": "2025-10-23T11:15:48.999239+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T11:15:58.752964+00:00",
+      "manifest_path": "generated_dumbo_brooklyn_443f2804_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_dumbo_brooklyn_443f2804_0.png",
+        "output/generated_apartments/generated_dumbo_brooklyn_443f2804_1.png",
+        "output/generated_apartments/generated_dumbo_brooklyn_443f2804_2.png",
+        "output/generated_apartments/generated_dumbo_brooklyn_443f2804_3.png",
+        "output/generated_apartments/generated_dumbo_brooklyn_443f2804_4.png",
+        "output/generated_apartments/generated_dumbo_brooklyn_443f2804_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "DUMBO Industrial Skyline Loft",
+        "address": "24 Water Street, Brooklyn, NY 11201",
+        "rent_price": 9850,
+        "availability_dates": [
+          {
+            "start": "2024-09-01",
+            "end": "2025-08-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_williamsburg_brooklyn_d4f88e07",
+      "description": "Discover this exceptional 2-bedroom industrial loft, a true gem nestled in the vibrant heart of Williamsburg, Brooklyn. Boasting a striking Elevated Industrial Modern aesthetic with warm minimalist accents, this residence offers a unique living experience. The expansive open-concept living space is defined by soaring 14-foot ceilings, complemented by original exposed wooden beams and authentic red brick accent walls, evoking a sense of history and grandeur. Massive black-framed factory windows flood the entire loft with an abundance of natural light, enhancing the polished concrete floors that flow seamlessly throughout. The open kitchen is a culinary dream, featuring custom white oak flat panel cabinetry, sleek concrete countertops, and top-of-the-line stainless steel commercial appliances. The master bedroom is a private sanctuary, complete with a generous walk-in closet and distinctive exposed metallic ductwork, maintaining the loft's industrial charm. A contemporary bathroom awaits, showcasing pristine white subway tile and a luxurious frameless glass rainfall shower enclosure. Perfectly situated just two blocks from the Bedford Avenue L train, this loft provides unparalleled access to Williamsburg's renowned cafes, art galleries, and bustling nightlife, making it an ideal urban retreat.",
+      "style_aesthetic": "Elevated Industrial Modern with Warm Minimalist Accents",
+      "num_images": 7,
+      "generated_at": "2025-10-23T11:56:31.369306+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T11:56:31.382111+00:00",
+      "manifest_path": "generated_williamsburg_brooklyn_d4f88e07_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_0.png",
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_1.png",
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_2.png",
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_3.png",
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_4.png",
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_5.png",
+        "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_6.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Williamsburg Industrial Loft",
+        "address": "123 N 7th Street, Brooklyn, NY 11211",
+        "rent_price": 4250,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_soho_manhattan_394f62b3",
+      "description": "Experience the epitome of Sleek Contemporary Luxury in this stunning 1-bedroom apartment, perfectly situated in prime SoHo. This exquisite residence boasts dramatic floor-to-ceiling windows that bathe the space in incredible south-facing natural light, complementing the pristine white walls and impressive 11-foot ceilings. The living area is anchored by sophisticated white oak herringbone floors, leading to a chef's kitchen designed for the discerning palate. Here, Miele appliances, gleaming white marble countertops, and custom Italian cabinetry create an unparalleled culinary environment. The spa-like bathroom is a sanctuary, featuring luxurious Carrara marble, radiant heated floors, and a deep soaking tub for ultimate relaxation. Throughout the apartment, seamless built-in storage solutions maintain the sleek aesthetic. Residents benefit from an array of premier building amenities, including a 24-hour doorman, state-of-the-art fitness center, and a breathtaking rooftop terrace. Located just steps from SoHo's most exclusive high-end shopping, renowned art galleries, and Michelin-starred restaurants, this home offers an unparalleled urban lifestyle.",
+      "style_aesthetic": "Sleek Contemporary Luxury",
+      "num_images": 8,
+      "generated_at": "2025-10-23T12:00:04.917642+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:00:04.925721+00:00",
+      "manifest_path": "generated_soho_manhattan_394f62b3_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_0.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_1.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_2.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_3.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_4.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_5.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_6.png",
+        "output/generated_apartments/generated_soho_manhattan_394f62b3_7.png"
+      ],
+      "synthetic_metadata": {
+        "title": "SoHo Sleek Contemporary Retreat",
+        "address": "123 Prince Street, New York, NY 10012",
+        "rent_price": 5850,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_hudson_yards_manhattan_833ebdb9",
+      "description": "Discover unparalleled urban luxury in this sleek studio apartment, perfectly situated in the vibrant heart of Hudson Yards. Embodying a Modern Urban Luxury aesthetic with Minimalist Elegance, this residence offers breathtaking city views through expansive floor-to-ceiling windows. The open-concept layout is accentuated by soaring 10-foot ceilings and rich Brazilian cherry hardwood floors, creating an airy and sophisticated ambiance. Recessed LED lighting and integrated smart home control panels provide seamless modern living. The compact yet highly efficient kitchen features pristine quartz countertops, top-of-the-line stainless steel appliances, and a convenient breakfast bar. The contemporary bathroom is a sanctuary with its glass-enclosed shower and chic floating vanity. Residents enjoy a full suite of amenities in this white-glove building, including a 24/7 doorman, state-of-the-art fitness center, a stylish resident lounge, and a secure package room. Steps away from iconic landmarks like The Vessel, the serene Hudson River Park, and the convenient 7 train, this studio offers the ultimate Manhattan lifestyle.",
+      "style_aesthetic": "Modern Urban Luxury with Minimalist Elegance",
+      "num_images": 6,
+      "generated_at": "2025-10-23T12:03:04.778012+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:03:04.782240+00:00",
+      "manifest_path": "generated_hudson_yards_manhattan_833ebdb9_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_0.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_1.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_2.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_3.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_4.png",
+        "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Hudson Yards Modern Luxury",
+        "address": "520 W 30th Street, New York, NY 10001",
+        "rent_price": 3250,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_upper_west_side_manhattan_5b42f037",
+      "description": "Discover timeless elegance in this exquisite 3-bedroom, 2-bathroom pre-war apartment, ideally situated on a picturesque, tree-lined street in the heart of the Upper West Side. This classic New York residence showcases exceptional architectural details, including soaring 9-foot beamed ceilings, intricate crown molding, and beautifully preserved original hardwood floors that flow throughout. A gracious formal entry foyer welcomes you into expansive living and dining rooms, perfect for both grand entertaining and comfortable everyday living. The windowed galley kitchen is a chef's delight, featuring sleek white Shaker cabinets, luxurious granite countertops, and a tasteful subway tile backsplash. Each of the three generous bedrooms offers ample space and excellent closet storage. Both full bathrooms retain their historic charm with vintage tiling and classic clawfoot tubs. Additional pre-war highlights include a charming decorative fireplace, complete with a classic mantel, and elegant built-in bookshelves, adding character and functionality. Enjoy unparalleled convenience with Central Park, top-rated schools, iconic Zabar's, and express subway lines all just moments away. Experience classic New York living at its finest in this truly special home.",
+      "style_aesthetic": "Classic Pre-War Elegance",
+      "num_images": 8,
+      "generated_at": "2025-10-23T12:06:38.200581+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:06:38.206442+00:00",
+      "manifest_path": "generated_upper_west_side_manhattan_5b42f037_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_0.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_1.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_2.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_3.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_4.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_5.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_6.png",
+        "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_7.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Upper West Side Pre-War Elegance",
+        "address": "321 West 84th Street, New York, NY 10024",
+        "rent_price": 6550,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_east_village_manhattan_81c021e5",
+      "description": "Discover authentic New York City character in this charming 1-bedroom walk-up, perfectly nestled in the heart of the vibrant East Village. This cozy apartment beautifully blends Urban Bohemian Chic with subtle Industrial Accents, offering a truly unique living experience. Step inside to find an inviting layout featuring an Exposed Red Brick Accent Wall, original Pressed Tin Ceilings, and warm Wide-Plank Hardwood Floors that tell a story of classic NYC. The updated kitchen is a chef's delight, boasting stylish Butcher Block Counters, open wood shelving, and vintage-style appliances, all contributing to its distinctive appeal. The serene bedroom comfortably accommodates a queen-sized bed, providing a bohemian oasis with ample space for creative decor and plants. The functional bathroom, though compact, impresses with its classic Subway Tile and a tasteful Pedestal Sink. Large Double-Hung Windows provide picturesque tree-lined street views, filling the space with natural light. The building offers convenient bike storage and a shared courtyard, enhancing the urban living experience. Located just steps from Tompkins Square Park, renowned vintage shops, lively music venues, and an array of incredible restaurants, this apartment is ideal for creative types seeking unparalleled neighborhood charm and a truly unique home.",
+      "style_aesthetic": "Urban Bohemian Chic with Industrial Accents",
+      "num_images": 6,
+      "generated_at": "2025-10-23T12:10:16.517465+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:10:16.525674+00:00",
+      "manifest_path": "generated_east_village_manhattan_81c021e5_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_east_village_manhattan_81c021e5_0.png",
+        "output/generated_apartments/generated_east_village_manhattan_81c021e5_1.png",
+        "output/generated_apartments/generated_east_village_manhattan_81c021e5_2.png",
+        "output/generated_apartments/generated_east_village_manhattan_81c021e5_3.png",
+        "output/generated_apartments/generated_east_village_manhattan_81c021e5_4.png",
+        "output/generated_apartments/generated_east_village_manhattan_81c021e5_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "East Village Urban Bohemian",
+        "address": "235 E 7th Street, New York, NY 10009",
+        "rent_price": 2850,
+        "availability_dates": [
+          {
+            "start": "2024-09-01",
+            "end": "2025-08-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_brooklyn_heights_brooklyn_890225e1",
+      "description": "Discover an exceptionally rare 2-bedroom garden apartment, a true gem within a historic Brooklyn Heights brownstone, offering an unparalleled blend of Historic Brooklyn Charm and Modern Refinement. This sun-drenched corner unit captivates with elegant bay windows featuring deep sills, exposed brick accent walls, and original wide-plank hardwood floors that tell a story of timeless elegance. The heart of the home is an updated open kitchen, boasting crisp white subway tile, warm butcher block counters, and sleek stainless steel appliances, perfect for modern living. Both bedrooms are generously sized, bathed in excellent natural light, and offer ample closet space. The renovated bathroom is a testament to sophisticated design, featuring vintage-style fixtures and classic hex tile. Enjoy the luxury of a private entrance leading directly to your stunning 400 sq ft private garden patio, a verdant oasis with mature plantings that exudes quintessential Brooklyn charm. Situated on a quiet, tree-lined block, you're mere steps from the iconic Brooklyn Heights Promenade, the vibrant Brooklyn Bridge Park, and an array of acclaimed restaurants. Convenient access to the A and C trains makes commuting a breeze, completing this exquisite urban sanctuary.",
+      "style_aesthetic": "Historic Brooklyn Charm meets Modern Refinement",
+      "num_images": 7,
+      "generated_at": "2025-10-23T12:13:13.045490+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:13:13.051816+00:00",
+      "manifest_path": "generated_brooklyn_heights_brooklyn_890225e1_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_0.png",
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_1.png",
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_2.png",
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_3.png",
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_4.png",
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_5.png",
+        "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_6.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Brooklyn Heights Refined Charm",
+        "address": "123 Pierrepont Street, Brooklyn, NY 11201",
+        "rent_price": 3650,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_tribeca_manhattan_c34d4bed",
+      "description": "Discover unparalleled urban living in this refined 2-bedroom apartment, perfectly situated in the highly coveted Tribeca neighborhood. This residence epitomizes Minimalist Contemporary Urban Chic, boasting an open-concept layout accentuated by soaring 10-foot ceilings, an abundance of natural light through oversized windows, and elegant wide-plank white oak floors throughout. The seamless kitchen is a chef's dream, featuring custom matte white cabinetry, pristine Caesarstone counters, and a suite of premium Bosch appliances. The serene master suite offers a generous walk-in closet and a spa-like en-suite bathroom, complete with luxurious marble tile and a floating double vanity. A versatile second bedroom is ideal for guests or a dedicated home office, complemented by a modern second bathroom showcasing a frameless glass shower and a sleek wall-hung toilet. Convenience is key with an in-unit Bosch washer/dryer. This full-service building enhances your lifestyle with a live-in super, secure package room, and a common roof deck, all just steps from Hudson River Park and the 1/2/3 subway lines.",
+      "style_aesthetic": "Minimalist Contemporary Urban Chic",
+      "num_images": 8,
+      "generated_at": "2025-10-23T12:16:39.385644+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:16:39.390939+00:00",
+      "manifest_path": "generated_tribeca_manhattan_c34d4bed_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_0.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_1.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_2.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_3.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_4.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_5.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_6.png",
+        "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_7.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Tribeca Minimalist Chic",
+        "address": "77 Warren Street, New York, NY 10007",
+        "rent_price": 5250,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_srodmiescie_warsaw_62430fe5",
+      "description": "Discover unparalleled living in this exquisite 2-bedroom apartment, nestled within a historic pre-war building in the vibrant heart of \u015ar\u00f3dmie\u015bcie, Warsaw. This residence perfectly embodies 'Refined Historic Elegance with Contemporary Polish' through its meticulously preserved architectural details and modern comforts. Step into grand spaces featuring high ornate ceilings reaching 3.5 meters, adorned with original decorative moldings, complemented by beautifully restored herringbone oak parquet floors throughout. The spacious layout offers distinct living and dining areas, ideal for both entertaining and tranquil relaxation. An updated kitchen seamlessly blends modern appliances with period charm, offering both functionality and style. Two bright bedrooms, each with tall multi-pane windows, overlook a serene and quiet courtyard, ensuring peaceful repose. The renovated bathroom boasts contemporary fixtures set against classic tiling, providing a luxurious experience. Original solid wooden doors with period hardware and vintage cast-iron radiators further enhance the apartment's unique character. The building itself features an elegant entrance hall with impressive marble stairs. Enjoy the convenience of walking distance to Old Town, Nowy \u015awiat, renowned theaters, charming cafes, and excellent public transport connections, placing the best of Warsaw at your doorstep.",
+      "style_aesthetic": "Refined Historic Elegance with Contemporary Polish",
+      "num_images": 7,
+      "generated_at": "2025-10-23T12:20:11.339998+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:20:11.344410+00:00",
+      "manifest_path": "generated_srodmiescie_warsaw_62430fe5_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_0.png",
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_1.png",
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_2.png",
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_3.png",
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_4.png",
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_5.png",
+        "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_6.png"
+      ],
+      "synthetic_metadata": {
+        "title": "\u015ar\u00f3dmie\u015bcie Refined Historic Elegance",
+        "address": "Ulica Foksal 10/7, 00-372 Warszawa, Polska",
+        "rent_price": 6500,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_praga_warsaw_4ab493cb",
+      "description": "Discover sophisticated urban living in this exquisitely renovated 1-bedroom apartment, nestled in Warsaw's vibrant Praga district. Embodying a Modern Scandinavian Minimalism with an urban edge, this contemporary residence offers an immediate sense of spaciousness with its open-plan living area. Blonde wood flooring flows seamlessly throughout, complemented by light gray walls and expansive, triple-glazed windows that flood the space with natural light. The sleek kitchen is a culinary dream, featuring white high-gloss cabinetry, concrete-look countertops, and integrated appliances, all designed for both aesthetics and functionality. The tranquil bedroom comfortably accommodates a king-sized bed and boasts a clever built-in wardrobe, ensuring ample storage with clean lines. The modern bathroom is a sanctuary of design, showcasing geometric tiling, minimalist chrome fixtures, and a luxurious walk-in shower. This energy-efficient home benefits from advanced heating and its triple-glazed windows. The building itself offers renovated common areas and convenient bike storage. Located steps from the dynamic Praga Koneser Center, trendy eateries, unique vintage shops, and excellent tram connections, this apartment is ideal for young professionals seeking a stylish, modern base in one of Warsaw's most creative and up-and-coming neighborhoods.",
+      "style_aesthetic": "Modern Scandinavian Minimalism with Urban Edge",
+      "num_images": 6,
+      "generated_at": "2025-10-23T12:23:34.060750+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:23:34.067015+00:00",
+      "manifest_path": "generated_praga_warsaw_4ab493cb_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_praga_warsaw_4ab493cb_0.png",
+        "output/generated_apartments/generated_praga_warsaw_4ab493cb_1.png",
+        "output/generated_apartments/generated_praga_warsaw_4ab493cb_2.png",
+        "output/generated_apartments/generated_praga_warsaw_4ab493cb_3.png",
+        "output/generated_apartments/generated_praga_warsaw_4ab493cb_4.png",
+        "output/generated_apartments/generated_praga_warsaw_4ab493cb_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Praga Modern Scandinavian",
+        "address": "Jagiello\u0144ska 20, 03-719 Warszawa, Polska",
+        "rent_price": 4500,
+        "availability_dates": [
+          {
+            "start": "2024-09-01",
+            "end": "2025-08-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_mokotow_warsaw_4bf4f42a",
+      "description": "Discover this exceptional 85m\u00b2 3-bedroom family apartment, embodying a Bright & Inviting Contemporary aesthetic in the heart of residential Mokot\u00f3w, Warsaw. Flooded with natural light, this bright and airy residence boasts a desirable southwest-facing balcony, seamlessly accessible from the spacious living room \u2013 ideal for family dining and entertaining. The functional kitchen features elegant white cabinetry, warm wood countertops, and a full suite of integrated, full-size appliances, including a dishwasher, all designed for modern living. Each of the three comfortable bedrooms offers ample storage solutions with integrated built-in wardrobes, ensuring an uncluttered, serene environment. The apartment includes two well-appointed bathrooms: a main bathroom with a relaxing bathtub and a second with a convenient shower. Original and meticulously maintained oak parquet flooring extends throughout all main living areas and bedrooms, complementing the clean, uncluttered wall surfaces and modern, minimalist door frames. Large windows and balcony doors maximize natural light and offer picturesque views. The building provides an elevator, secure underground parking, a children's playground, and a tranquil green courtyard. Located moments from international schools, Morskie Oko metro station, expansive parks, and vibrant shopping centers, this home offers unparalleled family-friendly convenience.",
+      "style_aesthetic": "Bright & Inviting Contemporary",
+      "num_images": 8,
+      "generated_at": "2025-10-23T12:27:42.916130+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T12:27:42.923662+00:00",
+      "manifest_path": "generated_mokotow_warsaw_4bf4f42a_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_0.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_1.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_2.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_3.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_4.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_5.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_6.png",
+        "output/generated_apartments/generated_mokotow_warsaw_4bf4f42a_7.png"
+      ],
+      "synthetic_metadata": {
+        "title": "Mokot\u00f3w Bright Contemporary Haven",
+        "address": "Ulica Rac\u0142awicka 12, 02-601 Warszawa",
+        "rent_price": 7850,
+        "availability_dates": [
+          {
+            "start": "2024-08-01",
+            "end": "2025-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "apartment_id": "generated_east_village_manhattan_77d91f09",
+      "description": "Discover a truly unique sanctuary tucked away in a re-imagined two-story rear extension of an East Village townhouse, moments from the vibrant Tompkins Square Park. This captivating one-bedroom residence masterfully blends original exposed, richly textured red brick walls with sleek black steel structural beams, creating a cultivated industrial chic aesthetic. The dramatic double-height living room, boasting soaring ceilings approximately 18-20 feet high, features an entire wall of custom-built, floor-to-ceiling rolling library shelves crafted from dark wood and black steel \u2013 a literary enthusiast's dream. An expansive, multi-pane industrial-style black steel window offers serene views of a private, verdant courtyard, flooding the space with natural light. Wide-plank light oak hardwood floors flow seamlessly throughout the main living areas, complementing the unique blend of urban grit and refined bohemian charm. This is an urban escape where architectural distinction meets unparalleled character, perfect for a discerning individual seeking an inspiring home in a prime Manhattan location.",
+      "style_aesthetic": "Cultivated Industrial Chic with Bohemian Literary Accents",
+      "num_images": 6,
+      "generated_at": "2025-10-23T13:24:18.983012+00:00",
+      "indexed": true,
+      "indexed_at": "2025-10-23T13:49:35.537144+00:00",
+      "manifest_path": "generated_east_village_manhattan_77d91f09_manifest.json",
+      "image_paths": [
+        "output/generated_apartments/generated_east_village_manhattan_77d91f09_0.png",
+        "output/generated_apartments/generated_east_village_manhattan_77d91f09_1.png",
+        "output/generated_apartments/generated_east_village_manhattan_77d91f09_2.png",
+        "output/generated_apartments/generated_east_village_manhattan_77d91f09_3.png",
+        "output/generated_apartments/generated_east_village_manhattan_77d91f09_4.png",
+        "output/generated_apartments/generated_east_village_manhattan_77d91f09_5.png"
+      ],
+      "synthetic_metadata": {
+        "title": "East Village Literary Chic",
+        "address": "345 East 7th Street, New York, NY 10009",
+        "rent_price": 5200,
+        "availability_dates": [
+          {
+            "start": "2024-09-01",
+            "end": "2025-08-31"
+          }
+        ]
+      }
+    }
+  ],
+  "updated_at": "2025-10-23T13:49:35.537130+00:00"
+}

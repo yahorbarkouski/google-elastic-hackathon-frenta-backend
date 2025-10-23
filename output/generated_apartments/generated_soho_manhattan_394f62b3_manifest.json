@@ -1,0 +1,97 @@
+{
+  "apartment_id": "generated_soho_manhattan_394f62b3",
+  "description": "Experience the epitome of Sleek Contemporary Luxury in this stunning 1-bedroom apartment, perfectly situated in prime SoHo. This exquisite residence boasts dramatic floor-to-ceiling windows that bathe the space in incredible south-facing natural light, complementing the pristine white walls and impressive 11-foot ceilings. The living area is anchored by sophisticated white oak herringbone floors, leading to a chef's kitchen designed for the discerning palate. Here, Miele appliances, gleaming white marble countertops, and custom Italian cabinetry create an unparalleled culinary environment. The spa-like bathroom is a sanctuary, featuring luxurious Carrara marble, radiant heated floors, and a deep soaking tub for ultimate relaxation. Throughout the apartment, seamless built-in storage solutions maintain the sleek aesthetic. Residents benefit from an array of premier building amenities, including a 24-hour doorman, state-of-the-art fitness center, and a breathtaking rooftop terrace. Located just steps from SoHo's most exclusive high-end shopping, renowned art galleries, and Michelin-starred restaurants, this home offers an unparalleled urban lifestyle.",
+  "style_plan": {
+    "aesthetic": "Sleek Contemporary Luxury",
+    "color_palette": {
+      "walls": "Pristine white (Benjamin Moore 'Chantilly Lace' equivalent)",
+      "floors": "Light white oak herringbone (natural, matte finish)",
+      "furniture": "Neutral tones (light grey, cream, taupe) with natural wood (walnut, light oak) and brushed metal (brass, bronze) accents. Minimalist, clean lines.",
+      "accents": "Muted deep greens (live plants), subtle blues, brushed brass/bronze, textured natural fabrics (linen, wool)."
+    },
+    "lighting": {
+      "type": "Abundant, soft natural light from floor-to-ceiling windows, minimizing harsh shadows.",
+      "time_of_day": "Mid-morning to early afternoon (10 AM - 2 PM) for interiors to maximize south-facing light.",
+      "artificial": "Warm (2700K-3000K) LED recessed lighting, under-cabinet lighting in kitchen, and subtle, design-forward accent fixtures (e.g., minimalist sconces, pendant lights in brushed brass/black)."
+    },
+    "materials": {
+      "kitchen": "White marble countertops (e.g., Calacatta Gold or Statuario), high-gloss custom Italian cabinetry (white or light grey), Miele stainless steel appliances, integrated sink.",
+      "bathroom": "Carrara marble (large format tiles for walls and floors), polished chrome or brushed nickel fixtures, frameless glass shower enclosure, porcelain deep soaking tub.",
+      "living": "White oak (floors, occasional furniture), high-quality linen or wool upholstery, polished concrete (for accent pieces like coffee tables), glass, brushed metals (brass, bronze)."
+    },
+    "architectural_details": [
+      "Floor-to-ceiling windows",
+      "White oak herringbone floors",
+      "11-foot ceilings",
+      "Pristine white walls",
+      "Built-in storage throughout (seamless, flush design)",
+      "Custom Italian cabinetry (kitchen)",
+      "Miele appliances (kitchen)",
+      "Carrara marble surfaces (bathroom)",
+      "Deep soaking tub (bathroom)"
+    ],
+    "photography_style": "Professional architectural and interior design photography. Emphasis on clean lines, balanced composition, and natural light. A mix of wide-angle shots (e.g., 16-24mm equivalent) to showcase scale and flow, and intimate detail shots (e.g., 50mm equivalent) to highlight luxury finishes and textures. Minimal staging, focusing on the inherent beauty and functionality of the space. All verticals and horizontals perfectly straight.",
+    "exterior_conditions": "Clear, sunny day with a vibrant blue sky for building facade and rooftop terrace shots. Golden hour (late afternoon) for neighborhood shots to capture the sophisticated SoHo ambiance."
+  },
+  "num_images": 8,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:00:04.917642+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of the main living space in a luxury SoHo apartment. Abundant, soft natural light from expansive floor-to-ceiling windows illuminates the pristine white (Benjamin Moore 'Chantilly Lace' equivalent) walls and light white oak herringbone (natural, matte finish) floors. The 11-foot ceilings enhance the sense of spaciousness. Furniture includes a minimalist, clean-lined sofa in light grey linen, a natural walnut coffee table with polished concrete accents, and a subtle blue textured rug. Muted deep green live plants add a touch of color. Seamless, flush built-in storage is visible. The composition emphasizes clean lines, balanced proportions, and the inherent beauty and functionality of the space. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality. Mid-morning to early afternoon (10 AM - 2 PM) lighting.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph focusing on a seating arrangement within the living room. Soft natural light from floor-to-ceiling windows highlights a cream-colored armchair with a wool throw, positioned next to a minimalist light oak side table featuring a brushed brass accent lamp. The pristine white (Benjamin Moore 'Chantilly Lace' equivalent) walls and light white oak herringbone (natural, matte finish) floors are visible. The composition emphasizes textures, minimalist design, and subtle luxury details. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality. Mid-morning to early afternoon (10 AM - 2 PM) lighting.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_1.png",
+      "type": "living_room",
+      "camera": "50mm equivalent"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the chef's kitchen in a luxury SoHo apartment. Abundant, soft natural light from floor-to-ceiling windows illuminates the pristine white (Benjamin Moore 'Chantilly Lace' equivalent) walls and light white oak herringbone (natural, matte finish) floors. The 11-foot ceilings create an airy feel. The kitchen features high-gloss custom Italian cabinetry in white, white marble countertops (Calacatta Gold), and integrated Miele stainless steel appliances. Warm (2700K-3000K) LED under-cabinet lighting is subtly on. A minimalist island with bar stools in light grey upholstery and brushed bronze accents defines the space. The composition emphasizes clean lines, balanced proportions, and the luxurious materials. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality. Mid-morning to early afternoon (10 AM - 2 PM) lighting.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_2.png",
+      "type": "kitchen",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph, detail shot, focusing on the luxurious materials of the kitchen. The white marble countertop (Statuario) with an integrated sink and a Miele induction cooktop are prominently featured. A subtle brushed brass faucet adds a touch of elegance. Warm (2700K-3000K) LED under-cabinet lighting highlights the pristine white custom Italian cabinetry. Soft natural light from nearby floor-to-ceiling windows gently illuminates the scene. The composition emphasizes the precision of the finishes and the high-quality materials. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality. Mid-morning to early afternoon (10 AM - 2 PM) lighting.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_3.png",
+      "type": "kitchen",
+      "camera": "50mm equivalent"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the master bedroom in a luxury SoHo apartment. Abundant, soft natural light streams in from floor-to-ceiling windows. The room features pristine white (Benjamin Moore 'Chantilly Lace' equivalent) walls, 11-foot ceilings, and light white oak herringbone (natural, matte finish) floors. A low-profile bed with a cream linen headboard and crisp white bedding is the focal point. Seamless, flush built-in storage lines one wall. A small walnut accent bench at the foot of the bed and a muted deep green live plant on a minimalist bedside table add warmth. The composition emphasizes serenity, clean lines, and the generous natural light. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality. Mid-morning to early afternoon (10 AM - 2 PM) lighting.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_4.png",
+      "type": "bedroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the spa-like bathroom in a luxury SoHo apartment. Large format Carrara marble tiles cover the walls and floors. A deep soaking porcelain tub is prominently featured, with polished chrome fixtures. A frameless glass shower enclosure is visible. The pristine white (Benjamin Moore 'Chantilly Lace' equivalent) walls and warm (2700K-3000K) LED recessed lighting create a serene ambiance. Abundant, soft natural light, minimizing harsh shadows, illuminates the space. The composition emphasizes the luxurious materials and clean, minimalist design. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality. Mid-morning to early afternoon (10 AM - 2 PM) lighting.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_5.png",
+      "type": "bathroom",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional architectural photograph of the contemporary building facade in prime SoHo. The exterior conditions are a clear, sunny day with a vibrant blue sky. The composition emphasizes the sleek lines, modern materials, and large floor-to-ceiling windows of the building. All verticals and horizontals are perfectly straight, showcasing a balanced and clean architectural aesthetic. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_6.png",
+      "type": "building_exterior",
+      "camera": "35mm equivalent"
+    },
+    {
+      "index": 7,
+      "prompt": "A professional architectural photograph of the rooftop terrace, a special feature of the luxury SoHo building. The scene is captured during golden hour (late afternoon), casting a warm, inviting glow over the space. Sophisticated lounge seating in neutral tones (light grey outdoor fabric) with natural light oak accents is arranged for relaxation. Muted deep green potted plants add natural texture. The composition captures panoramic views of the sophisticated SoHo skyline, emphasizing the luxurious and exclusive ambiance. Clear, sunny conditions are present. All verticals and horizontals are perfectly straight. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_soho_manhattan_394f62b3_7.png",
+      "type": "special_feature",
+      "camera": "28mm wide-angle"
+    }
+  ]
+}

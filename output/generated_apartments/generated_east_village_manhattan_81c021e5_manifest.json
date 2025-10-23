@@ -1,0 +1,84 @@
+{
+  "apartment_id": "generated_east_village_manhattan_81c021e5",
+  "description": "Discover authentic New York City character in this charming 1-bedroom walk-up, perfectly nestled in the heart of the vibrant East Village. This cozy apartment beautifully blends Urban Bohemian Chic with subtle Industrial Accents, offering a truly unique living experience. Step inside to find an inviting layout featuring an Exposed Red Brick Accent Wall, original Pressed Tin Ceilings, and warm Wide-Plank Hardwood Floors that tell a story of classic NYC. The updated kitchen is a chef's delight, boasting stylish Butcher Block Counters, open wood shelving, and vintage-style appliances, all contributing to its distinctive appeal. The serene bedroom comfortably accommodates a queen-sized bed, providing a bohemian oasis with ample space for creative decor and plants. The functional bathroom, though compact, impresses with its classic Subway Tile and a tasteful Pedestal Sink. Large Double-Hung Windows provide picturesque tree-lined street views, filling the space with natural light. The building offers convenient bike storage and a shared courtyard, enhancing the urban living experience. Located just steps from Tompkins Square Park, renowned vintage shops, lively music venues, and an array of incredible restaurants, this apartment is ideal for creative types seeking unparalleled neighborhood charm and a truly unique home.",
+  "style_plan": {
+    "aesthetic": "Urban Bohemian Chic with Industrial Accents",
+    "color_palette": {
+      "walls": "Crisp White with Warm Exposed Red Brick Accent Walls",
+      "floors": "Warm, Medium-Toned Wide-Plank Hardwood",
+      "furniture": "Eclectic Mix of Natural Woods (Teak, Walnut), Black Metal, Rattan, and Brass Accents",
+      "accents": "Earthy Tones (Terracotta, Muted Greens from Plants), Mustard Yellow, Deep Teal, and Warm Metals (Aged Brass, Copper)"
+    },
+    "lighting": {
+      "type": "Abundant Soft Natural Light from Large Windows, Complemented by Warm, Inviting Artificial Lighting",
+      "interior_time_of_day": "Mid-Morning to Late Afternoon (10 AM - 4 PM) for consistent, bright natural light, avoiding harsh direct sun",
+      "artificial": "Warm-Toned Edison Bulbs in Vintage-Style Fixtures, Subtle Task Lighting in Kitchen and Bathroom"
+    },
+    "materials": {
+      "kitchen": "Butcher Block Counters, Open Wood Shelving, White Subway Tile Backsplash, Vintage-Style Stainless Steel Appliances, Black Metal Hardware",
+      "bathroom": "White Subway Tile, Pedestal Sink, Chrome Fixtures, Black Hexagonal Floor Tiles, Wood Accents",
+      "living_bedroom": "Wide-Plank Hardwood, Exposed Brick, Natural Linens, Textured Wools, Rattan, Leather (for seating), Ceramic Pots, Live Plants",
+      "ceilings": "Original Pressed Tin Ceilings (painted crisp white or light neutral)"
+    },
+    "architectural_details": [
+      "Exposed Red Brick Accent Wall",
+      "Original Pressed Tin Ceilings",
+      "Wide-Plank Hardwood Floors",
+      "Large Double-Hung Windows with Tree-Lined Views",
+      "Butcher Block Kitchen Counters with Open Wood Shelving",
+      "Subway Tile and Pedestal Sink in Bathroom"
+    ],
+    "photography_style": "Lifestyle-Infused Architectural Photography. A mix of wide-angle (24-35mm equivalent) to showcase overall space and intimate detail shots (50-85mm equivalent) to highlight unique character, textures, and decor. Focus on natural light, slightly desaturated but warm color grading. Shots should convey a lived-in, inviting, yet aspirational feel.",
+    "exterior_conditions": {
+      "time_of_day_exterior": "Late Morning to Early Afternoon (11 AM - 2 PM)",
+      "weather": "Clear to Partly Cloudy Day with Soft, Diffused Sunlight or Bright Overcast, to minimize harsh shadows and showcase tree-lined street views clearly"
+    }
+  },
+  "num_images": 6,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:10:16.517465+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a living room, embodying an Urban Bohemian Chic aesthetic with Industrial Accents. The space features crisp white walls and a striking warm exposed red brick accent wall. Warm, medium-toned wide-plank hardwood floors gleam under abundant soft natural light streaming from large double-hung windows, which offer a tree-lined street view. The original pressed tin ceilings are painted crisp white. Furniture includes an eclectic mix of natural woods (teak coffee table), black metal (side table), rattan (armchair), and a leather sofa with natural linen pillows. Accents are earthy tones (terracotta pots), muted greens (live plants), and a mustard yellow throw. Warm-toned Edison bulbs in vintage-style fixtures provide inviting artificial lighting. The composition is a wide-angle shot, showcasing the overall space, with sharp focus and high resolution, employing a slightly desaturated but warm color grading to convey a lived-in, inviting, yet aspirational feel. Shot during mid-morning (10 AM).",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_81c021e5_0.png",
+      "type": "living_room",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph of the kitchen, reflecting an Urban Bohemian Chic aesthetic with Industrial Accents. The kitchen features butcher block counters, open wood shelving, and a white subway tile backsplash. Vintage-style stainless steel appliances are integrated with black metal hardware. The warm, medium-toned wide-plank hardwood floors and crisp white original pressed tin ceilings are prominent. Abundant soft natural light illuminates the space, complemented by subtle task lighting and warm-toned Edison bulbs in vintage-style fixtures. A small live plant in a ceramic pot adds a muted green accent. The composition is a wide-angle shot, showcasing the functional space and its unique character with sharp focus and high resolution, employing a slightly desaturated but warm color grading to convey a clean, inviting feel. Shot during mid-morning (11 AM).",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_81c021e5_1.png",
+      "type": "kitchen",
+      "camera": "35mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph capturing an intimate detail of the bedroom, showcasing an Urban Bohemian Chic aesthetic with Industrial Accents. A queen-sized bed with a black metal frame and natural linen bedding is positioned against a warm exposed red brick accent wall. A natural wood (teak) nightstand holds a vintage-style brass lamp with a warm-toned Edison bulb and a live plant in a terracotta pot. Abundant soft natural light streams in from a large double-hung window, illuminating the crisp white original pressed tin ceilings and warm, medium-toned wide-plank hardwood floors. A deep teal throw pillow adds a pop of color. The composition is an intimate detail shot, highlighting textures and decor with sharp focus and high resolution, employing a slightly desaturated but warm color grading to convey a cozy, aspirational feel. Shot during late afternoon (3 PM).",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_81c021e5_2.png",
+      "type": "bedroom",
+      "camera": "50mm equivalent"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph focusing on the bathroom, designed with an Urban Bohemian Chic aesthetic and Industrial Accents. Crisp white subway tile covers the walls, reflecting abundant soft natural light. A classic white pedestal sink with chrome fixtures stands prominently. The floor features striking black hexagonal floor tiles. A small wooden accent shelf holds a tiny live plant, adding a muted green accent. The crisp white original pressed tin ceilings are visible. The composition is an intimate detail shot, emphasizing the clean lines and unique materials with sharp focus and high resolution, employing a slightly desaturated but warm color grading to convey a functional yet charming ambiance. Shot during mid-morning (11 AM).",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_81c021e5_3.png",
+      "type": "bathroom",
+      "camera": "85mm equivalent"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of a secondary living room view, embodying an Urban Bohemian Chic aesthetic with Industrial Accents. A tall natural wood (walnut) bookshelf filled with books and ceramic pots with live plants stands against a crisp white wall, adjacent to the warm exposed red brick accent wall. A comfortable armchair with a mustard yellow throw blanket and a rattan pouf are arranged on a textured wool rug. Abundant soft natural light streams through a large double-hung window, highlighting the warm, medium-toned wide-plank hardwood floors and the crisp white original pressed tin ceilings. A black metal floor lamp with a warm-toned Edison bulb adds an inviting glow. The composition is a wide-angle shot, showcasing a section of the space and highlighting unique character, textures, and decor with sharp focus and high resolution, employing a slightly desaturated but warm color grading to convey a lived-in, inviting, yet aspirational feel. Shot during late afternoon (2 PM).",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_81c021e5_4.png",
+      "type": "living_room",
+      "camera": "35mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the building exterior, capturing its authentic NYC character in the vibrant East Village. The walk-up building features traditional brickwork and large windows, framed by a tree-lined street. The lighting is soft, diffused sunlight from a clear to partly cloudy late morning sky (11 AM), minimizing harsh shadows and showcasing the tree-lined street views clearly. The image conveys the neighborhood charm and the building's inviting presence within the urban landscape, subtly hinting at a shared courtyard. The composition is a wide-angle shot, showcasing the building in its neighborhood context with sharp focus and high resolution, employing a slightly desaturated but warm color grading.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_81c021e5_5.png",
+      "type": "building_exterior",
+      "camera": "28mm wide-angle"
+    }
+  ]
+}

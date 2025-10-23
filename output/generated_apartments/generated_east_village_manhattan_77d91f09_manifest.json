@@ -1,0 +1,80 @@
+{
+  "apartment_id": "generated_east_village_manhattan_77d91f09",
+  "description": "Discover a truly unique sanctuary tucked away in a re-imagined two-story rear extension of an East Village townhouse, moments from the vibrant Tompkins Square Park. This captivating one-bedroom residence masterfully blends original exposed, richly textured red brick walls with sleek black steel structural beams, creating a cultivated industrial chic aesthetic. The dramatic double-height living room, boasting soaring ceilings approximately 18-20 feet high, features an entire wall of custom-built, floor-to-ceiling rolling library shelves crafted from dark wood and black steel \u2013 a literary enthusiast's dream. An expansive, multi-pane industrial-style black steel window offers serene views of a private, verdant courtyard, flooding the space with natural light. Wide-plank light oak hardwood floors flow seamlessly throughout the main living areas, complementing the unique blend of urban grit and refined bohemian charm. This is an urban escape where architectural distinction meets unparalleled character, perfect for a discerning individual seeking an inspiring home in a prime Manhattan location.",
+  "style_plan": {
+    "aesthetic": "Cultivated Industrial Chic with Bohemian Literary Accents",
+    "color_palette": {
+      "walls": "Crisp gallery white (e.g., Benjamin Moore 'Chantilly Lace') contrasting with original, rich red-orange exposed brick accent walls.",
+      "floors": "Wide-plank, matte-finish light oak hardwood throughout.",
+      "furniture": "A curated mix of Mid-century Modern and industrial-inspired pieces; materials include warm walnut, dark stained oak, black powder-coated steel, and polished brass. Upholstery in genuine cognac leather, charcoal grey linen, and textured wool.",
+      "accents": "Deep, muted jewel tones (e.g., forest green, burnt sienna, deep teal) in throw pillows and art. Warm metallic accents in aged brass and copper. Lush, dark green foliage (e.g., Fiddle Leaf Fig, Monstera) in terracotta or concrete planters."
+    },
+    "lighting": {
+      "type": "Abundant, soft, and diffused natural light filtering through the oversized industrial window, creating a serene and inviting atmosphere.",
+      "time_of_day": "Late afternoon (3-5 PM), specifically during the 'golden hour' for interior shots, to capture warm, directional sunlight that highlights textures and adds depth without harshness.",
+      "artificial": "Warm LED recessed lighting (2700K) for ambient light, complemented by strategically placed industrial-style brass and black steel task lamps, sconces, and soft-glow floor lamps to create cozy zones."
+    },
+    "materials": {
+      "kitchen": "Sleek white polished quartz countertops, minimalist flat-panel cabinetry in matte white, professional-grade stainless steel appliances, and classic white subway tile backsplash with light grey grout.",
+      "bathroom": "Large format white Carrara marble tiles on walls and floor, contemporary chrome or matte black fixtures, a frameless glass shower enclosure, and a floating vanity in dark walnut.",
+      "living": "Genuine full-grain leather (cognac or deep charcoal), natural textured linen, raw steel, polished and aged brass, solid walnut and oak woods, and hand-knotted wool rugs with subtle patterns."
+    },
+    "architectural_details": [
+      "Original, richly textured exposed red brick walls.",
+      "Dramatic double-height living room with soaring ceilings (approximately 18-20 feet high).",
+      "Expansive, multi-pane industrial-style black steel window overlooking a private, verdant courtyard.",
+      "Custom-built, floor-to-ceiling rolling library shelves crafted from dark wood and black steel.",
+      "Visible, sleek black steel structural beams integrated into the design.",
+      "Wide-plank light oak hardwood floors throughout the main living spaces."
+    ],
+    "photography_style": "Professional architectural and interior design photography, emphasizing the unique blend of historical and modern elements. Prioritize natural light.\n- **Composition**: A mix of wide-angle (16-24mm full-frame equivalent) shots to showcase the double-height space and overall flow, alongside intimate detail shots (50-85mm equivalent) highlighting textures (brick, wood, steel) and bespoke features (library shelves, fixtures).\n- **Perspective**: Shots taken at eye-level or slightly lower to emphasize verticality and architectural grandeur.\n- **Technical**: Aperture f/8-f/11 for maximum depth of field, lowest possible ISO for clarity, shutter speed adjusted for balanced exposure. Minimal use of artificial light for fill, never as the primary light source.\n- **Post-processing**: Clean, natural, and true-to-life color rendition. Balanced highlights and shadows, subtle contrast, and precise lens correction without over-saturation or HDR effects. Focus on conveying warmth and sophistication.",
+    "exterior_conditions": "Clear, sunny day in the late afternoon (golden hour) to capture the building's facade and courtyard with warm, soft light, highlighting architectural details and greenery without harsh shadows. The courtyard should appear serene and inviting."
+  },
+  "num_images": 6,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T13:24:18.983012+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of the dramatic double-height living room, captured with a 16mm wide-angle lens at eye-level, emphasizing its soaring 18-20 foot ceilings. Abundant, soft, diffused natural light from the expansive, multi-pane industrial-style black steel window filters in during the late afternoon 'golden hour', casting warm directional sunlight that highlights textures. The scene features a wall of custom-built, floor-to-ceiling rolling library shelves crafted from dark wood and black steel, contrasting with an original, richly textured red-orange exposed brick accent wall. Crisp gallery white walls and wide-plank, matte-finish light oak hardwood floors extend throughout. Furniture includes a genuine cognac leather sofa and a dark stained oak coffee table, complemented by a hand-knotted wool rug with subtle patterns, and subtle warm LED recessed lighting (2700K). Sleek black steel structural beams are visibly integrated into the design. Technical settings: aperture f/8-f/11, lowest possible ISO for clarity, balanced exposure. Post-processing: clean, natural, true-to-life color, balanced highlights and shadows, subtle contrast, precise lens correction without over-saturation or HDR effects. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_77d91f09_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph, captured with a 50mm lens at eye-level, focusing on a cozy reading nook within the double-height living room. Warm, directional natural light from the oversized industrial window during the late afternoon 'golden hour' illuminates a genuine cognac leather armchair, highlighting its full-grain texture. Adjacent is a warm walnut side table topped with a stack of literary books, and an industrial-style black powder-coated steel and aged brass task lamp, providing a soft, localized glow. A deep teal throw pillow adds a muted jewel tone accent. The backdrop features a segment of the custom-built dark wood and black steel rolling library shelves and a richly textured exposed red-orange brick wall, with wide-plank light oak hardwood floors. Lush, dark green foliage (e.g., a Monstera plant) in a concrete planter adds a touch of bohemian literary charm. Subtle warm LED recessed lighting (2700K) provides ambient fill. Technical settings: aperture f/8-f/11, lowest possible ISO for clarity, balanced exposure. Post-processing: clean, natural, true-to-life color, balanced highlights and shadows, subtle contrast, precise lens correction without over-saturation or HDR effects. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_77d91f09_1.png",
+      "type": "living_room",
+      "camera": "50mm"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the kitchen, captured with a 24mm wide-angle lens at eye-level, showcasing its sleek, minimalist design. The space features crisp gallery white walls, sleek white polished quartz countertops, minimalist flat-panel cabinetry in matte white, and professional-grade stainless steel appliances. A classic white subway tile backsplash with light grey grout adds subtle texture. Wide-plank, matte-finish light oak hardwood floors extend from the adjacent living space. Abundant, soft, diffused natural light filters in from the main living area's industrial window during the late afternoon 'golden hour', providing a warm, inviting glow. Warm LED recessed lighting (2700K) provides ambient illumination. The aesthetic blends cultivated industrial chic with modern functionality. Technical settings: aperture f/8-f/11, lowest possible ISO for clarity, balanced exposure. Post-processing: clean, natural, true-to-life color, balanced highlights and shadows, subtle contrast, precise lens correction without over-saturation or HDR effects. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_77d91f09_2.png",
+      "type": "kitchen",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph of the bedroom, captured with a 35mm lens at eye-level, conveying a serene and sophisticated atmosphere. The room features crisp gallery white walls and wide-plank, matte-finish light oak hardwood floors. A solid walnut bed frame is dressed with charcoal grey linen bedding, accented by a deep forest green textured wool throw pillow, adding a muted jewel tone. An industrial-style black steel and aged brass bedside sconce provides a soft, warm glow, complementing the subtle warm LED recessed lighting (2700K). Soft, diffused natural light fills the room during the late afternoon 'golden hour', highlighting the textures. The furniture style is a curated mix of Mid-century Modern and industrial-inspired pieces. Technical settings: aperture f/8-f/11, lowest possible ISO for clarity, balanced exposure. Post-processing: clean, natural, true-to-life color, balanced highlights and shadows, subtle contrast, precise lens correction without over-saturation or HDR effects. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_77d91f09_3.png",
+      "type": "bedroom",
+      "camera": "35mm"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the bathroom, captured with a 24mm wide-angle lens at eye-level, highlighting its luxurious and contemporary design. The walls and floor are clad in large format white Carrara marble tiles, providing a bright and elegant foundation. A dark walnut floating vanity with contemporary matte black fixtures adds a touch of sophistication. A frameless glass shower enclosure is visible, emphasizing the clean lines. Abundant, soft, diffused natural light (consistent with late afternoon 'golden hour' warmth) fills the space, complemented by warm LED recessed lighting (2700K). The overall aesthetic is sleek and refined, aligning with the cultivated industrial chic style. Technical settings: aperture f/8-f/11, lowest possible ISO for clarity, balanced exposure. Post-processing: clean, natural, true-to-life color, balanced highlights and shadows, subtle contrast, precise lens correction without over-saturation or HDR effects. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_77d91f09_4.png",
+      "type": "bathroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the building's exterior and private courtyard, captured with a 24mm wide-angle lens at eye-level, under clear, sunny late afternoon 'golden hour' conditions. Warm, soft natural light bathes the two-story rear extension facade, highlighting its architectural details, including the expansive, multi-pane industrial-style black steel window that overlooks the serene and verdant courtyard. Lush, dark green foliage thrives within the courtyard, creating an inviting urban escape. The image conveys a blend of historical context (East Village townhouse) with cultivated industrial chic, without harsh shadows. Technical settings: aperture f/8-f/11, lowest possible ISO for clarity, balanced exposure. Post-processing: clean, natural, true-to-life color, balanced highlights and shadows, subtle contrast, precise lens correction without over-saturation or HDR effects. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_east_village_manhattan_77d91f09_5.png",
+      "type": "exterior",
+      "camera": "24mm wide-angle"
+    }
+  ]
+}

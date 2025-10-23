@@ -1,0 +1,23 @@
+{
+  "apartments": [
+    {
+      "id": "williamsburg_modern_2br",
+      "description": "Modern 2-bedroom apartment in Williamsburg, Brooklyn. Exposed brick walls, 12-foot ceilings with original tin detailing, refinished hardwood floors. Chef's kitchen with stainless steel appliances, marble countertops, subway tile backsplash. Master bedroom with walk-in closet. Bathroom with clawfoot tub and rainfall shower. Large windows with natural light. Rooftop deck with Manhattan skyline views. Near Bedford Ave L train.",
+      "num_images": 8,
+      "aspect_ratio": "16:9"
+    },
+    {
+      "id": "downtown_industrial_loft",
+      "description": "Spacious industrial loft in Downtown Manhattan. 14-foot ceilings, massive factory windows, polished concrete floors. Exposed ductwork and original brick walls. Modern kitchen island with high-end appliances. Two bedrooms with sliding barn doors. Luxury spa bathroom with double vanity. In-unit washer/dryer. Building has doorman and fitness center.",
+      "num_images": 10,
+      "aspect_ratio": "16:9"
+    },
+    {
+      "id": "park_slope_garden",
+      "description": "Garden-level 1-bedroom in historic Park Slope brownstone. Private entrance with patio and garden. Updated kitchen with dishwasher and gas stove. Spacious bedroom with built-in storage. Original crown molding and decorative fireplace. Hardwood floors, high ceilings. Quiet tree-lined street near Prospect Park.",
+      "num_images": 7,
+      "aspect_ratio": "4:3"
+    }
+  ]
+}
+

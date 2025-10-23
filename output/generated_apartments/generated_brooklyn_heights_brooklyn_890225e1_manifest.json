@@ -1,0 +1,88 @@
+{
+  "apartment_id": "generated_brooklyn_heights_brooklyn_890225e1",
+  "description": "Discover an exceptionally rare 2-bedroom garden apartment, a true gem within a historic Brooklyn Heights brownstone, offering an unparalleled blend of Historic Brooklyn Charm and Modern Refinement. This sun-drenched corner unit captivates with elegant bay windows featuring deep sills, exposed brick accent walls, and original wide-plank hardwood floors that tell a story of timeless elegance. The heart of the home is an updated open kitchen, boasting crisp white subway tile, warm butcher block counters, and sleek stainless steel appliances, perfect for modern living. Both bedrooms are generously sized, bathed in excellent natural light, and offer ample closet space. The renovated bathroom is a testament to sophisticated design, featuring vintage-style fixtures and classic hex tile. Enjoy the luxury of a private entrance leading directly to your stunning 400 sq ft private garden patio, a verdant oasis with mature plantings that exudes quintessential Brooklyn charm. Situated on a quiet, tree-lined block, you're mere steps from the iconic Brooklyn Heights Promenade, the vibrant Brooklyn Bridge Park, and an array of acclaimed restaurants. Convenient access to the A and C trains makes commuting a breeze, completing this exquisite urban sanctuary.",
+  "style_plan": {
+    "aesthetic": "Historic Brooklyn Charm meets Modern Refinement",
+    "color_palette": {
+      "walls": "Crisp white, complementing exposed brick accent walls",
+      "floors": "Original wide-plank hardwood floors, medium-dark walnut tone",
+      "furniture": "Timeless, comfortable pieces in natural woods (oak, walnut), linen, and muted leathers",
+      "accents": "Deep greens from mature plantings, warm brass/bronze metals, and subtle natural textures (e.g., woven baskets, ceramic)"
+    },
+    "lighting": {
+      "type": "Abundant, soft natural light, emphasizing the 'sun-drenched' quality",
+      "time_of_day": "Late morning to early afternoon (10 AM - 2 PM) for consistent, bright, yet soft natural light",
+      "artificial": "Subtle warm LED recessed lighting, complemented by decorative illumination from vintage-style fixtures (e.g., brushed brass sconces)"
+    },
+    "materials": {
+      "kitchen": "White subway tile backsplash, butcher block counters, stainless steel appliances, and white cabinetry",
+      "bathroom": "White hex tile flooring, white subway tile walls, vintage-style chrome fixtures, and a classic pedestal sink or simple vanity",
+      "living": "Original hardwood floors, exposed brick, natural textiles (linen, wool), warm wood furniture, and subtle metal accents (brass, matte black)"
+    },
+    "architectural_details": [
+      "Bay windows with deep sills",
+      "Exposed brick accent walls",
+      "Original wide-plank hardwood floors",
+      "Private entrance",
+      "400 sq ft private garden patio with mature plantings",
+      "Vintage-style bathroom fixtures and hex tile",
+      "Open kitchen layout with white subway tile and butcher block counters"
+    ],
+    "photography_style": "Bright, inviting architectural photography. Utilize wide-angle lenses (e.g., 16-24mm on full-frame) to showcase spaciousness and flow, balanced with tighter detail shots (e.g., 50mm) for textures and unique features. Prioritize natural light, use a tripod for sharpness (f/8-f/11), and employ bracketing for optimal dynamic range.",
+    "exterior_conditions": "Clear, sunny day in late afternoon (approx. 3 PM - 5 PM) to capture warm light on the brownstone facade and lushness of the garden patio."
+  },
+  "num_images": 7,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:13:13.045490+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph showcasing a sun-drenched living room, embodying 'Historic Brooklyn Charm meets Modern Refinement'. Abundant, soft natural light streams in from bay windows with deep sills, captured during late morning (10 AM - 2 PM). The room features crisp white walls and an exposed brick accent wall, complemented by original wide-plank hardwood floors in a medium-dark walnut tone. Furniture includes timeless, comfortable pieces: a natural oak coffee table, a linen sofa, and a muted leather armchair. Accents feature deep green mature plantings near the bay window, a warm brass floor lamp, and subtle natural textures like a woven basket. Composition uses a 16mm wide-angle lens on a full-frame camera, shot from a low perspective to emphasize spaciousness and flow, with a tripod at f/8, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph of the living room, focusing on a different angle to highlight the flow towards the open kitchen, embodying 'Historic Brooklyn Charm meets Modern Refinement'. The space is filled with abundant, soft natural light, 'sun-drenched' during late morning (10 AM - 2 PM). Crisp white walls and a segment of exposed brick are visible, alongside original wide-plank hardwood floors in a medium-dark walnut tone. Furniture includes a natural walnut side table and a comfortable linen armchair. Accents feature a deep green potted plant, subtle warm LED recessed lighting (off, or very subtle fill), and a ceramic decorative piece. The open kitchen layout is subtly visible in the background. Composition uses a 24mm wide-angle lens on a full-frame camera, emphasizing connection and visual flow, with a tripod at f/9, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_1.png",
+      "type": "living_room",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the open kitchen layout, embodying 'Historic Brooklyn Charm meets Modern Refinement'. Abundant, soft natural light, 'sun-drenched', fills the space during late morning (10 AM - 2 PM). The kitchen features white subway tile backsplash, butcher block counters, stainless steel appliances, and white cabinetry. Crisp white walls and the continuation of original wide-plank hardwood floors in a medium-dark walnut tone are prominent. Subtle warm LED recessed lighting is present, complemented by decorative illumination from vintage-style brushed brass fixtures. Accents include a small deep green herb plant on the counter and subtle natural textures like a wooden cutting board. Composition uses a 20mm wide-angle lens on a full-frame camera, capturing the full scope of the open kitchen from the living area, with a tripod at f/8, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_2.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph, a tighter detail shot of the kitchen, embodying 'Historic Brooklyn Charm meets Modern Refinement'. Abundant, soft natural light, 'sun-drenched', illuminates the details during late morning (10 AM - 2 PM). The focus is on the white subway tile backsplash, butcher block counters, a stainless steel sink, and vintage-style chrome faucet. Crisp white cabinetry and walls are visible. Accents include a small deep green potted plant and warm brass cabinet pulls. Composition uses a 50mm lens on a full-frame camera, highlighting the textures of the butcher block and subway tile, with a tripod at f/11, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_3.png",
+      "type": "kitchen",
+      "camera": "50mm"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of a bedroom, embodying 'Historic Brooklyn Charm meets Modern Refinement'. Abundant, soft natural light, 'sun-drenched', streams in from a bay window, captured during late morning (10 AM - 2 PM). The room features crisp white walls and original wide-plank hardwood floors in a medium-dark walnut tone. Furniture includes a timeless, comfortable natural oak bed frame with linen bedding, and a small natural wood nightstand. Accents feature a deep green small potted plant on the nightstand, a warm brass table lamp, and subtle natural textures like a woven rug. Composition uses a 24mm wide-angle lens on a full-frame camera to capture the spaciousness and excellent natural light, with a tripod at f/8, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_4.png",
+      "type": "bedroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the renovated bathroom, embodying 'Historic Brooklyn Charm meets Modern Refinement'. Abundant, soft natural light (or subtle warm LED recessed lighting if no window) illuminates the space during late morning (10 AM - 2 PM). The bathroom features white hex tile flooring and white subway tile walls. Vintage-style chrome fixtures, including a classic pedestal sink, are prominent. Crisp white walls and a simple white vanity are present. Accents include a small deep green plant and subtle natural textures in a woven bath mat. Composition uses a 20mm wide-angle lens on a full-frame camera to showcase the tile work and vintage-style details, with a tripod at f/9, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_5.png",
+      "type": "bathroom",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional architectural photograph of the exterior and private garden patio, embodying 'Historic Brooklyn Charm meets Modern Refinement'. Captured on a clear, sunny day in the late afternoon (approx. 3 PM - 5 PM) to capture warm light on the brownstone facade and the lushness of the garden patio. The image showcases the historic Brooklyn Heights brownstone facade, the inviting private entrance, and the beautiful 400 sq ft private garden patio with mature plantings, emphasizing deep greens and natural textures. Composition uses a 24mm wide-angle lens on a full-frame camera to capture the warmth of the brownstone and the lush, charming garden, with a tripod at f/11, utilizing bracketing for optimal dynamic range. High resolution, sharp focus, and professional quality.",
+      "file_path": "output/generated_apartments/generated_brooklyn_heights_brooklyn_890225e1_6.png",
+      "type": "exterior_garden",
+      "camera": "24mm wide-angle"
+    }
+  ]
+}

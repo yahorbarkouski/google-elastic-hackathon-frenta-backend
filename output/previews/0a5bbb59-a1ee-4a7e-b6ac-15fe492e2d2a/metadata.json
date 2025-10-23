@@ -1,0 +1,92 @@
+{
+  "apartment_id": "generated_soho_manhattan_a117e578",
+  "title": "SoHo Industrial Luxury Loft",
+  "description": "Experience the pinnacle of urban sophistication in this breathtaking two-bedroom loft, ideally situated within a historic cast-iron building on Greene Street in SoHo. This sprawling residence redefines industrial luxury, seamlessly blending minimalist design with a cutting-edge artistic edge. Monumental arched windows bathe the expansive living room in natural light, illuminating the raw polished concrete floors and highlighting original cast-iron structural elements. Soaring ceilings, approximately 12-14 feet high, enhance the grand scale of the space. A striking floating steel staircase ascends to a private mezzanine, offering versatile additional space. The thoughtfully designed layout includes a serene master bedroom, a second well-appointed bedroom, and a luxurious, minimalist-style bathroom. The state-of-the-art minimalist kitchen is a chef's delight, while a hidden, sound-proofed recording studio provides a unique creative sanctuary. This loft is a true art collector's dream and an urban oasis, offering unparalleled style and functionality in one of Manhattan's most coveted neighborhoods.",
+  "address": "123 Greene Street, New York, NY 10012",
+  "neighborhood_id": "soho_manhattan",
+  "rent_price": 14500,
+  "availability_dates": [
+    {
+      "start": "2024-08-01",
+      "end": "2025-07-31"
+    }
+  ],
+  "style_plan": {
+    "aesthetic": "Industrial Luxury, Minimalist, with Creative & Artistic Edge",
+    "color_palette": {
+      "walls": "Crisp White, with exposed concrete and original cast-iron structural elements",
+      "floors": "Raw polished concrete",
+      "furniture": "Streamlined contemporary and mid-century modern pieces in dark woods (walnut), blackened steel, and natural leather or linen fabrics",
+      "accents": "Blackened steel, brushed brass, deep charcoal, muted olive green, and vibrant, curated art pieces"
+    },
+    "lighting": {
+      "type": "Abundant natural light from monumental arched windows, soft and diffused",
+      "time_of_day": "Mid-morning (10 AM - 12 PM) for bright, even, and expansive light",
+      "artificial": "Strategically placed warm LED recessed lighting, minimalist track lighting, and sculptural industrial-chic fixtures in blackened steel or brass"
+    },
+    "materials": {
+      "kitchen": "Honed concrete or dark quartz countertops, integrated stainless steel appliances, minimalist flat-panel cabinetry (matte black or dark walnut), industrial-style open shelving, matte black fixtures",
+      "bathroom": "Large format concrete or dark slate tiles, matte black fixtures, frameless glass shower enclosure, minimalist floating vanity in dark wood, integrated lighting",
+      "living": "Raw polished concrete, blackened steel, dark woods (walnut), natural full-grain leather, textured linen, and wool fabrics, polished chrome or brass accents"
+    },
+    "architectural_details": [
+      "Monumental arched windows",
+      "Raw polished concrete floors",
+      "Floating steel staircase to private mezzanine",
+      "Hidden, sound-proofed recording studio",
+      "Soaring ceilings (approx. 12-14ft)",
+      "Original cast-iron structural elements"
+    ],
+    "photography_style": "Architectural and editorial, emphasizing scale, light, and curated details. Wide-angle (16-24mm) for expansive views, prime lenses (35mm, 50mm) for intimate details and art. Tripod-mounted, bracketing for dynamic range, natural light prioritized.",
+    "exterior_conditions": "Clear, bright day, late morning (10 AM - 12 PM) to showcase the historic cast-iron facade and Greene Street ambiance with balanced light."
+  },
+  "aspect_ratio": "16:9",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a sprawling living room in an Industrial Luxury, Minimalist style with a Creative & Artistic Edge. The scene is bathed in abundant, soft, and diffused natural light from monumental arched windows, characteristic of mid-morning (10 AM - 12 PM). Walls are crisp white with exposed concrete and original cast-iron structural elements visible. The raw polished concrete floors reflect the light. Furniture includes streamlined contemporary and mid-century modern pieces in dark walnut wood and blackened steel, featuring a natural full-grain leather sofa and textured linen accents. Accents of brushed brass and deep charcoal are present, along with a vibrant, curated art piece. Soaring ceilings (approx. 12-14ft) and a glimpse of the floating steel staircase to the private mezzanine are prominent. Strategically placed warm LED recessed lighting and minimalist track lighting are subtly visible. Tripod-mounted, bracketing for dynamic range, emphasizing scale, light, and curated details. High resolution, sharp focus, photorealistic quality.",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph of a living room seating area, showcasing curated details in an Industrial Luxury, Minimalist style with a Creative & Artistic Edge. The space is illuminated by soft, diffused natural light from monumental arched windows, characteristic of mid-morning (10 AM - 12 PM), casting gentle shadows. Crisp white walls, exposed concrete, and raw polished concrete floors provide a clean backdrop. A deep charcoal sofa with muted olive green accent pillows is paired with a dark walnut coffee table featuring blackened steel accents. A vibrant, curated art piece is prominently displayed. A sculptural industrial-chic fixture in brushed brass provides subtle ambient light. Original cast-iron structural elements are subtly integrated. Tripod-mounted, bracketing for dynamic range, emphasizing material textures, curated details, and the interplay of light. High resolution, sharp focus, photorealistic quality.",
+      "type": "living_room",
+      "camera": "35mm prime lens"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of a minimalist kitchen in an Industrial Luxury style. The space features honed concrete countertops and a seamless integration of matte black and dark walnut flat-panel cabinetry. Integrated stainless steel appliances are visible, alongside industrial-style open shelving in blackened steel. Matte black fixtures complete the look. Abundant, soft, and diffused natural light from a nearby monumental arched window illuminates the scene, characteristic of mid-morning (10 AM - 12 PM). Raw polished concrete floors extend throughout. Warm LED recessed lighting and minimalist track lighting highlight the workspace. Soaring ceilings (approx. 12-14ft) are evident. Tripod-mounted, bracketing for dynamic range, emphasizing clean lines, functional design, and material quality. High resolution, sharp focus, photorealistic quality.",
+      "type": "kitchen",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph of a serene master bedroom in an Industrial Luxury, Minimalist style. Soft, diffused natural light from a monumental arched window creates a tranquil atmosphere, characteristic of mid-morning (10 AM - 12 PM). Crisp white walls and exposed concrete frame the space, with raw polished concrete floors underfoot. The furniture includes a streamlined dark walnut floating bed frame and minimalist nightstands, accented by blackened steel lamps. Natural linen fabrics in muted tones dress the bed, with a subtle deep charcoal or muted olive green throw. Soaring ceilings (approx. 12-14ft) enhance the spacious feel. Strategically placed warm LED recessed lighting is subtly active. Tripod-mounted, bracketing for dynamic range, emphasizing tranquility, light, and curated comfort. High resolution, sharp focus, photorealistic quality.",
+      "type": "bedroom",
+      "camera": "35mm prime lens"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of a luxurious bathroom in an Industrial Luxury, Minimalist style. The space features large format dark slate tiles on walls and floor, creating a cohesive, sophisticated look. A minimalist floating vanity in dark walnut with integrated lighting is prominent, paired with matte black fixtures. A frameless glass shower enclosure adds to the sleek design. Abundant, soft, and diffused natural light, characteristic of mid-morning (10 AM - 12 PM), brightens the room. Soaring ceilings (approx. 12-14ft) are implied. Tripod-mounted, bracketing for dynamic range, emphasizing clean lines, luxurious materials, and functional elegance. High resolution, sharp focus, photorealistic quality.",
+      "type": "bathroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph highlighting the floating steel staircase and mezzanine, embodying Industrial Luxury, Minimalist design with a Creative & Artistic Edge. The blackened steel staircase dramatically ascends to a private mezzanine. The scene is dynamically illuminated by abundant, soft, and diffused natural light streaming from monumental arched windows, characteristic of mid-morning (10 AM - 12 PM). Raw polished concrete floors, crisp white walls, and original cast-iron structural elements emphasize the loft's historic character and scale. Soaring ceilings (approx. 12-14ft) are accentuated. Minimalist track lighting highlights the structural innovation. A subtle hint of the hidden, sound-proofed recording studio door is visible. Tripod-mounted, bracketing for dynamic range, emphasizing architectural innovation, verticality, and the interplay of light and shadow. High resolution, sharp focus, photorealistic quality.",
+      "type": "special_feature",
+      "camera": "24mm wide-angle"
+    }
+  ],
+  "image_descriptions": [
+    "A professional architectural photograph of a sprawling living room in an Industrial Luxury, Minimalist style with a Creative & Artistic Edge. The scene is bathed in abundant, soft, and diffused natural light from monumental arched windows, characteristic of mid-morning (10 AM - 12 PM). Walls are crisp white with exposed concrete and original cast-iron structural elements visible. The raw polished concrete floors reflect the light. Furniture includes streamlined contemporary and mid-century modern pieces in dark walnut wood and blackened steel, featuring a natural full-grain leather sofa and textured linen accents. Accents of brushed brass and deep charcoal are present, along with a vibrant, curated art piece. Soaring ceilings (approx. 12-14ft) and a glimpse of the floating steel staircase to the private mezzanine are prominent. Strategically placed warm LED recessed lighting and minimalist track lighting are subtly visible. Tripod-mounted, bracketing for dynamic range, emphasizing scale, light, and curated details. High resolution, sharp focus, photorealistic quality.",
+    "A professional architectural photograph of a living room seating area, showcasing curated details in an Industrial Luxury, Minimalist style with a Creative & Artistic Edge. The space is illuminated by soft, diffused natural light from monumental arched windows, characteristic of mid-morning (10 AM - 12 PM), casting gentle shadows. Crisp white walls, exposed concrete, and raw polished concrete floors provide a clean backdrop. A deep charcoal sofa with muted olive green accent pillows is paired with a dark walnut coffee table featuring blackened steel accents. A vibrant, curated art piece is prominently displayed. A sculptural industrial-chic fixture in brushed brass provides subtle ambient light. Original cast-iron structural elements are subtly integrated. Tripod-mounted, bracketing for dynamic range, emphasizing material textures, curated details, and the interplay of light. High resolution, sharp focus, photorealistic quality.",
+    "A professional architectural photograph of a minimalist kitchen in an Industrial Luxury style. The space features honed concrete countertops and a seamless integration of matte black and dark walnut flat-panel cabinetry. Integrated stainless steel appliances are visible, alongside industrial-style open shelving in blackened steel. Matte black fixtures complete the look. Abundant, soft, and diffused natural light from a nearby monumental arched window illuminates the scene, characteristic of mid-morning (10 AM - 12 PM). Raw polished concrete floors extend throughout. Warm LED recessed lighting and minimalist track lighting highlight the workspace. Soaring ceilings (approx. 12-14ft) are evident. Tripod-mounted, bracketing for dynamic range, emphasizing clean lines, functional design, and material quality. High resolution, sharp focus, photorealistic quality.",
+    "A professional architectural photograph of a serene master bedroom in an Industrial Luxury, Minimalist style. Soft, diffused natural light from a monumental arched window creates a tranquil atmosphere, characteristic of mid-morning (10 AM - 12 PM). Crisp white walls and exposed concrete frame the space, with raw polished concrete floors underfoot. The furniture includes a streamlined dark walnut floating bed frame and minimalist nightstands, accented by blackened steel lamps. Natural linen fabrics in muted tones dress the bed, with a subtle deep charcoal or muted olive green throw. Soaring ceilings (approx. 12-14ft) enhance the spacious feel. Strategically placed warm LED recessed lighting is subtly active. Tripod-mounted, bracketing for dynamic range, emphasizing tranquility, light, and curated comfort. High resolution, sharp focus, photorealistic quality.",
+    "A professional architectural photograph of a luxurious bathroom in an Industrial Luxury, Minimalist style. The space features large format dark slate tiles on walls and floor, creating a cohesive, sophisticated look. A minimalist floating vanity in dark walnut with integrated lighting is prominent, paired with matte black fixtures. A frameless glass shower enclosure adds to the sleek design. Abundant, soft, and diffused natural light, characteristic of mid-morning (10 AM - 12 PM), brightens the room. Soaring ceilings (approx. 12-14ft) are implied. Tripod-mounted, bracketing for dynamic range, emphasizing clean lines, luxurious materials, and functional elegance. High resolution, sharp focus, photorealistic quality.",
+    "A professional architectural photograph highlighting the floating steel staircase and mezzanine, embodying Industrial Luxury, Minimalist design with a Creative & Artistic Edge. The blackened steel staircase dramatically ascends to a private mezzanine. The scene is dynamically illuminated by abundant, soft, and diffused natural light streaming from monumental arched windows, characteristic of mid-morning (10 AM - 12 PM). Raw polished concrete floors, crisp white walls, and original cast-iron structural elements emphasize the loft's historic character and scale. Soaring ceilings (approx. 12-14ft) are accentuated. Minimalist track lighting highlights the structural innovation. A subtle hint of the hidden, sound-proofed recording studio door is visible. Tripod-mounted, bracketing for dynamic range, emphasizing architectural innovation, verticality, and the interplay of light and shadow. High resolution, sharp focus, photorealistic quality."
+  ],
+  "created_at": "2025-10-23T14:08:24.708049+00:00",
+  "expires_at": "2025-10-23T15:08:24.708057+00:00"
+}

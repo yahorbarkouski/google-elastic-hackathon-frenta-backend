@@ -1,0 +1,80 @@
+{
+  "apartment_id": "generated_hudson_yards_manhattan_833ebdb9",
+  "description": "Discover unparalleled urban luxury in this sleek studio apartment, perfectly situated in the vibrant heart of Hudson Yards. Embodying a Modern Urban Luxury aesthetic with Minimalist Elegance, this residence offers breathtaking city views through expansive floor-to-ceiling windows. The open-concept layout is accentuated by soaring 10-foot ceilings and rich Brazilian cherry hardwood floors, creating an airy and sophisticated ambiance. Recessed LED lighting and integrated smart home control panels provide seamless modern living. The compact yet highly efficient kitchen features pristine quartz countertops, top-of-the-line stainless steel appliances, and a convenient breakfast bar. The contemporary bathroom is a sanctuary with its glass-enclosed shower and chic floating vanity. Residents enjoy a full suite of amenities in this white-glove building, including a 24/7 doorman, state-of-the-art fitness center, a stylish resident lounge, and a secure package room. Steps away from iconic landmarks like The Vessel, the serene Hudson River Park, and the convenient 7 train, this studio offers the ultimate Manhattan lifestyle.",
+  "style_plan": {
+    "aesthetic": "Modern Urban Luxury with Minimalist Elegance",
+    "color_palette": {
+      "walls": "Crisp White (e.g., Benjamin Moore Chantilly Lace equivalent) for maximum brightness and spaciousness",
+      "floors": "Rich Brazilian Cherry Hardwood (deep reddish-brown, highly polished finish)",
+      "furniture": "Light grays, creams, and natural wood tones (walnut, ash) with polished chrome or brushed steel accents",
+      "accents": "Subtle metallic accents (brushed brass, polished chrome), deep jewel tones (emerald green, sapphire blue) in minimalist textiles, and sophisticated monochromatic art"
+    },
+    "lighting": {
+      "type": "Abundant natural light, soft and diffused, complemented by warm, strategically placed artificial lighting",
+      "time_of_day": "Late afternoon/early evening (golden hour) for interior shots, emphasizing city views and a warm, inviting ambiance",
+      "artificial": "Warm LED recessed lighting (2700K-3000K), sleek under-cabinet lighting in the kitchen, and subtle ambient light from smart home fixtures"
+    },
+    "materials": {
+      "kitchen": "White quartz countertops, stainless steel appliances, seamless matte white or light gray cabinetry, minimalist breakfast bar with polished chrome or dark wood stools",
+      "bathroom": "Large format polished porcelain tiles (light gray or white), white floating vanity with integrated sink, polished chrome fixtures, frameless glass shower enclosure",
+      "living": "Brazilian cherry hardwood, polished chrome or brushed stainless steel for metal accents, clear glass, smooth leathers (e.g., light gray, cream), and textured natural fabrics (e.g., linen, fine wool) for upholstery"
+    },
+    "architectural_details": [
+      "Floor-to-ceiling windows",
+      "10-foot ceilings",
+      "Brazilian cherry hardwood floors",
+      "Recessed LED lighting",
+      "Sleek smart home control panels and integrated features",
+      "Open concept layout maximizing natural light and city views"
+    ],
+    "photography_style": "Professional architectural and interior design photography. Wide-angle (16-24mm equivalent) for expansive views of the open layout and city, medium shots (35-50mm equivalent) for intimate details and vignettes. Focus on clean lines, symmetry, and showcasing the interplay of natural light and high-end finishes. Use of bracketing and HDR techniques to balance interior exposure with bright city views. Tripod-mounted for sharp, level images. Aperture f/8-f/11 for maximum depth of field and clarity.",
+    "exterior_conditions": "Clear, crisp day, late afternoon (golden hour) transitioning to early evening twilight, highlighting the vibrant city skyline and initial city lights through the floor-to-ceiling windows."
+  },
+  "num_images": 6,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:03:04.778012+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of the open concept living area in a modern urban luxury studio apartment. The 16mm wide-angle lens captures the expansive space, featuring 10-foot ceilings and stunning floor-to-ceiling windows revealing the vibrant Hudson Yards city skyline at golden hour. Abundant natural light, soft and diffused, bathes the room, complemented by warm LED recessed lighting (2700K-3000K) creating an inviting ambiance. The highly polished rich Brazilian Cherry Hardwood floors reflect the light, leading to crisp white walls (Benjamin Moore Chantilly Lace equivalent). Furniture includes a sleek light gray sofa and a cream armchair, both in smooth leather, accented with polished chrome details. A minimalist coffee table of natural ash wood and clear glass sits on a subtle, textured natural fabric rug in a light gray hue. Sophisticated monochromatic art adorns a wall. The composition emphasizes clean lines and symmetry, showcasing the interplay of natural light and high-end finishes. Shot on a tripod, f/8, using bracketing and HDR to balance interior exposure with the bright city views. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_0.png",
+      "type": "living_room_main_space",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional interior design photograph of the intimate sleeping nook within the modern urban luxury studio apartment. The 35mm medium-angle lens frames a thoughtfully arranged space, showcasing a queen-sized bed with crisp white linens and deep emerald green minimalist accent pillows, nestled against a crisp white wall (Benjamin Moore Chantilly Lace equivalent). The rich Brazilian Cherry Hardwood floors extend seamlessly throughout. Soft, diffused natural light from the floor-to-ceiling windows gently illuminates the area, enhanced by warm LED recessed lighting (2700K-3000K). A sleek natural walnut wood bedside table with polished chrome legs holds a subtle smart home control panel. A small, sophisticated monochromatic art piece hangs above the bed. The composition highlights clean lines and minimalist elegance, capturing the warm, inviting ambiance of late afternoon/early evening. Shot on a tripod, f/10, with bracketing for balanced exposure. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_1.png",
+      "type": "living_room_sleeping_nook",
+      "camera": "35mm medium-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the compact yet efficient kitchen in the modern urban luxury studio apartment. The 20mm wide-angle lens captures the sleek design, featuring seamless matte white cabinetry and pristine white quartz countertops. Stainless steel appliances gleam under warm LED recessed lighting (2700K-3000K) and sleek under-cabinet lighting. A minimalist breakfast bar, crafted from dark wood with polished chrome stools upholstered in light gray smooth leather, extends into the open concept space. The crisp white walls (Benjamin Moore Chantilly Lace equivalent) and highly polished rich Brazilian Cherry Hardwood floors maintain the aesthetic. Abundant natural light from the adjacent floor-to-ceiling windows blends with the artificial light, creating a bright and inviting workspace. The composition emphasizes clean lines and high-end finishes, showcasing the kitchen's functionality and elegance during late afternoon. Shot on a tripod, f/9, using HDR to manage highlights and shadows. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_2.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional interior design photograph of the contemporary bathroom in the modern urban luxury studio apartment. The 35mm medium-angle lens focuses on the luxurious details, showcasing large format polished light gray porcelain tiles on both walls and floor. A crisp white floating vanity with an integrated sink and polished chrome fixtures creates a sleek focal point. A frameless glass shower enclosure with polished chrome hardware is visible, reflecting the soft, diffused natural light from a subtle window or carefully placed warm LED recessed lighting (2700K-3000K). The overall color palette is minimalist with crisp white walls (Benjamin Moore Chantilly Lace equivalent) and subtle metallic accents. The lighting is bright yet warm, emphasizing the clean lines and high-end materials. Shot on a tripod, f/11, ensuring maximum depth of field and clarity. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_3.png",
+      "type": "bathroom",
+      "camera": "35mm medium-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph capturing the stunning city views from the modern urban luxury studio apartment. The 50mm medium-angle lens frames the vibrant Hudson Yards skyline, transitioning from late afternoon golden hour to early evening twilight, with initial city lights beginning to twinkle. The view is seen through the expansive, pristine floor-to-ceiling windows, showcasing the clear, crisp day conditions. The interior foreground subtly features the rich Brazilian Cherry Hardwood floors and a hint of a crisp white wall, providing context without distracting from the exterior. The composition emphasizes the dramatic interplay of the warm interior ambiance, created by soft, diffused natural light and warm LED recessed lighting (2700K-3000K), with the dynamic exterior cityscape. Shot on a tripod, f/10, utilizing bracketing and advanced HDR techniques to perfectly balance the bright exterior with the interior exposure. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_4.png",
+      "type": "city_view_through_window",
+      "camera": "50mm medium-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional interior design photograph focusing on a sleek smart home control panel, integrated seamlessly into a crisp white wall (Benjamin Moore Chantilly Lace equivalent), in the modern urban luxury studio apartment. The 50mm medium-angle lens captures the minimalist elegance of this architectural detail. The polished chrome finish of the panel subtly reflects the soft, diffused natural light from nearby floor-to-ceiling windows, complemented by warm LED recessed lighting (2700K-3000K). A glimpse of the highly polished rich Brazilian Cherry Hardwood floor is visible in the foreground, grounding the image in the apartment's luxurious material palette. The composition highlights clean lines and precision, showcasing the sophisticated technology as an integral part of the design. Shot on a tripod, f/11, for maximum clarity and depth of field on the detail. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_833ebdb9_5.png",
+      "type": "architectural_detail_smart_home",
+      "camera": "50mm medium-angle"
+    }
+  ]
+}

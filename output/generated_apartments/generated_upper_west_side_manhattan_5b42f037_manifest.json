@@ -1,0 +1,96 @@
+{
+  "apartment_id": "generated_upper_west_side_manhattan_5b42f037",
+  "description": "Discover timeless elegance in this exquisite 3-bedroom, 2-bathroom pre-war apartment, ideally situated on a picturesque, tree-lined street in the heart of the Upper West Side. This classic New York residence showcases exceptional architectural details, including soaring 9-foot beamed ceilings, intricate crown molding, and beautifully preserved original hardwood floors that flow throughout. A gracious formal entry foyer welcomes you into expansive living and dining rooms, perfect for both grand entertaining and comfortable everyday living. The windowed galley kitchen is a chef's delight, featuring sleek white Shaker cabinets, luxurious granite countertops, and a tasteful subway tile backsplash. Each of the three generous bedrooms offers ample space and excellent closet storage. Both full bathrooms retain their historic charm with vintage tiling and classic clawfoot tubs. Additional pre-war highlights include a charming decorative fireplace, complete with a classic mantel, and elegant built-in bookshelves, adding character and functionality. Enjoy unparalleled convenience with Central Park, top-rated schools, iconic Zabar's, and express subway lines all just moments away. Experience classic New York living at its finest in this truly special home.",
+  "style_plan": {
+    "aesthetic": "Classic Pre-War Elegance",
+    "color_palette": {
+      "walls": "Soft off-whites (e.g., Benjamin Moore 'White Dove'), warm grays, or subtle, muted pastels to complement existing architectural features.",
+      "floors": "Original medium-tone hardwood floors, polished to a soft sheen.",
+      "furniture": "Transitional or classic pieces, comfortable yet refined, in natural woods (walnut, mahogany), linen, velvet, and high-quality cotton.",
+      "accents": "Polished brass, antique gold, crystal, rich textiles (velvet, silk, cashmere throws), fresh white or soft-hued flowers, and classic art."
+    },
+    "lighting": {
+      "type": "Abundant, soft natural light, enhanced by warm, inviting artificial light.",
+      "time_of_day": "Mid-morning to early afternoon for bright, airy interiors (kitchen, bedrooms); late afternoon for warm, inviting living and dining spaces to emphasize coziness.",
+      "artificial": "Elegant chandeliers, sconces, and lamps with warm LED bulbs (2700K-3000K), emphasizing existing pre-war fixtures and creating a layered lighting effect."
+    },
+    "materials": {
+      "kitchen": "White Shaker cabinets, granite counters (light, neutral tones), subway tile backsplash, stainless steel appliances.",
+      "bathroom": "Vintage tile (e.g., classic black and white mosaic or white subway tile with dark grout), classic pedestal sinks or period-appropriate vanities, polished nickel or chrome fixtures, clawfoot tubs.",
+      "living": "Rich woods (walnut, cherry, mahogany), upholstered pieces in linen, velvet, or high-quality cotton; brass, crystal, and glass accents. Emphasize textures like wool rugs and silk pillows."
+    },
+    "architectural_details": [
+      "9-foot beamed ceilings",
+      "Crown molding",
+      "Original hardwood floors",
+      "Formal entry foyer",
+      "Decorative fireplace (styled with classic mantel decor)",
+      "Built-in bookshelves (styled with curated books and tasteful objects)",
+      "Vintage bathroom tile",
+      "Clawfoot tubs"
+    ],
+    "photography_style": "Refined architectural photography with an intimate, inviting feel. Use lenses that accurately represent space without distortion (e.g., 24-35mm equivalent for full-frame). Focus on capturing the interplay of light and shadow, the texture of materials, and the unique pre-war details. Shots should convey spaciousness while highlighting charming elements. Minimal staging, emphasizing elegance and comfort.",
+    "exterior_conditions": "Clear, bright day with soft, diffused sunlight, showcasing the tree-lined street and the classic pre-war building facade. Avoid harsh shadows or overcast skies. Emphasize the elegant street presence."
+  },
+  "num_images": 8,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:06:38.200581+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a spacious living room, showcasing Classic Pre-War Elegance. The walls are painted in soft off-white (Benjamin Moore 'White Dove'), complemented by original medium-tone hardwood floors polished to a soft sheen. Abundant, soft natural light streams in from large windows during late afternoon, enhanced by warm, inviting artificial light from elegant chandeliers and lamps with warm LED bulbs (2700K-3000K). The room features transitional and classic furniture: a comfortable sofa upholstered in high-quality linen, accent chairs in velvet, and coffee/side tables in natural walnut. Accents include polished brass and crystal lamps, a classic art piece above the decorative fireplace, cashmere throws, and fresh white flowers in a crystal vase. Architectural details like 9-foot beamed ceilings, crown molding, a decorative fireplace with classic mantel decor, and built-in bookshelves styled with curated books and tasteful objects are prominent. The composition is a wide-angle shot (e.g., 28mm equivalent) capturing the room's spaciousness and the interplay of light and shadow, with sharp focus on textures and pre-war elements. High resolution, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_0.png",
+      "type": "living_room",
+      "camera": "28mm equivalent"
+    },
+    {
+      "index": 1,
+      "prompt": "A refined architectural photograph of the elegant dining area, part of the main living space, exuding Classic Pre-War Elegance. The walls are soft off-white (Benjamin Moore 'White Dove'), and the original medium-tone hardwood floors are polished to a soft sheen. The lighting is abundant, soft natural light from windows during late afternoon, complemented by the warm glow of an elegant chandelier and sconces with warm LED bulbs (2700K-3000K), creating a cozy and inviting atmosphere. Furniture includes a classic mahogany dining table with linen upholstered chairs and a natural walnut sideboard. Accents feature an antique gold mirror, crystal decanters, fresh soft-hued flowers as a centerpiece, and a velvet table runner. Architectural details such as 9-foot beamed ceilings and crown molding are clearly visible. The composition is a medium shot (e.g., 35mm equivalent) focusing on the dining area, emphasizing its intimate and refined feel, capturing the texture of the wood and fabrics. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_1.png",
+      "type": "living_room",
+      "camera": "35mm equivalent"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of a windowed galley kitchen, showcasing Classic Pre-War Elegance with a bright, airy feel. The walls feature a white subway tile backsplash, and the original medium-tone hardwood floors are polished to a soft sheen. Abundant, soft natural light streams in through the window during mid-morning, enhanced by warm LED under-cabinet lighting and a subtle ceiling fixture (2700K-3000K). The kitchen is fitted with white Shaker cabinets, light neutral granite counters, and stainless steel appliances. Accents include polished brass hardware on cabinets, a small vase of fresh white flowers, and classic cookbooks. Architectural details like the original hardwood floors are highlighted. The composition is a refined wide-angle view (e.g., 24mm equivalent) showcasing the functional layout without distortion, emphasizing clean lines, light colors, and the bright, airy atmosphere. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_2.png",
+      "type": "kitchen",
+      "camera": "24mm equivalent"
+    },
+    {
+      "index": 3,
+      "prompt": "A refined architectural close-up photograph of a section of the galley kitchen, emphasizing Classic Pre-War Elegance. The view highlights the white Shaker cabinets, light neutral granite counters, and a white subway tile backsplash. Abundant, soft natural light during mid-morning illuminates the surfaces, complemented by warm LED under-cabinet lighting (2700K-3000K). A polished brass faucet and stainless steel sink are featured, alongside accents like a ceramic bowl of fresh fruit and a small potted herb plant. The composition is a detailed shot (e.g., 35mm equivalent) capturing the interplay of light on surfaces and the texture of the materials, with sharp focus on the quality of finishes. High resolution, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_3.png",
+      "type": "kitchen",
+      "camera": "35mm equivalent"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of a spacious master bedroom, conveying Classic Pre-War Elegance with an intimate, comfortable feel. The walls are soft off-white (Benjamin Moore 'White Dove'), and original medium-tone hardwood floors are polished to a soft sheen. Abundant, soft natural light fills the room during early afternoon, creating a bright and airy atmosphere, with warm LED lamps (2700K-3000K) on bedside tables subtly on. The furniture includes a classic, refined bed frame in natural walnut with a high-quality linen upholstered headboard, mahogany nightstands, and a walnut dresser. Accents feature crisp white high-quality cotton bedding, velvet throw pillows, a cashmere throw, polished brass lamps, classic art, and fresh white flowers. Architectural details like 9-foot beamed ceilings, crown molding, and original hardwood floors are prominent. The composition is a refined view (e.g., 35mm equivalent) emphasizing soft light, luxurious textures, and classic pre-war details. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_4.png",
+      "type": "bedroom",
+      "camera": "35mm equivalent"
+    },
+    {
+      "index": 5,
+      "prompt": "A refined architectural photograph of a classic bathroom, showcasing Classic Pre-War Elegance. The walls feature white subway tile with dark grout, and the floors boast a classic black and white mosaic vintage tile. Abundant, soft natural light enters from a window during mid-morning, enhanced by warm LED sconces (2700K-3000K) beside a mirror. The bathroom includes a classic pedestal sink, polished nickel fixtures, and a prominent clawfoot tub. Accents are fluffy white cotton towels, a small crystal vase with a single fresh white flower, and an antique gold framed mirror. Architectural details like the vintage tile and clawfoot tub are highlighted. The composition is a professional view (e.g., 28mm equivalent) focusing on the clean, classic aesthetic, the interplay of light on polished fixtures, and the texture of the tiles. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_5.png",
+      "type": "bathroom",
+      "camera": "28mm equivalent"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional wide-angle architectural photograph capturing the exterior of a classic pre-war building on a tree-lined Upper West Side street, exuding Classic Pre-War Elegance. The scene is set on a clear, bright day with soft, diffused sunlight, casting gentle shadows that define the architectural details without harshness. The building's classic New York architecture and elegant street presence are emphasized, showcasing ornate pre-war facade elements. The composition is a wide-angle view (e.g., 20mm equivalent) capturing the full facade from across the tree-lined street, highlighting the interplay of soft sunlight on the building's textures. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_6.png",
+      "type": "building_exterior",
+      "camera": "20mm equivalent"
+    },
+    {
+      "index": 7,
+      "prompt": "A refined architectural photograph focusing on the special features of the living room: a decorative fireplace and built-in bookshelves, embodying Classic Pre-War Elegance. The walls are soft off-white (Benjamin Moore 'White Dove'), and the original medium-tone hardwood floors are polished to a soft sheen. Abundant, soft natural light from nearby windows during late afternoon is enhanced by warm LED accent lighting within the built-in bookshelves and a lamp on a nearby side table (2700K-3000K), creating a cozy focal point. The decorative fireplace features classic mantel decor (e.g., antique gold clock, framed art), and the built-in bookshelves are styled with curated books and tasteful objects. A comfortable velvet armchair in a muted tone sits nearby. Architectural details like 9-foot beamed ceilings and crown molding are visible. The composition is a professional view (e.g., 35mm equivalent) capturing the intricate details of the molding and mantel, the texture of the books and objects, and the warm, inviting glow of the layered lighting. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_upper_west_side_manhattan_5b42f037_7.png",
+      "type": "special_feature",
+      "camera": "35mm equivalent"
+    }
+  ]
+}

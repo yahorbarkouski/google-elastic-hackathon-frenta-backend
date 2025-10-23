@@ -1,0 +1,53 @@
+{
+  "apartment_id": "brooklyn_brownstone",
+  "description": "Cozy Brooklyn brownstone with vintage charm, fireplace, and garden access",
+  "style_plan": {
+    "aesthetic": "Refined Eclectic with Vintage Charm and Contemporary Comfort",
+    "color_palette": {
+      "walls": "Warm off-white (e.g., Benjamin Moore 'White Dove' or 'Swiss Coffee') with select exposed original red-brick accent walls.",
+      "floors": "Deep, rich stained original hardwood (walnut or espresso tones) with subtle sheen.",
+      "furniture": "A curated mix of classic mid-century modern (walnut, teak) and traditional vintage pieces (dark wood, aged leather, natural linen, velvet upholstery in muted jewel tones).",
+      "accents": "Aged brass, dark bronze, ceramic, terracotta, natural greenery, woven textures (wool, jute), deep jewel tones (emerald, sapphire, ruby) in textiles."
+    },
+    "lighting": {
+      "type": "Soft, diffused natural light, enhancing warmth and coziness, with strategic use of artificial light to create inviting ambiance.",
+      "time_of_day": "Late morning for general bright, even room shots; late afternoon (golden hour) for intimate, cozy moments, especially around the fireplace and garden views.",
+      "artificial": "Warm, dimmable LED lighting in vintage-inspired fixtures (brass pendants, sconces), and a glowing, well-staged fireplace."
+    },
+    "materials": {
+      "kitchen": "Creamy white subway tile backsplash, honed marble or light quartz countertops, shaker-style cabinetry (muted sage green or off-white), matte black or aged brass fixtures, stainless steel appliances integrated seamlessly.",
+      "bathroom": "Carrara marble hexagonal floor tiles, white subway tile wainscoting, vintage-style pedestal sink, brass or oil-rubbed bronze fixtures, frameless glass shower enclosure or clawfoot tub.",
+      "living": "Rich, dark hardwood, aged leather, natural linen, velvet, wool rugs, exposed brick, dark wood (walnut, mahogany) furniture, brass and ceramic decorative elements."
+    },
+    "architectural_details": [
+      "Original decorative fireplace with a substantial mantelpiece (wood or marble)",
+      "High ceilings with original crown molding and ceiling medallions",
+      "Deep-set sash windows with original trim",
+      "Original dark-stained hardwood floors",
+      "Exposed red brick accent walls (where applicable)",
+      "Built-in shelving or cabinetry with classic detailing",
+      "Original staircase newel post and balusters"
+    ],
+    "photography_style": "A balanced approach combining architectural precision for space and light, with intimate, lifestyle-oriented vignettes to convey coziness and charm. Use of a full-frame equivalent lens (24-35mm) for interiors to capture room scale without excessive distortion. Aperture f/8-f/11 for maximum sharpness and depth of field. Tripod-mounted, bracketing for dynamic range, natural light prioritized but augmented with warm artificial light when necessary. Focus on clean lines, balanced compositions, and highlighting key features.",
+    "exterior_conditions": "Late afternoon on a clear, sunny day to capture the warm golden light on the brownstone facade, highlighting its texture and historic details. The garden should be lush, well-maintained, and inviting, potentially with dappled sunlight."
+  },
+  "num_images": 2,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-22T13:06:25.822161+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a cozy Brooklyn brownstone living room. The aesthetic is Refined Eclectic with Vintage Charm and Contemporary Comfort. Walls are warm off-white (Benjamin Moore 'White Dove'), contrasting with a select exposed original red-brick accent wall behind the fireplace. Floors are deep, rich stained original hardwood (walnut tones) with a subtle sheen. Furniture includes a classic mid-century modern walnut credenza, an aged leather sofa, and a natural linen armchair. Accents feature an aged brass floor lamp, deep emerald velvet throw pillows, and natural greenery in a ceramic pot. Soft, diffused natural light streams from deep-set sash windows, enhancing warmth and coziness. Strategic use of warm, dimmable LED lighting from a vintage-inspired brass pendant and a table lamp creates an inviting ambiance, captured during late morning. Architectural details include an original decorative fireplace with a substantial dark wood mantelpiece, high ceilings with original crown molding, deep-set sash windows with original trim, and original dark-stained hardwood floors. The composition is balanced, capturing the room scale and highlighting the fireplace and exposed brick with clean lines and sharp focus throughout. Tripod-mounted, full-frame equivalent 28mm lens, aperture f/9, bracketing for dynamic range.",
+      "file_path": "output/generated_apartments/brooklyn_brownstone_0.png",
+      "type": "living_room",
+      "camera": "full-frame equivalent 28mm lens"
+    },
+    {
+      "index": 1,
+      "prompt": "An intimate, lifestyle-oriented vignette of a cozy reading nook in the Brooklyn brownstone living room. The aesthetic is Refined Eclectic with Vintage Charm and Contemporary Comfort. Walls are warm off-white (Benjamin Moore 'White Dove'), and the deep, rich stained original hardwood floors (walnut tones) have a subtle sheen. A traditional vintage dark wood side table sits beside a velvet armchair in a muted sapphire tone. Accents include an aged brass table lamp, terracotta decorative objects, and a woven jute rug. The scene is bathed in intimate, cozy late afternoon (golden hour) light, casting a warm glow. A well-staged, glowing fireplace provides a focal point, augmented by warm, dimmable LED lighting from the brass table lamp. Architectural details include the original decorative fireplace with a substantial wood mantelpiece and original dark-stained hardwood floors. The composition emphasizes the cozy interaction between the fireplace and armchair, conveying charm with a shallow depth of field to highlight the vignette and sharp focus on the armchair. Tripod-mounted, full-frame equivalent 35mm lens, aperture f/8, bracketing for dynamic range.",
+      "file_path": "output/generated_apartments/brooklyn_brownstone_1.png",
+      "type": "living_room",
+      "camera": "full-frame equivalent 35mm lens"
+    }
+  ]
+}

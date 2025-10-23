@@ -1,0 +1,80 @@
+{
+  "apartment_id": "generated_praga_warsaw_4ab493cb",
+  "description": "Discover sophisticated urban living in this exquisitely renovated 1-bedroom apartment, nestled in Warsaw's vibrant Praga district. Embodying a Modern Scandinavian Minimalism with an urban edge, this contemporary residence offers an immediate sense of spaciousness with its open-plan living area. Blonde wood flooring flows seamlessly throughout, complemented by light gray walls and expansive, triple-glazed windows that flood the space with natural light. The sleek kitchen is a culinary dream, featuring white high-gloss cabinetry, concrete-look countertops, and integrated appliances, all designed for both aesthetics and functionality. The tranquil bedroom comfortably accommodates a king-sized bed and boasts a clever built-in wardrobe, ensuring ample storage with clean lines. The modern bathroom is a sanctuary of design, showcasing geometric tiling, minimalist chrome fixtures, and a luxurious walk-in shower. This energy-efficient home benefits from advanced heating and its triple-glazed windows. The building itself offers renovated common areas and convenient bike storage. Located steps from the dynamic Praga Koneser Center, trendy eateries, unique vintage shops, and excellent tram connections, this apartment is ideal for young professionals seeking a stylish, modern base in one of Warsaw's most creative and up-and-coming neighborhoods.",
+  "style_plan": {
+    "aesthetic": "Modern Scandinavian Minimalism with Urban Edge",
+    "color_palette": {
+      "walls": "Light gray (e.g., Benjamin Moore 'Gray Owl' or Farrow & Ball 'Skimming Stone')",
+      "floors": "Blonde wood (e.g., light oak or birch, matte finish)",
+      "furniture": "Natural light wood (ash, birch), white, charcoal gray, muted textiles (linen, wool)",
+      "accents": "Black, subtle forest green or dusty rose, chrome, minimal brass"
+    },
+    "lighting": {
+      "type": "Abundant, soft natural light, diffused to avoid harsh shadows and glare",
+      "time_of_day": "Mid-morning to early afternoon (10 AM - 2 PM) for consistent, bright, and even illumination",
+      "artificial": "Subtle, warm LED recessed lighting, minimalist track lighting, or simple pendant lights where present, used to supplement natural light rather than dominate"
+    },
+    "materials": {
+      "kitchen": "White high-gloss laminate cabinets, concrete-look quartz or composite countertops, integrated stainless steel appliances, minimalist backsplash (e.g., white subway tile or continuation of counter material)",
+      "bathroom": "Geometric porcelain or ceramic tile (e.g., white/gray patterns, matte finish), chrome fixtures, frameless glass walk-in shower enclosure, white ceramic vanity",
+      "living_bedroom": "Blonde/light wood (birch, ash), minimalist upholstered pieces in gray/off-white linen or wool, matte black or chrome metal accents, glass, concrete-look elements"
+    },
+    "architectural_details": [
+      "Large, triple-glazed windows maximizing natural light",
+      "Open-plan living space emphasizing flow and spaciousness",
+      "Sleek built-in cabinetry (kitchen, bedroom wardrobe) with clean lines",
+      "Modern geometric bathroom tiling and walk-in shower",
+      "Minimalist chrome fixtures throughout",
+      "Blonde wood flooring as a continuous element"
+    ],
+    "photography_style": "Clean, wide-angle architectural photography emphasizing spaciousness, natural light, and the Scandinavian minimalist design. Utilize a neutral, slightly elevated perspective. Include detailed vignettes of key features (kitchen, bathroom, built-in wardrobe, window views). Minimal, carefully curated staging to highlight functionality and aesthetic. Use a wide-angle lens (e.g., 16-24mm equivalent) at f/5.6-f/8 for sharp focus and depth of field.",
+    "exterior_conditions": "Clear or lightly overcast day to ensure even light, showcasing the renovated building facade, common areas, and surrounding vibrant streetscape. Mid-day for bright, accurate colors and to capture the 'up-and-coming' neighborhood vibe."
+  },
+  "num_images": 6,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:23:34.060750+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of an open-plan living space, emphasizing spaciousness and Modern Scandinavian Minimalism with an Urban Edge. The room features light gray walls (e.g., Benjamin Moore 'Gray Owl'), continuous blonde wood flooring (light oak, matte finish), and abundant, soft natural light diffused from large, triple-glazed windows during mid-morning to early afternoon (10 AM - 2 PM). Furniture includes a charcoal gray linen sofa, a natural light wood (ash) coffee table, and subtle black or chrome metal accents. The composition is a clean, wide-angle shot from a neutral, slightly elevated perspective, captured with a 16mm wide-angle lens at f/5.6-f/8 for sharp focus and depth of field, highlighting the seamless flow and bright, even illumination.",
+      "file_path": "output/generated_apartments/generated_praga_warsaw_4ab493cb_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph focusing on the sleek kitchen, emphasizing Modern Scandinavian Minimalism. The kitchen features white high-gloss laminate cabinets, concrete-look quartz countertops, integrated stainless steel appliances, and a minimalist white subway tile backsplash. The continuous blonde wood flooring (birch, matte finish) is visible. Abundant, soft natural light, diffused to avoid harsh shadows, illuminates the space during mid-morning to early afternoon (10 AM - 2 PM). The composition is a detailed vignette, captured with a 20mm wide-angle lens at f/5.6-f/8 from a neutral, slightly elevated perspective, ensuring sharp focus on the clean lines and material textures.",
+      "file_path": "output/generated_apartments/generated_praga_warsaw_4ab493cb_1.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the bedroom, showcasing Modern Scandinavian Minimalism with an Urban Edge. The room features light gray walls (e.g., Farrow & Ball 'Skimming Stone'), continuous blonde wood flooring (light oak, matte finish), and abundant, soft natural light diffused from a large, triple-glazed window during mid-morning to early afternoon (10 AM - 2 PM). A king-sized bed with off-white linen bedding is centrally placed, flanked by minimalist natural light wood (ash) bedside tables with subtle black accents. A sleek built-in wardrobe with clean lines (white laminate) is visible. The shot is a clean, wide-angle view from a neutral, slightly elevated perspective, captured with a 24mm wide-angle lens at f/5.6-f/8 for sharp focus and depth of field.",
+      "file_path": "output/generated_apartments/generated_praga_warsaw_4ab493cb_2.png",
+      "type": "bedroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph of the modern bathroom, emphasizing clean lines and geometric design. The space features geometric porcelain tile (white/gray patterns, matte finish) on the walls and floor, minimalist chrome fixtures, a frameless glass walk-in shower enclosure, and a white ceramic vanity. Light gray walls and a glimpse of the continuous blonde wood flooring from the entrance are visible. Abundant, soft natural light, diffused to avoid harsh shadows, enters the space during mid-morning to early afternoon (10 AM - 2 PM), supplemented by subtle warm LED recessed lighting. The composition is a clean, wide-angle shot from a neutral, slightly elevated perspective, captured with a 20mm wide-angle lens at f/5.6-f/8, highlighting the modern tiling and chrome details.",
+      "file_path": "output/generated_apartments/generated_praga_warsaw_4ab493cb_3.png",
+      "type": "bathroom",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the open-plan living area, capturing an alternative angle that emphasizes flow and spaciousness, consistent with Modern Scandinavian Minimalism. The scene features light gray walls (e.g., Benjamin Moore 'Gray Owl'), continuous blonde wood flooring (birch, matte finish), and abundant, soft natural light from large, triple-glazed windows during mid-morning to early afternoon (10 AM - 2 PM). A minimalist natural light wood (birch) dining table with white chairs is staged, with a subtle forest green accent piece. The composition is a clean, wide-angle shot from a neutral, slightly elevated perspective, captured with a 20mm wide-angle lens at f/5.6-f/8 for sharp focus and depth of field, showcasing the urban edge through modern design.",
+      "file_path": "output/generated_apartments/generated_praga_warsaw_4ab493cb_4.png",
+      "type": "living_room",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the renovated building facade in the vibrant Praga district, Warsaw. The exterior is captured on a clear or lightly overcast mid-day, ensuring bright, accurate colors and even illumination. The shot showcases the modern architectural elements of the building, with a lively streetscape in the background featuring trendy restaurants, vintage shops, and tram lines, capturing the 'up-and-coming' neighborhood vibe. The perspective is slightly elevated, emphasizing the building's presence within its creative surroundings. Captured with a 24mm wide-angle lens at f/5.6-f/8 for sharp focus on both the foreground facade and the contextual background.",
+      "file_path": "output/generated_apartments/generated_praga_warsaw_4ab493cb_5.png",
+      "type": "building_exterior",
+      "camera": "24mm wide-angle"
+    }
+  ]
+}

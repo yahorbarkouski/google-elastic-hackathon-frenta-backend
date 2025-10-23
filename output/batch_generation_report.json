@@ -1,0 +1,120 @@
+{
+  "generated_at": "2025-10-23T14:29:42.473030",
+  "total_attempted": 10,
+  "total_successful": 10,
+  "total_failed": 0,
+  "success_rate": "100.0%",
+  "results": [
+    {
+      "config_name": "Williamsburg Industrial Loft",
+      "apartment_id": "generated_williamsburg_brooklyn_d4f88e07",
+      "title": "Williamsburg Industrial Loft",
+      "address": "123 N 7th Street, Brooklyn, NY 11211",
+      "city": "NYC",
+      "neighborhood": "Williamsburg",
+      "rent_price": 4250,
+      "num_images": 7,
+      "elasticsearch_id": "generated_williamsburg_brooklyn_d4f88e07"
+    },
+    {
+      "config_name": "SoHo Luxury Modern",
+      "apartment_id": "generated_soho_manhattan_394f62b3",
+      "title": "SoHo Sleek Contemporary Retreat",
+      "address": "123 Prince Street, New York, NY 10012",
+      "city": "NYC",
+      "neighborhood": "SoHo",
+      "rent_price": 5850,
+      "num_images": 8,
+      "elasticsearch_id": "generated_soho_manhattan_394f62b3"
+    },
+    {
+      "config_name": "Hudson Yards Modern Studio",
+      "apartment_id": "generated_hudson_yards_manhattan_833ebdb9",
+      "title": "Hudson Yards Modern Luxury",
+      "address": "520 W 30th Street, New York, NY 10001",
+      "city": "NYC",
+      "neighborhood": "Hudson Yards",
+      "rent_price": 3250,
+      "num_images": 6,
+      "elasticsearch_id": "generated_hudson_yards_manhattan_833ebdb9"
+    },
+    {
+      "config_name": "Upper West Side Classic",
+      "apartment_id": "generated_upper_west_side_manhattan_5b42f037",
+      "title": "Upper West Side Pre-War Elegance",
+      "address": "321 West 84th Street, New York, NY 10024",
+      "city": "NYC",
+      "neighborhood": "Upper West Side",
+      "rent_price": 6550,
+      "num_images": 8,
+      "elasticsearch_id": "generated_upper_west_side_manhattan_5b42f037"
+    },
+    {
+      "config_name": "East Village Bohemian",
+      "apartment_id": "generated_east_village_manhattan_81c021e5",
+      "title": "East Village Urban Bohemian",
+      "address": "235 E 7th Street, New York, NY 10009",
+      "city": "NYC",
+      "neighborhood": "East Village",
+      "rent_price": 2850,
+      "num_images": 6,
+      "elasticsearch_id": "generated_east_village_manhattan_81c021e5"
+    },
+    {
+      "config_name": "Brooklyn Heights Garden",
+      "apartment_id": "generated_brooklyn_heights_brooklyn_890225e1",
+      "title": "Brooklyn Heights Refined Charm",
+      "address": "123 Pierrepont Street, Brooklyn, NY 11201",
+      "city": "NYC",
+      "neighborhood": "Brooklyn Heights",
+      "rent_price": 3650,
+      "num_images": 7,
+      "elasticsearch_id": "generated_brooklyn_heights_brooklyn_890225e1"
+    },
+    {
+      "config_name": "Tribeca Minimalist",
+      "apartment_id": "generated_tribeca_manhattan_c34d4bed",
+      "title": "Tribeca Minimalist Chic",
+      "address": "77 Warren Street, New York, NY 10007",
+      "city": "NYC",
+      "neighborhood": "Tribeca",
+      "rent_price": 5250,
+      "num_images": 8,
+      "elasticsearch_id": "generated_tribeca_manhattan_c34d4bed"
+    },
+    {
+      "config_name": "\u015ar\u00f3dmie\u015bcie Pre-War",
+      "apartment_id": "generated_srodmiescie_warsaw_62430fe5",
+      "title": "\u015ar\u00f3dmie\u015bcie Refined Historic Elegance",
+      "address": "Ulica Foksal 10/7, 00-372 Warszawa, Polska",
+      "city": "Warsaw",
+      "neighborhood": "\u015ar\u00f3dmie\u015bcie",
+      "rent_price": 6500,
+      "num_images": 7,
+      "elasticsearch_id": "generated_srodmiescie_warsaw_62430fe5"
+    },
+    {
+      "config_name": "Praga Modern",
+      "apartment_id": "generated_praga_warsaw_4ab493cb",
+      "title": "Praga Modern Scandinavian",
+      "address": "Jagiello\u0144ska 20, 03-719 Warszawa, Polska",
+      "city": "Warsaw",
+      "neighborhood": "Praga",
+      "rent_price": 4500,
+      "num_images": 6,
+      "elasticsearch_id": "generated_praga_warsaw_4ab493cb"
+    },
+    {
+      "config_name": "Mokot\u00f3w Family",
+      "apartment_id": "generated_mokotow_warsaw_4bf4f42a",
+      "title": "Mokot\u00f3w Bright Contemporary Haven",
+      "address": "Ulica Rac\u0142awicka 12, 02-601 Warszawa",
+      "city": "Warsaw",
+      "neighborhood": "Mokot\u00f3w",
+      "rent_price": 7850,
+      "num_images": 8,
+      "elasticsearch_id": "generated_mokotow_warsaw_4bf4f42a"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "apartment_id": "generated_upper_west_side_manhattan_88a1d6f2",
+  "title": "Upper West Side Pre-War Grandeur",
+  "description": "Perched majestically on Central Park West, this exquisite 2-bedroom Upper West Side residence offers a rare fusion of pre-war grandeur and sophisticated modern luxury. Step inside to discover original herringbone parquet floors that span the expansive living spaces, complemented by intricate crown molding that speaks to the building's historic elegance. Bay windows frame breathtaking, sweeping views of Central Park, providing a serene backdrop to daily life. This home is replete with unique, bespoke details, including a hidden walk-in closet ingeniously tucked behind a pivoting bookshelf, adding an element of intrigue and unparalleled convenience. An artfully crafted built-in cocktail bar transforms the living area into an entertainer's dream, perfect for intimate gatherings. The serene master bedroom and elegantly appointed bathroom continue the theme of transitional elegance. This gem embodies an exclusive, old-world glamour, meticulously updated for sophisticated urban living, offering a truly distinctive NYC experience.",
+  "address": "101 Central Park West, New York, NY 10023",
+  "neighborhood_id": "upper_west_side_manhattan",
+  "rent_price": 15500,
+  "availability_dates": [
+    {
+      "start": "2024-09-01",
+      "end": "2025-08-31"
+    }
+  ],
+  "style_plan": {
+    "aesthetic": "Transitional Elegance with Old-World Glamour",
+    "color_palette": {
+      "walls": "Soft off-white or light greige to highlight intricate architectural details",
+      "floors": "Rich, dark walnut herringbone parquet",
+      "furniture": "Classic contemporary with Art Deco influences; featuring deep jewel tones (emerald, sapphire, ruby) and sophisticated neutrals (charcoal, cream, taupe)",
+      "accents": "Polished brass, antique gold, deep forest green, burgundy, or navy velvet textures, complemented by subtle black iron details"
+    },
+    "lighting": {
+      "type": "Abundant soft natural light from bay windows, complemented by warm, layered artificial lighting",
+      "time_of_day": "Mid-morning to early afternoon for bright, clear views and optimal natural light, with select dusk shots to highlight ambient lighting and 'old-world glamour'",
+      "artificial": "Dimmable LED in elegant chandeliers, wall sconces, and subtle recessed lighting; warm color temperature (2700K-3000K) to create an inviting and luxurious atmosphere"
+    },
+    "materials": {
+      "flooring": "Original herringbone parquet (dark walnut) with a rich, polished finish",
+      "built_in_elements": "Polished dark woods (walnut, mahogany) with brass accents for the bespoke cocktail bar and pivoting bookshelf",
+      "decorative_finishes": "Intricate plasterwork for crown molding, solid wood doors, and polished brass or antique gold hardware throughout",
+      "furniture_textiles": "Rich velvets, supple leather, silk, high-quality linen, and wool in deep, saturated colors or elegant neutrals"
+    },
+    "architectural_details": [
+      "Original herringbone parquet floors",
+      "Intricate crown molding",
+      "Bay windows offering sweeping Central Park views",
+      "Hidden walk-in closet discreetly tucked behind a pivoting bookshelf",
+      "Bespoke built-in cocktail bar"
+    ],
+    "exterior_conditions": "Clear day with soft, bright sunlight to highlight Central Park views from bay windows; avoid harsh shadows or overcast skies. For dusk shots, a clear sky with city lights beginning to twinkle.",
+    "photography_style": "Professional architectural photography, blending wide-angle shots (e.g., 24mm or 35mm equivalent prime lens for minimal distortion) for grand spaces and expansive views, with detailed close-ups (e.g., 50mm or 85mm prime) for unique features like the cocktail bar, pivoting bookshelf, and intricate molding. Emphasize natural light, balanced with warm artificial lighting to showcase the property's luxurious ambiance. Composition should highlight depth, elegance, and the seamless blend of pre-war charm and modern sophistication. Avoid excessive HDR; aim for natural light and shadow play."
+  },
+  "aspect_ratio": "16:9",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph, captured with a 24mm wide-angle prime lens, showcasing the living room from a corner perspective. Abundant soft natural light streams through the bay windows, revealing sweeping Central Park views on a clear mid-morning. The walls are soft off-white, complementing the rich, polished dark walnut herringbone parquet floors. A classic contemporary sofa in deep emerald velvet and charcoal linen armchairs with polished brass accents furnish the space. Intricate crown molding is visible. Warm, layered artificial lighting from a brass chandelier, set to a 2700K color temperature, provides an inviting glow. The composition emphasizes depth and elegance, blending pre-war charm with modern sophistication. High resolution, sharp focus, professional quality.",
+      "type": "living_room",
+      "camera": "24mm wide-angle prime lens"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph, captured with a 50mm prime lens, presenting a medium close-up of the bespoke built-in cocktail bar. The bar is crafted from polished dark walnut wood with polished brass accents. The light greige walls and intricate plasterwork crown molding are subtly visible, alongside the rich, polished dark walnut herringbone parquet floor. Warm, layered artificial lighting emanates from subtle recessed LEDs (3000K) and a small wall sconce with an antique gold finish, complemented by soft natural light from a nearby window in the early afternoon. Antique gold bar tools and deep forest green velvet bar stools add to the old-world glamour. High resolution, sharp focus, professional quality.",
+      "type": "special_feature",
+      "camera": "50mm prime lens"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph, captured with a 35mm prime lens, depicting the serene master bedroom. Soft off-white walls and intricate crown molding frame the space, with rich, polished dark walnut herringbone parquet floors extending throughout. Abundant soft natural light from bay windows offers a clear view on a mid-morning, clear day. The classic contemporary bed features a cream linen headboard, ruby velvet throw pillows, and is flanked by dark walnut bedside tables with polished brass lamps. A taupe wool rug adds warmth. Warm, layered artificial lighting from dimmable wall sconces (2700K LED) provides an ambient glow. Polished brass hardware on solid wood doors and subtle black iron on a decorative mirror frame enhance the luxurious ambiance. High resolution, sharp focus, professional quality.",
+      "type": "bedroom",
+      "camera": "35mm prime lens"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph, captured with an 85mm prime lens, focusing on a detailed close-up of the pivoting bookshelf. Crafted from polished dark mahogany wood with polished brass hinges and handles, the bookshelf is slightly ajar, revealing a glimpse of the hidden walk-in closet behind it. Light greige walls with intricate plasterwork crown molding are visible, alongside the original dark walnut herringbone parquet floor. Subtle warm artificial light from recessed LEDs (3000K) within the bookshelf and closet interior is balanced by soft natural light from a nearby window in the early afternoon. The composition highlights the exclusive, old-world glamour and clever design. High resolution, sharp focus, professional quality.",
+      "type": "special_feature",
+      "camera": "85mm prime lens"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph, captured with a 35mm prime lens, showcasing an elegant bathroom. Soft off-white walls with intricate plasterwork crown molding, and rich, polished dark walnut herringbone parquet floors define the space. A dark walnut vanity with a cream marble countertop features polished brass hardware for faucets. Soft natural light from a frosted window on a clear mid-morning is complemented by warm, layered artificial lighting from elegant wall sconces (2700K LED) flanking a large mirror. A navy velvet ottoman and subtle black iron details on a towel rack add to the consistent aesthetic. High resolution, sharp focus, professional quality.",
+      "type": "bathroom",
+      "camera": "35mm prime lens"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph, captured with a 24mm wide-angle prime lens, depicting the pre-war building's facade on Central Park West at dusk. The clear sky is beginning to show twinkling city lights, highlighting the building's intricate architectural details. Warm glow from the building's windows, suggestive of the 2700K-3000K interior artificial lighting, creates an inviting atmosphere. The composition emphasizes the building's grandeur and evokes a sense of old-world glamour and sophisticated urban living. High resolution, sharp focus, professional quality.",
+      "type": "building_exterior",
+      "camera": "24mm wide-angle prime lens"
+    }
+  ],
+  "image_descriptions": [
+    "A professional architectural photograph, captured with a 24mm wide-angle prime lens, showcasing the living room from a corner perspective. Abundant soft natural light streams through the bay windows, revealing sweeping Central Park views on a clear mid-morning. The walls are soft off-white, complementing the rich, polished dark walnut herringbone parquet floors. A classic contemporary sofa in deep emerald velvet and charcoal linen armchairs with polished brass accents furnish the space. Intricate crown molding is visible. Warm, layered artificial lighting from a brass chandelier, set to a 2700K color temperature, provides an inviting glow. The composition emphasizes depth and elegance, blending pre-war charm with modern sophistication. High resolution, sharp focus, professional quality.",
+    "A professional architectural photograph, captured with a 50mm prime lens, presenting a medium close-up of the bespoke built-in cocktail bar. The bar is crafted from polished dark walnut wood with polished brass accents. The light greige walls and intricate plasterwork crown molding are subtly visible, alongside the rich, polished dark walnut herringbone parquet floor. Warm, layered artificial lighting emanates from subtle recessed LEDs (3000K) and a small wall sconce with an antique gold finish, complemented by soft natural light from a nearby window in the early afternoon. Antique gold bar tools and deep forest green velvet bar stools add to the old-world glamour. High resolution, sharp focus, professional quality.",
+    "A professional architectural photograph, captured with a 35mm prime lens, depicting the serene master bedroom. Soft off-white walls and intricate crown molding frame the space, with rich, polished dark walnut herringbone parquet floors extending throughout. Abundant soft natural light from bay windows offers a clear view on a mid-morning, clear day. The classic contemporary bed features a cream linen headboard, ruby velvet throw pillows, and is flanked by dark walnut bedside tables with polished brass lamps. A taupe wool rug adds warmth. Warm, layered artificial lighting from dimmable wall sconces (2700K LED) provides an ambient glow. Polished brass hardware on solid wood doors and subtle black iron on a decorative mirror frame enhance the luxurious ambiance. High resolution, sharp focus, professional quality.",
+    "A professional architectural photograph, captured with an 85mm prime lens, focusing on a detailed close-up of the pivoting bookshelf. Crafted from polished dark mahogany wood with polished brass hinges and handles, the bookshelf is slightly ajar, revealing a glimpse of the hidden walk-in closet behind it. Light greige walls with intricate plasterwork crown molding are visible, alongside the original dark walnut herringbone parquet floor. Subtle warm artificial light from recessed LEDs (3000K) within the bookshelf and closet interior is balanced by soft natural light from a nearby window in the early afternoon. The composition highlights the exclusive, old-world glamour and clever design. High resolution, sharp focus, professional quality.",
+    "A professional architectural photograph, captured with a 35mm prime lens, showcasing an elegant bathroom. Soft off-white walls with intricate plasterwork crown molding, and rich, polished dark walnut herringbone parquet floors define the space. A dark walnut vanity with a cream marble countertop features polished brass hardware for faucets. Soft natural light from a frosted window on a clear mid-morning is complemented by warm, layered artificial lighting from elegant wall sconces (2700K LED) flanking a large mirror. A navy velvet ottoman and subtle black iron details on a towel rack add to the consistent aesthetic. High resolution, sharp focus, professional quality.",
+    "A professional architectural photograph, captured with a 24mm wide-angle prime lens, depicting the pre-war building's facade on Central Park West at dusk. The clear sky is beginning to show twinkling city lights, highlighting the building's intricate architectural details. Warm glow from the building's windows, suggestive of the 2700K-3000K interior artificial lighting, creates an inviting atmosphere. The composition emphasizes the building's grandeur and evokes a sense of old-world glamour and sophisticated urban living. High resolution, sharp focus, professional quality."
+  ],
+  "created_at": "2025-10-22T19:55:12.078206+00:00",
+  "expires_at": "2025-10-22T20:55:12.078211+00:00"
+}

@@ -1,0 +1,91 @@
+{
+  "apartment_id": "generated_williamsburg_brooklyn_d4f88e07",
+  "description": "Discover this exceptional 2-bedroom industrial loft, a true gem nestled in the vibrant heart of Williamsburg, Brooklyn. Boasting a striking Elevated Industrial Modern aesthetic with warm minimalist accents, this residence offers a unique living experience. The expansive open-concept living space is defined by soaring 14-foot ceilings, complemented by original exposed wooden beams and authentic red brick accent walls, evoking a sense of history and grandeur. Massive black-framed factory windows flood the entire loft with an abundance of natural light, enhancing the polished concrete floors that flow seamlessly throughout. The open kitchen is a culinary dream, featuring custom white oak flat panel cabinetry, sleek concrete countertops, and top-of-the-line stainless steel commercial appliances. The master bedroom is a private sanctuary, complete with a generous walk-in closet and distinctive exposed metallic ductwork, maintaining the loft's industrial charm. A contemporary bathroom awaits, showcasing pristine white subway tile and a luxurious frameless glass rainfall shower enclosure. Perfectly situated just two blocks from the Bedford Avenue L train, this loft provides unparalleled access to Williamsburg's renowned cafes, art galleries, and bustling nightlife, making it an ideal urban retreat.",
+  "style_plan": {
+    "aesthetic": "Elevated Industrial Modern with Warm Minimalist Accents",
+    "color_palette": {
+      "walls": "Predominantly crisp white (e.g., Benjamin Moore Chantilly Lace) to maximize light, with prominent original exposed red brick accent walls (deep terracotta to burnt sienna tones).",
+      "floors": "Polished concrete in a light to medium grey tone with a subtle sheen throughout.",
+      "furniture": "Curated blend of clean-lined modern pieces using black steel, dark walnut or white oak wood, charcoal grey or deep olive green upholstery (linen or wool), and tan leather.",
+      "accents": "Subtle pops of deep forest green (plants), warm rust/burnt orange (throw pillows, ceramics), brushed brass or matte black metals, and natural textures like woven baskets or chunky knit throws in cream/oatmeal."
+    },
+    "lighting": {
+      "type": "Abundant, soft, diffused natural light from massive factory windows, emphasizing depth and texture. Avoid harsh direct sunlight.",
+      "time_of_day": "Mid-morning (9 AM - 11 AM) or late afternoon (3 PM - 5 PM) on a slightly overcast day for even, soft light. If sunny, ensure light is indirect or diffused.",
+      "artificial": "Minimal use of artificial lighting, primarily warm white (2700K-3000K) recessed LEDs for ambient fill, and subtle industrial-style pendants or wall sconces in matte black or brushed brass where appropriate (e.g., over kitchen island, bedside)."
+    },
+    "materials": {
+      "kitchen": "Custom white oak cabinetry (flat panel), polished concrete countertops, commercial-grade stainless steel appliances (matte finish), matte black or brushed brass hardware.",
+      "bathroom": "White rectangular subway tile (glossy finish, dark grey grout), polished chrome or matte black fixtures, frameless glass rainfall shower enclosure, concrete vanity top (matching floors) or white oak vanity.",
+      "living": "Polished concrete floors, original exposed red brick, black steel window frames, natural linen or wool upholstery (charcoal, olive), tan leather, dark walnut or white oak wood furniture, brushed brass accents, woven natural fiber rugs."
+    },
+    "architectural_details": [
+      "Soaring 14-foot ceilings",
+      "Exposed wooden beams (dark stained or natural finish)",
+      "Original red brick accent walls",
+      "Massive black-framed factory windows",
+      "Polished concrete floors",
+      "Exposed metallic ductwork (master bedroom)",
+      "Custom white oak kitchen cabinetry",
+      "Concrete kitchen countertops",
+      "Modern white subway tile in bathroom",
+      "Frameless glass rainfall shower enclosure"
+    ],
+    "photography_style": "Architectural and editorial style, emphasizing scale, natural light, and texture. Utilize wide-angle lenses (e.g., 16-24mm full-frame equivalent) for expansive views, complemented by medium telephoto (e.g., 50-85mm) for intimate details and vignettes. Maintain straight verticals and horizontals. Focus on composition, symmetry, and leading lines. Aperture f/8-f/11 for maximum depth of field. Minimal staging, allowing the architectural features to shine.",
+    "exterior_conditions": "Clear, bright day with soft, indirect sunlight. Avoid harsh shadows. Mid-morning or late afternoon for warm, inviting light. No rain or strong wind. Capture the vibrant Williamsburg streetscape and proximity to Bedford Ave L train, ensuring the building facade is well-lit and appealing."
+  },
+  "num_images": 7,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T11:56:31.369306+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of the spacious open-concept living room in an Elevated Industrial Modern loft. Soaring 14-foot ceilings with dark stained exposed wooden beams are prominent. An original exposed red brick accent wall (deep terracotta to burnt sienna tones) contrasts with crisp white walls (Benjamin Moore Chantilly Lace). Massive black-framed factory windows flood the space with abundant, soft, diffused natural light, captured on a mid-morning, slightly overcast day, avoiding harsh direct sunlight. Polished concrete floors (light to medium grey with a subtle sheen) extend throughout. The living area features a charcoal grey linen sofa, a tan leather armchair, and a dark walnut coffee table, all resting on a woven natural fiber rug in cream/oatmeal. Accents include a deep forest green plant in a brushed brass planter and warm rust/burnt orange throw pillows. Composition emphasizes leading lines and straight verticals, showcasing the expansive volume and texture, with an aperture of f/10 for maximum depth of field. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph capturing an intimate vignette in the living room, highlighting textures and materials. A tan leather armchair is positioned against an original exposed red brick accent wall (burnt sienna tones). Adjacent is a dark walnut side table holding a brushed brass industrial-style table lamp (emitting a warm white 2700K glow). A chunky knit throw in cream/oatmeal drapes over the armchair. Abundant, soft, diffused natural light from massive factory windows, consistent with a mid-morning, slightly overcast day, illuminates the scene, emphasizing the tactile qualities of the leather, brick, and knit. Polished concrete floors (light grey) are visible. The composition uses a medium telephoto lens to emphasize details, maintaining straight lines and an aperture of f/8 for a balanced depth of field. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_1.png",
+      "type": "living_room",
+      "camera": "85mm medium telephoto"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the open kitchen, showcasing custom white oak flat panel cabinetry with matte black hardware. Polished concrete countertops (light grey, subtle sheen) extend to a large island, above which hang two matte black industrial-style pendant lights (emitting warm white 2700K light). Commercial-grade matte stainless steel appliances are seamlessly integrated. Crisp white walls (Benjamin Moore Chantilly Lace) and polished concrete floors (light to medium grey) reflect the abundant, soft, diffused natural light streaming in from massive black-framed factory windows on a mid-morning, slightly overcast day. An original exposed red brick accent wall is visible in the background, connecting to the living space. Composition emphasizes the clean lines, symmetry, and functionality of the space, with an aperture of f/10 for maximum depth of field. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_2.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph capturing a close-up detail of the kitchen island, focusing on the interplay of materials. The polished concrete countertop (light grey with subtle sheen) features a sleek undermount sink with a matte black faucet. Custom white oak flat panel cabinetry with matte black hardware is visible below. A subtle deep forest green plant in a small warm rust ceramic pot provides a pop of color. Abundant, soft, diffused natural light from the nearby massive factory windows, captured on a mid-morning, slightly overcast day, illuminates the textures of concrete, wood, and metal. The composition focuses on the curated finishes, maintaining straight lines and an aperture of f/9 for depth. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_3.png",
+      "type": "kitchen",
+      "camera": "50mm medium telephoto"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the master bedroom, featuring soaring 14-foot ceilings with dark stained exposed wooden beams and prominent exposed metallic ductwork. Massive black-framed factory windows fill the room with abundant, soft, diffused natural light, captured on a late afternoon, slightly overcast day, avoiding any harsh direct sunlight. Crisp white walls (Benjamin Moore Chantilly Lace) and polished concrete floors (light to medium grey) create a serene backdrop. A low-profile bed with charcoal grey linen bedding is centered, flanked by dark walnut nightstands with brushed brass wall sconces (emitting a warm white 2700K glow). A subtle deep forest green plant is on one nightstand. Composition emphasizes the unique industrial elements and the spaciousness of the room, using an aperture of f/10. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_4.png",
+      "type": "bedroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the modern bathroom, showcasing glossy white rectangular subway tile with dark grey grout covering the walls. A frameless glass rainfall shower enclosure stands prominently, featuring polished chrome fixtures. A white oak floating vanity with a matching polished concrete vanity top (light grey) and matte black hardware is visible. Polished concrete floors (light to medium grey) extend throughout. Abundant, soft, diffused natural light, consistent with a mid-morning, slightly overcast day, illuminates the space, complemented by minimal warm white (2700K) recessed LEDs for ambient fill. Composition maintains straight verticals and horizontals, highlighting the clean design and material contrasts, with an aperture of f/11 for maximum depth. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_5.png",
+      "type": "bathroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional architectural photograph of the building's exterior facade in Williamsburg, Brooklyn, captured on a clear, bright mid-morning with soft, indirect sunlight illuminating the original red brickwork (deep terracotta to burnt sienna tones) and massive black-framed factory windows. The image showcases the vibrant streetscape, with charming cafes and galleries lining the block, hinting at the proximity to Bedford Ave L train. The building facade is well-lit and appealing, devoid of harsh shadows. The composition uses a wide-angle lens to capture the urban context and the architectural presence of the industrial loft, maintaining straight lines and an aperture of f/11 for overall sharpness. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_williamsburg_brooklyn_d4f88e07_6.png",
+      "type": "exterior",
+      "camera": "28mm wide-angle"
+    }
+  ]
+}

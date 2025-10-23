@@ -1,0 +1,88 @@
+{
+  "apartment_id": "generated_srodmiescie_warsaw_62430fe5",
+  "description": "Discover unparalleled living in this exquisite 2-bedroom apartment, nestled within a historic pre-war building in the vibrant heart of \u015ar\u00f3dmie\u015bcie, Warsaw. This residence perfectly embodies 'Refined Historic Elegance with Contemporary Polish' through its meticulously preserved architectural details and modern comforts. Step into grand spaces featuring high ornate ceilings reaching 3.5 meters, adorned with original decorative moldings, complemented by beautifully restored herringbone oak parquet floors throughout. The spacious layout offers distinct living and dining areas, ideal for both entertaining and tranquil relaxation. An updated kitchen seamlessly blends modern appliances with period charm, offering both functionality and style. Two bright bedrooms, each with tall multi-pane windows, overlook a serene and quiet courtyard, ensuring peaceful repose. The renovated bathroom boasts contemporary fixtures set against classic tiling, providing a luxurious experience. Original solid wooden doors with period hardware and vintage cast-iron radiators further enhance the apartment's unique character. The building itself features an elegant entrance hall with impressive marble stairs. Enjoy the convenience of walking distance to Old Town, Nowy \u015awiat, renowned theaters, charming cafes, and excellent public transport connections, placing the best of Warsaw at your doorstep.",
+  "style_plan": {
+    "aesthetic": "Refined Historic Elegance with Contemporary Polish",
+    "color_palette": {
+      "walls": "Soft off-white (e.g., Farrow & Ball 'Wimborne White' or similar warm neutral) to maximize light and highlight moldings.",
+      "floors": "Restored herringbone oak parquet in a warm, medium-tone finish.",
+      "furniture": "A blend of classic and contemporary pieces in rich woods (walnut, dark oak), polished brass/bronze, and upholstery in muted jewel tones (e.g., deep emerald, sapphire blue, or charcoal grey velvet) and natural linens.",
+      "accents": "Warm metallics (brass, bronze), deep forest green or rich burgundy textiles, and fresh white flowers or subtle greenery."
+    },
+    "lighting": {
+      "type": "Abundant, soft natural light, diffused to avoid harsh shadows, emphasizing height and spaciousness.",
+      "time_of_day_interior": "Mid-morning (10 AM - 1 PM) for bright, consistent natural light in all rooms, showcasing architectural details clearly.",
+      "artificial": "Subtle, warm LED lighting from elegant ceiling fixtures (e.g., Art Deco-inspired or classic chandeliers) and strategically placed floor/table lamps with warm white bulbs (2700K-3000K) to enhance ambiance without overpowering natural light."
+    },
+    "materials": {
+      "kitchen": "White quartz or light marble countertops, integrated modern appliances, classic subway or zellige tile backsplash in a neutral tone, and custom cabinetry that blends modern functionality with period-appropriate design (e.g., shaker or flat-panel with subtle detailing).",
+      "bathroom": "Large format classic marble-effect porcelain or actual Carrara marble tiles, contemporary chrome or polished nickel fixtures, frameless glass shower enclosure, and a modern vanity with clean lines.",
+      "living_dining": "Restored herringbone oak parquet, original wooden doors, vintage cast-iron radiators, tailored sofas in linen or velvet, wood and brass accent tables, and curated art.",
+      "general_fixtures": "Original solid wooden doors with polished brass hardware, restored vintage cast-iron radiators, ornate plaster ceiling moldings."
+    },
+    "architectural_details": [
+      "High ornate ceilings (3.5 meters) with original decorative moldings.",
+      "Restored herringbone oak parquet floors.",
+      "Original solid wooden doors with period hardware.",
+      "Vintage cast-iron radiators.",
+      "Tall, multi-pane windows overlooking quiet courtyard.",
+      "Elegant building entrance hall with marble stairs."
+    ],
+    "photography_style": "Professional architectural and interior design photography. Use of a full-frame camera with a high-quality wide-angle lens (e.g., 24mm or 35mm equivalent for interiors, ensuring minimal distortion) for overall room shots, and a prime lens (e.g., 50mm or 85mm) for detail shots. Composition should be clean, balanced, and symmetrical, emphasizing vertical lines to highlight ceiling height. Focus on natural light, using minimal flash or supplemental lighting. White balance calibrated for warm, inviting tones. Images should convey spaciousness, elegance, and the seamless blend of historic charm with modern comfort. Include detail shots of moldings, parquet, doors, and fixtures.",
+    "exterior_conditions": "Clear, bright day with soft, diffused sunlight (e.g., late morning or early afternoon) to highlight the building's historic facade and elegant entrance hall without harsh shadows. Blue sky with some soft clouds preferred. No rain or overcast conditions."
+  },
+  "num_images": 7,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:20:11.339998+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a spacious living room, embodying 'Refined Historic Elegance with Contemporary Polish'. The view is a wide-angle shot, clean, balanced, and symmetrical, emphasizing vertical lines to highlight the 3.5-meter high ornate ceilings with original decorative plaster moldings. Abundant, soft natural light streams in from tall, multi-pane windows overlooking a quiet courtyard, diffused to avoid harsh shadows, creating a bright and inviting mid-morning (10 AM - 1 PM) atmosphere. Walls are painted in a soft off-white (e.g., Farrow & Ball 'Wimborne White'). The restored herringbone oak parquet floor in a warm, medium-tone finish extends throughout the room. Furniture includes a tailored sofa in deep emerald velvet, complemented by a rich walnut coffee table with polished brass accents. A restored vintage cast-iron radiator is visible. Subtle warm LED lighting from an elegant Art Deco-inspired chandelier provides ambient light. Fresh white flowers are placed on an accent table. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional interior design photograph capturing a cozy corner of the living room, showcasing its 'Refined Historic Elegance with Contemporary Polish' aesthetic. The composition is balanced and clean, with soft natural light from a tall multi-pane window illuminating the space during mid-morning (10 AM - 1 PM). Walls are in a soft off-white, highlighting the ornate plaster ceiling moldings. A comfortable charcoal grey velvet armchair is positioned beside a dark oak side table with polished bronze details, topped with a subtle greenery arrangement. The restored herringbone oak parquet floor gleams in a warm, medium tone. An original solid wooden door with polished brass hardware is partially visible, alongside a restored vintage cast-iron radiator. A warm white bulb (2700K-3000K) from an elegant floor lamp provides a gentle glow, blending with the abundant diffused natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_1.png",
+      "type": "living_room",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the updated kitchen, presented with a wide-angle view, clean, balanced, and symmetrical composition. Abundant, soft natural light from mid-morning (10 AM - 1 PM) fills the room, diffused to avoid harsh shadows, emphasizing height and spaciousness. Walls are in a soft off-white. The kitchen features custom cabinetry that blends modern functionality with period-appropriate shaker design, paired with white quartz countertops and a classic subway tile backsplash in a neutral tone. Integrated modern appliances are seamlessly incorporated. The restored herringbone oak parquet floor provides a warm, medium-tone base. Subtle warm LED lighting from elegant ceiling fixtures enhances the 'Refined Historic Elegance with Contemporary Polish' ambiance. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_2.png",
+      "type": "kitchen",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional interior design photograph focusing on a detail shot of the kitchen countertop and backsplash, embodying 'Refined Historic Elegance with Contemporary Polish'. The composition is clean and focused, highlighting the texture of the white quartz countertop and the classic subway tile backsplash in a neutral tone. Integrated modern appliances are visible in the background. Abundant, soft natural light from mid-morning (10 AM - 1 PM) illuminates the surfaces, diffused to avoid harsh shadows. A subtle greenery accent is placed on the counter. The custom cabinetry in a period-appropriate design is visible. Walls are soft off-white. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_3.png",
+      "type": "kitchen",
+      "camera": "50mm prime lens"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of a bright bedroom, captured with a clean, balanced, and symmetrical wide-angle composition, emphasizing vertical lines to highlight the 3.5-meter high ornate ceilings with original decorative plaster moldings. Abundant, soft natural light streams in from tall, multi-pane windows overlooking a quiet courtyard, diffused to avoid harsh shadows, creating a serene mid-morning (10 AM - 1 PM) atmosphere. Walls are painted in a soft off-white. The restored herringbone oak parquet floor in a warm, medium-tone finish provides a luxurious base. The room is furnished with a blend of classic and contemporary pieces, including a bed with a natural linen headboard, rich dark oak bedside tables with polished brass lamps, and fresh white flowers. An original solid wooden door with polished brass hardware and a vintage cast-iron radiator are visible. Subtle warm LED lighting from an elegant ceiling fixture adds to the 'Refined Historic Elegance with Contemporary Polish' aesthetic. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_4.png",
+      "type": "bedroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the renovated bathroom, utilizing a wide-angle lens for a clean, balanced, and symmetrical composition. Abundant, soft natural light from mid-morning (10 AM - 1 PM) illuminates the space, diffused to avoid harsh shadows. Walls are soft off-white. The bathroom features large format classic marble-effect porcelain tiles on the walls and floor, complemented by contemporary polished nickel fixtures. A frameless glass shower enclosure and a modern vanity with clean lines are prominent. Subtle warm LED lighting from an elegant ceiling fixture enhances the 'Refined Historic Elegance with Contemporary Polish' ambiance. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_5.png",
+      "type": "bathroom",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional architectural photograph capturing the elegant building entrance hall, showcasing its historic charm and 'Refined Historic Elegance with Contemporary Polish' aesthetic. The composition is clean, balanced, and symmetrical, emphasizing the grand scale and architectural details. Abundant, soft, diffused sunlight from a clear, bright late morning (10 AM - 1 PM) illuminates the space, highlighting the elegant marble stairs and ornate plaster ceiling moldings. The walls are in a soft off-white. Original solid wooden doors with polished brass hardware are visible. Subtle warm LED lighting from an elegant Art Deco-inspired chandelier complements the natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_srodmiescie_warsaw_62430fe5_6.png",
+      "type": "special_feature",
+      "camera": "35mm equivalent"
+    }
+  ]
+}

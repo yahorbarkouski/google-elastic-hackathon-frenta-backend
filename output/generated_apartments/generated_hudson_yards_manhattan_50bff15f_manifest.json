@@ -1,0 +1,72 @@
+{
+  "apartment_id": "generated_hudson_yards_manhattan_50bff15f",
+  "description": "Nestled in the vibrant heart of Manhattan's coveted New Hudson Yards development, this exceptional residence offers the ultimate in luxury urban living. Experience unparalleled tranquility within your private sanctuary, mere steps from the city's dynamic energy. This meticulously designed apartment embodies a Contemporary Urban Chic aesthetic, seamlessly integrating refined industrial accents throughout. Enjoy breathtaking city views through expansive floor-to-ceiling windows, framed in sleek black, bathing the spacious interiors in natural light. Soaring 10-foot ceilings enhance the sense of grandeur, while integrated smart home technology panels provide effortless control over your environment. The minimalist elegance is further defined by clean-line baseboards, flush doors, and a striking polished concrete accent wall that grounds the sophisticated industrial motif. The sleek, minimalist full kitchen is a culinary dream, featuring high-end appliances. Retreat to a serene, king-sized bedroom and enjoy the convenience of an in-unit washer and dryer. Residents benefit from an exclusive state-of-the-art fitness center within the building, completing this unparalleled living experience. This apartment perfectly balances urban excitement with a peaceful, luxurious escape above the city's pulse.",
+  "style_plan": {
+    "aesthetic": "Contemporary Urban Chic with Refined Industrial Accents",
+    "color_palette": {
+      "walls": "Crisp White (e.g., Benjamin Moore 'Chantilly Lace' equivalent) as the primary color, with a feature wall of light grey polished concrete or subtle exposed brick in key areas (e.g., living room, bedroom).",
+      "floors": "Wide-plank, light-to-medium toned European White Oak hardwood with a matte finish throughout living areas and bedrooms. Large format light grey porcelain tiles in bathrooms.",
+      "furniture": "Streamlined Mid-Century Modern and contemporary pieces in warm walnut or ash wood, paired with upholstery in muted charcoal grey, soft ivory, deep forest green velvet, or textured linen. Occasional pops of cognac leather.",
+      "accents": "Brushed brass, matte black metal, natural ceramic, and live greenery (e.g., Fiddle Leaf Fig, Snake Plant, Monstera) for organic texture and color. Muted abstract art in cool tones."
+    },
+    "lighting": {
+      "type": "Abundant, soft, diffused natural light from large windows, supplemented by warm (2700K) recessed LED downlights and minimalist decorative fixtures.",
+      "time_of_day": "Late morning to early afternoon (10 AM - 2 PM) for interior shots, ensuring consistent, bright, yet soft natural light, minimizing harsh shadows and maximizing window views.",
+      "artificial": "Strategically used warm (2700K) LED strip lighting under kitchen cabinets, dimmable recessed lights, and sculptural floor/table lamps with brass or matte black finishes to create an inviting ambiance."
+    },
+    "materials": {
+      "kitchen": "Sleek, handle-less white or light grey cabinetry with soft-close mechanisms, polished white quartz countertops with subtle grey veining, integrated stainless steel appliances, and a minimalist white subway tile or large format porcelain backsplash.",
+      "bathroom": "Large format light grey porcelain tiles on floors and shower walls, floating dark wood or minimalist white vanity with integrated sink, polished chrome or matte black fixtures, and a frameless glass shower enclosure.",
+      "living": "Natural wood (walnut/ash), premium leather (cognac or charcoal), textured linen, soft wool rugs, brushed metal (brass/matte black), and clear glass. Concrete or subtle exposed brick for accent walls."
+    },
+    "architectural_details": [
+      "Expansive floor-to-ceiling windows with minimalist black or dark grey frames, offering city views.",
+      "High ceilings (10-12 feet) to enhance spaciousness.",
+      "Integrated smart home technology panels (e.g., for lighting, climate control).",
+      "Clean-line baseboards and door frames, with flush doors where possible.",
+      "Potential for a polished concrete accent wall or an exposed structural column (if present) to reinforce the industrial aesthetic."
+    ],
+    "photography_style": "Professional architectural photography with a clean, bright, and sharp aesthetic. Utilize a wide-angle lens (e.g., 16-24mm equivalent on full-frame) for establishing shots, capturing the full scope of rooms and views. Incorporate tighter, intimate detail shots to highlight textures, finishes, and unique design elements. Shoot at f/8-f/11 for maximum depth of field, ensuring all elements are in sharp focus. Employ bracketing and HDR techniques for optimal dynamic range, ensuring window views are visible without blowing out highlights. Emphasize clean lines, symmetry, and a sense of calm. Minimal, strategic staging focusing on the quality of finishes and the inherent spaciousness.",
+    "exterior_conditions": "Clear, bright day with soft, even sunlight (avoiding harsh midday sun). Late afternoon (golden hour) for exterior shots to capture a warm glow on the building facade and surrounding cityscape, emphasizing the 'hustle and bustle' without harshness. No strong wind, rain, or overcast skies."
+  },
+  "num_images": 5,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-22T14:25:24.395775+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph capturing a spacious living room in a Contemporary Urban Chic apartment, showcasing the Refined Industrial Accents. The walls are painted Crisp White (e.g., Benjamin Moore 'Chantilly Lace' equivalent), complemented by a feature wall of light grey polished concrete. Wide-plank, light-to-medium toned European White Oak hardwood with a matte finish covers the floor. Abundant, soft, diffused natural light streams in from expansive floor-to-ceiling windows with minimalist black frames, offering a vibrant Manhattan city view. The room is staged with a streamlined Mid-Century Modern sofa upholstered in muted charcoal grey, a warm walnut coffee table, and a cognac leather accent chair. Accents include brushed brass decorative elements, a matte black floor lamp, and a Fiddle Leaf Fig plant providing organic texture. High ceilings (10-12 feet) enhance the spaciousness. Warm (2700K) recessed LED downlights are subtly integrated. Shot between 10 AM - 2 PM to ensure consistent, bright, yet soft natural light, minimizing harsh shadows and maximizing the window view. Composition emphasizes clean lines and symmetry using a 16mm wide-angle lens, shot at f/10 for maximum depth of field, ensuring all elements are in sharp focus. Employ bracketing and HDR techniques for optimal dynamic range, ensuring the window view is perfectly visible without blowing out highlights. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph of a sleek, minimalist kitchen, embodying Contemporary Urban Chic with refined industrial touches. The cabinetry is handle-less white with soft-close mechanisms, topped with polished white quartz countertops featuring subtle grey veining. Integrated stainless steel appliances are seamlessly incorporated, and the backsplash is a minimalist white subway tile. The flooring, visible in the foreground or adjacent area, is wide-plank, light-to-medium toned European White Oak hardwood with a matte finish. Abundant, soft, diffused natural light illuminates the space from large windows (implied), supplemented by warm (2700K) LED strip lighting under the cabinets and dimmable recessed lights. High ceilings (10-12 feet) contribute to an open feel. Shot between 10 AM - 2 PM, ensuring consistent, bright, yet soft natural light. Composition uses a 20mm wide-angle lens, shot at f/9 for maximum depth of field, highlighting the quality of finishes and clean lines. Employ bracketing and HDR techniques for optimal dynamic range. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_1.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of a serene king-sized bedroom, reflecting a Contemporary Urban Chic aesthetic. The walls are Crisp White (e.g., Benjamin Moore 'Chantilly Lace' equivalent), with a subtle exposed brick feature wall behind the bed. Wide-plank, light-to-medium toned European White Oak hardwood with a matte finish covers the floor. Expansive floor-to-ceiling windows with minimalist black frames offer a tranquil Manhattan city view. The bed features soft ivory and textured linen bedding, flanked by warm walnut nightstands. A sculptural matte black table lamp and a Snake Plant add subtle accents. High ceilings (10-12 feet) contribute to an airy feel. Abundant, soft, diffused natural light fills the room, supplemented by warm (2700K) recessed LED downlights. Shot between 10 AM - 2 PM, ensuring consistent, bright, yet soft natural light, minimizing harsh shadows. Composition uses a 24mm lens to capture intimacy while showcasing space, shot at f/10 for maximum depth of field. Employ bracketing and HDR techniques for optimal dynamic range, ensuring the window view is visible. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_2.png",
+      "type": "bedroom",
+      "camera": "24mm"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph of a luxurious bathroom, designed with a Contemporary Urban Chic aesthetic. Large format light grey porcelain tiles cover both the floors and shower walls. A floating dark wood vanity with an integrated sink is featured, paired with matte black fixtures. The shower enclosure is frameless glass, enhancing the clean and spacious feel. Crisp White walls (e.g., Benjamin Moore 'Chantilly Lace' equivalent) are visible where not tiled. Abundant, soft, diffused natural light enters from an unseen window (implied), supplemented by warm (2700K) recessed LED downlights. High ceilings (10-12 feet) are present. Shot between 10 AM - 2 PM, ensuring consistent, bright, yet soft natural light. Composition uses an 18mm wide-angle lens, shot at f/11 for maximum depth of field, emphasizing the quality of materials and clean lines. Employ bracketing and HDR techniques for optimal dynamic range. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_3.png",
+      "type": "bathroom",
+      "camera": "18mm wide-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the building's exterior in the popular New Hudson Yards development area of Manhattan. The image captures the modern facade of the apartment building during late afternoon 'golden hour', on a clear, bright day with soft, warm, even sunlight illuminating the structure. The building's contemporary architecture features expansive floor-to-ceiling windows with minimalist black or dark grey frames, reflecting the surrounding cityscape and emphasizing the 'hustle and bustle' without harshness. The composition uses a 24mm lens to capture the building's scale and its integration into the urban environment, shot at f/8 for sharp focus across the facade. Employ bracketing and HDR techniques for optimal dynamic range, ensuring no blown-out highlights or crushed shadows. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_hudson_yards_manhattan_50bff15f_4.png",
+      "type": "building_exterior",
+      "camera": "24mm"
+    }
+  ]
+}

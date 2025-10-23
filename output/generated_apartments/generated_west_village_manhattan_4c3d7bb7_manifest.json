@@ -1,0 +1,80 @@
+{
+  "apartment_id": "generated_west_village_manhattan_4c3d7bb7",
+  "description": "Tucked away on a quiet cobbled street in the heart of the West Village, this exquisite one-bedroom former carriage house presents a captivating blend of understated bohemian luxury and refined rustic charm. Original timber beams, prominently exposed, soar above the unique sunken living area, creating an immediate sense of grandeur and history. A sleek built-in ethanol fireplace adds a touch of modern comfort and warmth, perfect for cozy evenings. The true urban oasis awaits as a retractable glass wall seamlessly opens to a private, surprisingly spacious patio garden, inviting natural light and a serene outdoor experience into your home. The kitchen embodies refined rustic elegance with its muted palette, high-end appliances, and bespoke finishes, perfect for culinary endeavors. The tranquil bedroom offers a serene sanctuary, while the luxurious bathroom combines rustic elements with contemporary fixtures for a spa-like retreat. The preserved original cobbled street facade enhances the property's unique character and West Village allure, providing a discreet and charming entrance to this unparalleled urban sanctuary.",
+  "style_plan": {
+    "aesthetic": "Understated Bohemian Luxury with Refined Rustic Charm",
+    "color_palette": {
+      "walls": "Warm off-white (e.g., Farrow & Ball 'Wimborne White' or Benjamin Moore 'White Dove') to maximize light, with exposed original brick as an accent wall in the living area.",
+      "floors": "Wide-plank, light-to-medium tone natural oak hardwood throughout, emphasizing warmth and continuity.",
+      "furniture": "A mix of natural wood tones (walnut, light oak), soft muted linens (oatmeal, sage green, charcoal), supple tan leather, and woven textures (rattan, jute).",
+      "accents": "Earthy tones (terracotta, deep olive, muted mustard), brushed brass or antique copper metals, abundant natural greenery (potted plants, trailing vines)."
+    },
+    "lighting": {
+      "type": "Abundant soft, natural light, emphasizing the indoor-outdoor connection through the retractable glass wall. Avoid harsh shadows.",
+      "time_of_day": "Late morning to early afternoon (10 AM - 2 PM) for bright, even light, or late afternoon golden hour (4 PM - 6 PM) to highlight warmth and coziness, depending on room orientation.",
+      "artificial": "Subtle, warm LED recessed lighting (2700K) for ambient glow, complemented by strategically placed vintage-inspired or minimalist brass/ceramic task lighting."
+    },
+    "materials": {
+      "kitchen": "Muted sage green or off-white Shaker-style cabinetry, honed Carrara marble or light quartz countertops, unlacquered brass hardware, zellige tile backsplash, integrated high-end appliances.",
+      "bathroom": "Limewash walls or Tadelakt plaster finish, natural stone (e.g., Travertine or honed marble) vanity with integrated sink, antique brass or matte black fixtures, frameless glass shower enclosure, warm wood accents.",
+      "living": "Exposed original timber beams, wide-plank oak flooring, plaster walls, built-in ethanol fireplace with a minimalist stone or concrete surround, natural linen upholstery, tan leather, woven rugs (jute/sisal), and ceramic decorative elements."
+    },
+    "architectural_details": [
+      "Exposed original timber beams (prominently featured)",
+      "Sunken living area (highlight depth and unique layout)",
+      "Built-in ethanol fireplace (show sleek design and functionality)",
+      "Retractable glass wall (emphasize indoor-outdoor flow and natural light)",
+      "Private, surprisingly spacious patio garden (capture lushness and serenity)",
+      "Original cobbled street facade (for exterior context and charm)"
+    ],
+    "photography_style": "A blend of wide-angle architectural shots (to capture scale and unique features like sunken living and beams), intimate detail shots (textures, materials, fireplace), and subtly staged lifestyle vignettes (e.g., a book by the fireplace, coffee on the patio). Use a tripod for sharp, level compositions. Prioritize natural light; minimal flash. Focus on conveying warmth, tranquility, and understated luxury. Lenses: 16-35mm for wide, 50mm for details.",
+    "exterior_conditions": "Clear to partly cloudy day with soft, diffused sunlight to highlight the cobbled street texture and the lushness of the patio garden without harsh shadows. Late afternoon light for a warm, inviting glow on the facade and garden."
+  },
+  "num_images": 6,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-22T18:35:08.806842+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph capturing the sunken living area of the carriage house. The wide-angle shot emphasizes the prominent exposed original timber beams overhead and the dramatic indoor-outdoor connection provided by the fully retracted glass wall, leading to the lush private patio garden. Walls are warm off-white (Farrow & Ball 'Wimborne White' equivalent) plaster, with an exposed original brick accent wall. Wide-plank light-to-medium tone natural oak hardwood floors extend throughout. The sunken area features a supple tan leather sofa and a natural linen (oatmeal) armchair, anchored by a woven jute rug. Abundant soft, natural light from the late afternoon golden hour (4 PM - 6 PM) bathes the space, avoiding harsh shadows. Subtle warm LED recessed lighting (2700K) provides an ambient glow. Earthy tone accents, such as a deep olive throw and terracotta ceramic decorative elements with natural greenery, are strategically placed. The composition is sharp, level, and conveys warmth, tranquility, and understated bohemian luxury.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph, a close-up, subtly staged vignette in the sunken living area. The built-in ethanol fireplace, with its minimalist stone or concrete surround, is the focal point, casting a warm, inviting glow. Adjacent to the fireplace, a section of the supple tan leather sofa is visible, draped with a soft muted oatmeal linen throw. A natural wood (walnut) side table holds a vintage-inspired brass task lamp and a book, suggesting a cozy, lived-in atmosphere. The wide-plank light-to-medium tone natural oak hardwood floor and a portion of the warm off-white plaster wall are visible in the background. Abundant soft, natural light from the late afternoon golden hour (4 PM - 6 PM) illuminates the scene, avoiding harsh shadows. A potted natural greenery plant adds a touch of life. The 50mm lens ensures sharp focus on the textures and details, conveying understated luxury and refined rustic coziness.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_1.png",
+      "type": "living_room",
+      "camera": "50mm"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of the kitchen, showcasing its refined rustic charm. Muted sage green Shaker-style cabinetry lines the walls, topped with honed Carrara marble countertops. An unlacquered brass gooseneck faucet gleams above an integrated sink, set against a zellige tile backsplash. Integrated high-end appliances are subtly incorporated. The wide-plank light-to-medium tone natural oak hardwood floors reflect the abundant soft, natural light streaming in from the late afternoon golden hour (4 PM - 6 PM), avoiding harsh shadows. A minimalist brass pendant light hangs over a small light oak island, which features subtle ceramic decorative elements and a potted natural greenery plant. The composition is sharp, level, and conveys a blend of refined rustic charm and understated luxury.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_2.png",
+      "type": "kitchen",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph of the bedroom, capturing its serene and tranquil atmosphere. Walls are painted a warm off-white (Benjamin Moore 'White Dove' equivalent). Wide-plank light-to-medium tone natural oak hardwood floors extend throughout. The bed features a natural wood (light oak) headboard and is dressed in soft muted oatmeal linen bedding, with a charcoal linen throw draped at the foot. On a natural wood (walnut) nightstand, a minimalist ceramic task lamp with a warm glow (2700K LED) and a small potted natural greenery plant are placed. Abundant soft, natural light streams in from a window, characteristic of the late afternoon golden hour (4 PM - 6 PM), avoiding harsh shadows. The composition is sharp, level, emphasizing warmth, tranquility, and understated bohemian luxury.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_3.png",
+      "type": "bedroom",
+      "camera": "28mm wide-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the bathroom, highlighting its luxurious yet rustic aesthetic. Limewash walls with a subtle, textured finish are prominently featured. A natural stone (Travertine) vanity with an integrated sink is the focal point, complemented by antique brass fixtures. A large frameless glass shower enclosure is visible, with a warm wood accent stool inside. The wide-plank light-to-medium tone natural oak hardwood floors are visible, leading into the space. Abundant soft, natural light from the late afternoon golden hour (4 PM - 6 PM) illuminates the room, avoiding harsh shadows. A small potted natural greenery plant adds a fresh touch. The composition is sharp, level, conveying refined rustic charm and tranquility.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_4.png",
+      "type": "bathroom",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the property's exterior, captured from the original cobbled street facade. The late afternoon golden hour (4 PM - 6 PM) light casts a warm, inviting glow on the facade, highlighting the historic texture of the cobblestones. The retractable glass wall is partially open, offering a tantalizing glimpse into the lush, private, and surprisingly spacious patio garden beyond, filled with abundant natural greenery. The soft, diffused sunlight avoids harsh shadows, emphasizing the charm of the street and the serenity of the hidden urban oasis. The composition is sharp, level, focusing on the architectural details and the verdant garden, conveying understated luxury and the unique indoor-outdoor connection.",
+      "file_path": "output/generated_apartments/generated_west_village_manhattan_4c3d7bb7_5.png",
+      "type": "exterior",
+      "camera": "35mm"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "apartment_id": "soho_penthouse",
+  "description": "Luxury penthouse loft in SoHo with floor-to-ceiling windows, marble kitchen, and rooftop terrace",
+  "style_plan": {
+    "aesthetic": "Refined Industrial Chic with Modern Luxury",
+    "color_palette": {
+      "walls": "Crisp White, complemented by strategically placed Exposed Red Brick accent walls for texture and warmth.",
+      "floors": "Wide-plank Light Oak Hardwood throughout, with polished concrete in utility areas for an industrial edge.",
+      "furniture": "Curated collection of Mid-Century Modern and Contemporary pieces in rich Walnut and polished Brass. Upholstery in sophisticated Charcoal Gray, Deep Navy, and Creamy Off-White.",
+      "accents": "Subtle pops of deep Emerald Green (velvet cushions, healthy plants), warm Copper (decorative objects, select light fixtures), and natural textures like woven baskets and ceramic art."
+    },
+    "lighting": {
+      "type": "Abundant, soft natural light from floor-to-ceiling windows, enhanced by strategic artificial lighting.",
+      "time_of_day": "Late morning to early afternoon (10 AM - 2 PM) for bright, even natural light in interiors. Golden hour (1 hour before sunset) for rooftop terrace and specific warm interior vignettes.",
+      "artificial": "Dimmable warm LED recessed lighting (2700K-3000K), elegant brass and black metal pendant fixtures, and strategically placed task lighting to highlight features."
+    },
+    "materials": {
+      "kitchen": "Calacatta Gold Marble countertops and full-height backsplash, custom dark wood cabinetry (e.g., Wenge or Walnut), integrated high-end stainless steel appliances, and matte black or brushed brass hardware.",
+      "bathroom": "Large format Carrara Marble tiles on walls and floor, custom floating vanity in a dark wood finish, frameless glass shower enclosure, and brushed nickel or matte black fixtures.",
+      "living": "Rich full-grain Leather (sofa), textured Linen (curtains, cushions), polished Brass (lighting, accents), dark Walnut and Oak wood (tables, shelving), and exposed steel elements (structural beams, window frames)."
+    },
+    "architectural_details": [
+      "Soaring 12-foot ceilings throughout the main living areas.",
+      "Expansive floor-to-ceiling industrial-style windows with sleek black frames.",
+      "Original exposed red brick walls in select areas, showcasing the loft's heritage.",
+      "Polished concrete structural columns, adding a raw, urban element.",
+      "Custom built-in shelving and millwork in dark wood, providing both storage and aesthetic appeal."
+    ],
+    "photography_style": "Professional architectural and editorial photography, emphasizing scale, luxury, and livability. Utilize wide-angle lenses (e.g., 16-24mm full-frame equivalent) for expansive views, but also medium telephoto (e.g., 50-85mm) for intimate details and vignettes. Prioritize natural light, using artificial light to balance and enhance. Shoot at f/8-f/11 for maximum depth of field and sharpness. Minimal staging, focusing on clean lines and sophisticated arrangements.",
+    "exterior_conditions": "Clear, sunny day with a deep blue sky. Late afternoon (golden hour) for the rooftop terrace to capture warm light, city skyline views, and a vibrant atmosphere. For building exterior, a bright, clear day with soft, even light to showcase architectural details."
+  },
+  "num_images": 2,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-22T13:04:31.803334",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of a luxury penthouse loft living room in SoHo, captured with a 16mm wide-angle lens at f/10 for maximum depth of field and sharpness. The scene is bathed in abundant, soft natural light streaming from expansive floor-to-ceiling industrial-style windows with sleek black frames, during late morning (10 AM - 2 PM). Dimmable warm LED recessed lighting (2700K-3000K) and elegant brass and black metal pendant fixtures subtly enhance the ambiance. Soaring 12-foot ceilings create an impressive sense of scale. The walls are crisp white, with a prominent original exposed red brick accent wall showcasing the loft's heritage. Wide-plank Light Oak Hardwood floors extend throughout, with a polished concrete structural column adding a raw, urban element. The furniture is a curated collection of Mid-Century Modern and Contemporary pieces: a rich full-grain Leather sofa in sophisticated Charcoal Gray, dark Walnut and Oak wood coffee tables, and custom built-in dark wood shelving. Upholstery on accent chairs is Creamy Off-White. Accents include polished Brass decorative objects and select light fixtures, deep Emerald Green velvet cushions, and healthy, vibrant plants, complemented by natural textures like woven baskets. Minimal staging, focusing on clean lines and sophisticated arrangements, emphasizing scale, luxury, and livability. High resolution, sharp focus, professional quality, embodying Refined Industrial Chic with Modern Luxury.",
+      "file_path": "output/generated_apartments/soho_penthouse_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph of the luxury penthouse loft's rooftop terrace in SoHo, captured with a 24mm wide-angle lens at f/9 for maximum depth of field and sharpness. The scene is set during golden hour (1 hour before sunset) on a clear, sunny day with a deep blue sky, casting warm, rich light across the space and illuminating the vibrant city skyline views. The terrace features dark wood decking, complementing the interior's rich Walnut and Oak. Contemporary outdoor lounge furniture with sophisticated Charcoal Gray upholstery and sleek black metal frames is arranged for comfort and style. Accents include warm Copper decorative objects and planters, and healthy deep Emerald Green plants. Subtle warm LED strip lighting is integrated into the planters, enhancing the evening atmosphere. Sleek black metal railings define the perimeter, offering unobstructed views. The composition emphasizes the luxurious outdoor living experience and the stunning urban backdrop, embodying Refined Industrial Chic with Modern Luxury. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/soho_penthouse_1.png",
+      "type": "special_feature",
+      "camera": "24mm wide-angle"
+    }
+  ]
+}

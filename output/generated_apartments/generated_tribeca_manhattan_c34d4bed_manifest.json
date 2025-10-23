@@ -1,0 +1,98 @@
+{
+  "apartment_id": "generated_tribeca_manhattan_c34d4bed",
+  "description": "Discover unparalleled urban living in this refined 2-bedroom apartment, perfectly situated in the highly coveted Tribeca neighborhood. This residence epitomizes Minimalist Contemporary Urban Chic, boasting an open-concept layout accentuated by soaring 10-foot ceilings, an abundance of natural light through oversized windows, and elegant wide-plank white oak floors throughout. The seamless kitchen is a chef's dream, featuring custom matte white cabinetry, pristine Caesarstone counters, and a suite of premium Bosch appliances. The serene master suite offers a generous walk-in closet and a spa-like en-suite bathroom, complete with luxurious marble tile and a floating double vanity. A versatile second bedroom is ideal for guests or a dedicated home office, complemented by a modern second bathroom showcasing a frameless glass shower and a sleek wall-hung toilet. Convenience is key with an in-unit Bosch washer/dryer. This full-service building enhances your lifestyle with a live-in super, secure package room, and a common roof deck, all just steps from Hudson River Park and the 1/2/3 subway lines.",
+  "style_plan": {
+    "aesthetic": "Minimalist Contemporary Urban Chic",
+    "color_palette": {
+      "walls": "Crisp White (matte finish)",
+      "floors": "Wide-plank White Oak (natural finish)",
+      "furniture": "Neutral tones (light gray, charcoal, cream), light natural woods (oak, ash), subtle metallic (brushed nickel, matte black)",
+      "accents": "Soft greens (minimalist plants), muted blues/grays, natural textures (linen, wool), clear glass"
+    },
+    "lighting": {
+      "type": "Abundant natural light from oversized windows, complemented by soft, warm artificial light",
+      "time_of_day": "Late morning to early afternoon (10 AM - 2 PM) for bright, even natural light without harsh shadows",
+      "artificial": "Warm LED recessed lighting (3000K), minimalist task lighting, and subtle accent fixtures in matte black or brushed nickel"
+    },
+    "materials": {
+      "kitchen": "Custom matte white cabinetry, Caesarstone (light gray or white quartz) counters, integrated Bosch appliances (stainless steel/panel-ready), wide-plank white oak floors",
+      "bathroom": "White marble tile (walls/floors), floating double vanity (white or light wood), frameless glass shower enclosure, polished chrome or matte black fixtures",
+      "living": "Wide-plank white oak floors, smooth plaster/painted walls, natural fabrics (linen, cotton, wool), light woods (oak, ash), subtle metals (brushed nickel, matte black), glass"
+    },
+    "architectural_details": [
+      "10-foot ceilings",
+      "Oversized windows",
+      "Wide-plank white oak floors",
+      "Open-concept layout",
+      "Seamless custom matte white cabinetry",
+      "Caesarstone counters",
+      "Marble tile in bathrooms",
+      "Floating double vanity",
+      "Frameless glass shower",
+      "Wall-hung toilet"
+    ],
+    "photography_style": "Professional architectural and interior design photography. Emphasis on clean lines, spaciousness, and the interplay of natural light. Use of wide-angle lenses (e.g., 16-24mm full-frame equivalent) to capture open-concept and ceiling height, ensuring minimal distortion. Aperture f/8-f/11 for sharpness throughout. Tripod-mounted, bracketing for dynamic range, natural light prioritized with minimal supplemental lighting to maintain authenticity.",
+    "exterior_conditions": "Clear sky with soft, bright sunlight (early to mid-afternoon) to showcase building facade, common roof deck, and surrounding Tribeca/Hudson River Park context. Avoid harsh shadows or overcast skies."
+  },
+  "num_images": 8,
+  "aspect_ratio": "16:9",
+  "generated_at": "2025-10-23T12:16:39.385644+00:00",
+  "images": [
+    {
+      "index": 0,
+      "prompt": "A professional architectural photograph of an open-concept living room, designed in a Minimalist Contemporary Urban Chic aesthetic. The scene is bathed in abundant natural light streaming from oversized windows, captured during late morning to early afternoon (10 AM - 2 PM), complemented by soft, warm artificial light from 3000K LED recessed lighting. The crisp white matte walls and wide-plank natural finish white oak floors create a bright, spacious feel, accentuated by 10-foot ceilings. Furniture includes a sleek light gray sofa and a minimalist light natural wood coffee table, with subtle accents of a soft green plant and a muted blue throw. The composition, taken from a wide-angle perspective, emphasizes clean lines and the interplay of natural light, showcasing the spaciousness. The image is captured with a 16mm wide-angle lens, tripod-mounted, at f/9 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_0.png",
+      "type": "living_room",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 1,
+      "prompt": "A professional architectural photograph capturing the elegant flow from the living area to a subtle dining space, embodying a Minimalist Contemporary Urban Chic aesthetic. Abundant natural light from oversized windows illuminates the scene during late morning to early afternoon (10 AM - 2 PM), enhanced by soft, warm artificial light from 3000K LED recessed lighting. Crisp white matte walls and wide-plank natural finish white oak floors extend seamlessly, highlighting the 10-foot ceilings. A light natural wood dining table is paired with cream-colored chairs, and a piece of muted blue abstract art adorns a wall. The composition uses a slightly tighter wide-angle to show the functional zoning while maintaining an open feel, emphasizing the clean lines and spaciousness. The image is captured with a 20mm wide-angle lens, tripod-mounted, at f/9 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_1.png",
+      "type": "living_room",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 2,
+      "prompt": "A professional architectural photograph of a modern kitchen, showcasing a Minimalist Contemporary Urban Chic aesthetic. The space is flooded with abundant natural light from an adjacent oversized window, captured during late morning to early afternoon (10 AM - 2 PM), complemented by soft, warm artificial light from 3000K LED recessed lighting and minimalist task lighting. The kitchen features seamless custom matte white cabinetry, light gray Caesarstone counters, and integrated stainless steel/panel-ready Bosch appliances. Wide-plank natural finish white oak floors extend throughout. The composition highlights the clean lines, generous counter space, and the high 10-foot ceilings, emphasizing functionality and sophisticated simplicity. The image is captured with a 16mm wide-angle lens, tripod-mounted, at f/9 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_2.png",
+      "type": "kitchen",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 3,
+      "prompt": "A professional architectural photograph focusing on a detail view of the kitchen island and counter area, reflecting a Minimalist Contemporary Urban Chic aesthetic. Abundant natural light from oversized windows illuminates the scene during late morning to early afternoon (10 AM - 2 PM), complemented by soft, warm artificial light from 3000K LED recessed lighting and subtle accent fixtures in matte black. The light gray Caesarstone counter, featuring an integrated sink with a matte black faucet, is the focal point, alongside the seamless custom matte white cabinetry and a panel-ready Bosch dishwasher. A clear glass vase with a minimalist soft green plant serves as a subtle accent. The composition emphasizes the high-quality materials and meticulous design, with sharp focus on textures and finishes. The image is captured with a 20mm wide-angle lens, tripod-mounted, at f/9 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_3.png",
+      "type": "kitchen",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 4,
+      "prompt": "A professional architectural photograph of the master bedroom, embodying a Minimalist Contemporary Urban Chic aesthetic. The room is filled with abundant natural light from an oversized window, captured during late morning to early afternoon (10 AM - 2 PM), complemented by soft, warm artificial light from 3000K LED recessed lighting and minimalist task lighting. Crisp white matte walls and wide-plank natural finish white oak floors create a serene environment, with 10-foot ceilings adding to the spaciousness. The bed is dressed in luxurious cream linen bedding, flanked by light natural wood nightstands with subtle brushed nickel lamps. The composition highlights the calm ambiance and sophisticated simplicity, with a view towards the city through the large window. The image is captured with a 20mm wide-angle lens, tripod-mounted, at f/9 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_4.png",
+      "type": "bedroom",
+      "camera": "20mm wide-angle"
+    },
+    {
+      "index": 5,
+      "prompt": "A professional architectural photograph of the master bathroom, designed in a Minimalist Contemporary Urban Chic aesthetic. Abundant natural light, complemented by soft, warm artificial light from 3000K LED recessed lighting, illuminates the space during late morning to early afternoon (10 AM - 2 PM). The walls and floors are clad in elegant white marble tile, creating a luxurious and clean feel. A floating double vanity in white or light wood is topped with a pristine counter, featuring polished chrome or matte black fixtures. A frameless glass shower enclosure and a wall-hung toilet complete the modern design. The composition emphasizes the clean lines, high-end materials, and spaciousness, with sharp focus on the reflective surfaces. The image is captured with a 16mm wide-angle lens, tripod-mounted, at f/9 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_5.png",
+      "type": "bathroom",
+      "camera": "16mm wide-angle"
+    },
+    {
+      "index": 6,
+      "prompt": "A professional architectural photograph of the building's exterior facade, showcasing its Minimalist Contemporary Urban Chic presence in Tribeca. The image is captured under a clear sky with soft, bright sunlight during early to mid-afternoon, ensuring no harsh shadows and highlighting the building's design. The composition focuses on the clean lines of the facade, emphasizing the oversized windows that hint at the luxurious interiors. The surrounding urban context of Tribeca is subtly included, grounding the building in its coveted neighborhood. The image is captured with a 24mm wide-angle lens, tripod-mounted, at f/10 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_6.png",
+      "type": "exterior",
+      "camera": "24mm wide-angle"
+    },
+    {
+      "index": 7,
+      "prompt": "A professional architectural photograph of the common roof deck, a special feature of the building, embodying a Minimalist Contemporary Urban Chic aesthetic. The scene is bathed in soft, bright sunlight under a clear sky, captured during early to mid-afternoon, showcasing the inviting outdoor space. Modern outdoor furniture in charcoal and light gray tones is arranged for relaxation, complemented by minimalist soft green landscaping. The composition captures the expansive views of Hudson River Park and the iconic Tribeca skyline, emphasizing the luxurious amenity and its prime location. The image is captured with a 20mm wide-angle lens, tripod-mounted, at f/10 for exceptional sharpness throughout, with bracketing for optimal dynamic range, prioritizing natural light. High resolution, sharp focus, professional quality.",
+      "file_path": "output/generated_apartments/generated_tribeca_manhattan_c34d4bed_7.png",
+      "type": "special_feature",
+      "camera": "20mm wide-angle"
+    }
+  ]
+}
