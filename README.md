@@ -2,6 +2,9 @@
 
 Semantic search for apartments using hierarchical domain search across neighborhoods, apartments, and rooms.
 
+**Frontend**: [google-elastic-hackathon-frenta-web](https://github.com/yahorbarkouski/google-elastic-hackathon-frenta-web)
+
+
 ## How it works
 
 1. **Claim extraction**: Gemini breaks listings into atomic facts with domain labels (neighborhood/apartment/room)
