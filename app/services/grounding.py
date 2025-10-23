@@ -540,6 +540,73 @@ Example format (DO NOT include "Here is" or similar phrases):
 "Perfectly situated just minutes from Joshua Tree National Park, this home provides easy access to world-class hiking, rock climbing, and stargazing. Guests can explore the thriving local art scene, shop eclectic boutiques in Joshua Tree Village, or savor craft food and cocktails at nearby restaurants."
 
 CRITICAL: Use the Google Maps tool first, then write the description using real places found. Return ONLY the location description:"""
+    
+    async def generate_grounded_content(
+        self, 
+        prompt: str, 
+        latitude: float, 
+        longitude: float, 
+        enable_widget: bool = True
+    ) -> dict:
+        """Generate Maps-grounded content for frontend use."""
+        from google import genai
+        from google.genai import types
+        
+        try:
+            client = genai.Client(api_key=settings.google_api_key)
+            
+            response = await asyncio.to_thread(
+                client.models.generate_content,
+                model='gemini-2.5-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    tools=[types.Tool(google_maps=types.GoogleMaps(enable_widget=enable_widget))],
+                    tool_config=types.ToolConfig(
+                        retrieval_config=types.RetrievalConfig(
+                            lat_lng=types.LatLng(
+                                latitude=latitude,
+                                longitude=longitude
+                            )
+                        )
+                    )
+                )
+            )
+            
+            text = response.text if hasattr(response, 'text') else ""
+            
+            widget_token = None
+            grounding_chunks = []
+            
+            if response.candidates and len(response.candidates) > 0:
+                metadata = response.candidates[0].grounding_metadata
+                
+                if metadata:
+                    if hasattr(metadata, 'google_maps_widget_context_token') and metadata.google_maps_widget_context_token:
+                        widget_token = metadata.google_maps_widget_context_token
+                    
+                    if hasattr(metadata, 'grounding_chunks') and metadata.grounding_chunks:
+                        for chunk in metadata.grounding_chunks:
+                            if hasattr(chunk, 'maps') and chunk.maps:
+                                grounding_chunks.append({
+                                    "maps": {
+                                        "uri": chunk.maps.uri if hasattr(chunk.maps, 'uri') else None,
+                                        "title": chunk.maps.title if hasattr(chunk.maps, 'title') else None,
+                                        "placeId": chunk.maps.place_id if hasattr(chunk.maps, 'place_id') else None
+                                    }
+                                })
+            
+            return {
+                "text": text,
+                "widgetContextToken": widget_token,
+                "groundingMetadata": {
+                    "groundingChunks": grounding_chunks,
+                    "googleMapsWidgetContextToken": widget_token
+                } if grounding_chunks or widget_token else None
+            }
+            
+        except Exception as e:
+            logger.error(f"Error generating grounded content: {e}")
+            raise
 
 
 grounding_service = GroundingService()

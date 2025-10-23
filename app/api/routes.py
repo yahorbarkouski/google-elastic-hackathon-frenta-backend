@@ -9,6 +9,7 @@ from pydantic import BaseModel
 from app.indexer.pipeline import indexer_pipeline
 from app.search.pipeline import search_pipeline
 from app.services.crud import crud_service
+from app.services.grounding import grounding_service
 from app.services.preview_storage import preview_storage
 from app.services.synthetic_generator import synthetic_generator
 
@@ -38,6 +39,13 @@ class SearchRequest(BaseModel):
     user_location: Optional[dict] = None
     verify_claims: bool = True
     double_check_matches: bool = False
+
+
+class MapsGroundingRequest(BaseModel):
+    prompt: str
+    latitude: float
+    longitude: float
+    enable_widget: bool = True
 
 
 @router.post("/api/setup")
@@ -383,5 +391,22 @@ async def cancel_preview(preview_id: str):
         
     except Exception as e:
         logger.error(f"Error cancelling preview: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.post("/api/maps-grounding")
+async def generate_maps_grounded_content(request: MapsGroundingRequest):
+    """Generate Maps-grounded content using Gemini API."""
+    try:
+        result = await grounding_service.generate_grounded_content(
+            prompt=request.prompt,
+            latitude=request.latitude,
+            longitude=request.longitude,
+            enable_widget=request.enable_widget
+        )
+        return result
+        
+    except Exception as e:
+        logger.error(f"Error generating Maps-grounded content: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
