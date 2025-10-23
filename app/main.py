@@ -1,8 +1,10 @@
 import logging
 import sys
+import re
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.middleware.base import BaseHTTPMiddleware
 
 from app.api.routes import router
 
@@ -19,13 +21,42 @@ app = FastAPI(
     version="0.2.0",
 )
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+def is_allowed_origin(origin: str) -> bool:
+    if not origin:
+        return False
+    if origin.startswith("http://localhost") or origin.startswith("http://127.0.0.1"):
+        return True
+    if "frenta" in origin and origin.endswith(".vercel.app"):
+        return True
+    return False
+
+class SmartCORSMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request, call_next):
+        origin = request.headers.get("origin")
+        
+        if request.method == "OPTIONS" and origin and is_allowed_origin(origin):
+            from starlette.responses import Response
+            return Response(
+                status_code=200,
+                headers={
+                    "Access-Control-Allow-Origin": origin,
+                    "Access-Control-Allow-Credentials": "true",
+                    "Access-Control-Allow-Methods": "*",
+                    "Access-Control-Allow-Headers": "*",
+                }
+            )
+        
+        response = await call_next(request)
+        
+        if origin and is_allowed_origin(origin):
+            response.headers["Access-Control-Allow-Origin"] = origin
+            response.headers["Access-Control-Allow-Credentials"] = "true"
+            response.headers["Access-Control-Allow-Methods"] = "*"
+            response.headers["Access-Control-Allow-Headers"] = "*"
+        
+        return response
+
+app.add_middleware(SmartCORSMiddleware)
 
 app.include_router(router)
 
