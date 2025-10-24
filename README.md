@@ -71,10 +71,3 @@ make test-granular         # Claim extraction across 12 types
 make test-embeddings       # Semantic similarity quality
 make test-all              # Everything
 ```
-
-## Architecture docs
-
-- `CLAIM_BASED_SEARCH_ANALYSIS.md` - Complete architecture breakdown
-- `FRONTEND_INTEGRATION_GUIDE.md` - API reference for frontend
-- `GOOGLE_MAPS_GROUNDING.md` - Location verification details
-
